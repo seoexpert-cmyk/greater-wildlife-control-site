@@ -1,0 +1,16 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "greater-wildlife-control-site",
+  "main": "./worker/index.js",
+  "compatibility_date": "2026-10-13",
+  // Builds the static site before every deploy, whatever build command the
+  // Cloudflare dashboard has set.
+  "build": { "command": "npm run build" },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/api/*"]
+  },
+  "observability": { "enabled": true }
+}

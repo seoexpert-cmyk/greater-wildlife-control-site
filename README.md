@@ -21,7 +21,8 @@ npm run build    # writes the site to dist/
 | Blog posts | `src/content/blog/<slug>.md` |
 | Page templates | `src/pages/` (`[province]/[city]/[service].astro` is the city × service page) |
 | Shared React components from Horizons | `src/components/`, `src/views/` |
-| Lead form endpoint | `functions/api/lead.js` (Cloudflare Pages Function) |
+| Lead form endpoint | `functions/api/lead.js`, called by the Worker in `worker/index.js` |
+| Cloudflare Workers config | `wrangler.jsonc` |
 
 ## Adding an article
 
@@ -54,14 +55,14 @@ The forms POST to `/api/lead`. The function:
 
 The JSON fields are the same ones the old PocketBase hook sent: `id`, `name`, `phone`, `email`, `postal_code`, `animal_issue`, `source_url`, `assigned_franchisee_email`, `status` and `created`.
 
-Set the webhook URL as the `MAKE_WEBHOOK_URL` environment variable in Cloudflare Pages. It isn't stored in this repository.
+Set the webhook URL as the `MAKE_WEBHOOK_URL` variable in Cloudflare (Worker > Settings > Variables and Secrets). It isn't stored in this repository.
 
-The old site also emailed every lead to service@greaterwildlifecontrol.ca. Add an email step to the Make scenario to keep that alert.
+In Make, the "GREATER WILDLIFE CONTROL" scenario passes leads to LEAD ROUTER, which sends the Pushover alert and the email. "GREATER WILDLIFE CONTROL - SEND TEST LEAD" sends a test lead on demand.
 
-## Deploying (Cloudflare Pages)
+## Deploying (Cloudflare Workers)
 
-- **Framework preset:** Astro.
-- **Build command:** `npm run build`.
-- **Output directory:** `dist`.
-- **Environment variables:** `MAKE_WEBHOOK_URL`, and `NODE_VERSION=22`.
+The site deploys as a Cloudflare Worker connected to this repository. Every push to `main` rebuilds and redeploys it.
+
+- `wrangler.jsonc` builds the site (`npm run build`) and serves `dist/` as static assets. Only `/api/*` runs Worker code.
+- **Variables:** `MAKE_WEBHOOK_URL`. Set `NODE_VERSION=22` as a build variable if the build uses an older Node.
 - **After DNS points to Cloudflare:** submit `https://greaterwildlifecontrol.ca/sitemap-index.xml` in Google Search Console. `/sitemap.xml` redirects there.
