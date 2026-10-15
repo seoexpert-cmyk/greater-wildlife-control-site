@@ -1,0 +1,47 @@
+{
+ "AboutPage": {
+  "route": "about",
+  "title": "About Us | Greater Wildlife Control",
+  "description": "Greater Wildlife Control is a Canadian franchise network built on humane wildlife removal, guaranteed results, and locally owned technicians in every market we serve."
+ },
+ "AccessibilityPage": {
+  "route": "accessibility",
+  "title": "Accessibility Statement | Greater Wildlife Control",
+  "description": "Greater Wildlife Control is committed to making our website accessible to everyone, including people with disabilities."
+ },
+ "CommercialPage": {
+  "route": "services/commercial",
+  "title": "Commercial Wildlife Control | Greater Wildlife Control",
+  "description": "Discreet, code-compliant wildlife control for property managers, warehouses, and commercial facilities across Canada. Scalable service, guaranteed results."
+ },
+ "ContactPage": {
+  "route": "contact",
+  "title": "Contact Us | Greater Wildlife Control",
+  "description": "Contact Greater Wildlife Control by phone, email, or our online form. Fast, guaranteed appointments with local wildlife control technicians across Canada."
+ },
+ "PrivacyPolicyPage": {
+  "route": "privacy",
+  "title": "Privacy Policy | Greater Wildlife Control",
+  "description": "Read Greater Wildlife Control's privacy policy covering how we collect, use, and protect the personal information you share with us."
+ },
+ "TermsPage": {
+  "route": "terms",
+  "title": "Terms of Service | Greater Wildlife Control",
+  "description": "Review the terms of service that govern your use of the Greater Wildlife Control website and our wildlife removal and pest control services."
+ },
+ "ResidentialPage": {
+  "route": "services/residential",
+  "title": "Residential Wildlife Control | Greater Wildlife Control",
+  "description": "Protect your home and family with Greater Wildlife Control's residential wildlife removal, attic restoration, and entry-point repair services across Canada."
+ },
+ "WildlifeControlPage": {
+  "route": "services/wildlife-control",
+  "title": "Wildlife Control Services | Greater Wildlife Control",
+  "description": "Greater Wildlife Control offers professional wildlife removal and pest control services across Canada. Browse all animal removal services."
+ },
+ "NotFoundPage": {
+  "route": "404",
+  "title": "Page not found",
+  "description": "noindex"
+ }
+}

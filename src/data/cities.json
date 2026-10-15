@@ -1,0 +1,730 @@
+[
+  {
+    "province": "ab",
+    "slug": "airdrie",
+    "name": "Airdrie",
+    "isHub": false,
+    "parentHub": "greater-calgary",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "calgary",
+    "name": "Calgary",
+    "isHub": false,
+    "parentHub": "greater-calgary",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "cochrane",
+    "name": "Cochrane",
+    "isHub": false,
+    "parentHub": "greater-calgary",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "edmonton",
+    "name": "Edmonton",
+    "isHub": false,
+    "parentHub": "greater-edmonton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "greater-calgary",
+    "name": "Greater Calgary",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "greater-edmonton",
+    "name": "Greater Edmonton",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "sherwood-park",
+    "name": "Sherwood Park",
+    "isHub": false,
+    "parentHub": "greater-edmonton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ab",
+    "slug": "st-albert",
+    "name": "St Albert",
+    "isHub": false,
+    "parentHub": "greater-edmonton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "burnaby",
+    "name": "Burnaby",
+    "isHub": false,
+    "parentHub": "greater-vancouver",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "esquimalt",
+    "name": "Esquimalt",
+    "isHub": false,
+    "parentHub": "greater-victoria",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "greater-vancouver",
+    "name": "Greater Vancouver",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "greater-victoria",
+    "name": "Greater Victoria",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "richmond",
+    "name": "Richmond",
+    "isHub": false,
+    "parentHub": "greater-vancouver",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "saanich",
+    "name": "Saanich",
+    "isHub": false,
+    "parentHub": "greater-victoria",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "surrey",
+    "name": "Surrey",
+    "isHub": false,
+    "parentHub": "greater-vancouver",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "isHub": false,
+    "parentHub": "greater-vancouver",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "bc",
+    "slug": "victoria",
+    "name": "Victoria",
+    "isHub": false,
+    "parentHub": "greater-victoria",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "brandon",
+    "name": "Brandon",
+    "isHub": false,
+    "parentHub": "greater-brandon",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "greater-brandon",
+    "name": "Greater Brandon",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "greater-winnipeg",
+    "name": "Greater Winnipeg",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "headingley",
+    "name": "Headingley",
+    "isHub": false,
+    "parentHub": "greater-winnipeg",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "shilo",
+    "name": "Shilo",
+    "isHub": false,
+    "parentHub": "greater-brandon",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "west-st-paul",
+    "name": "West St Paul",
+    "isHub": false,
+    "parentHub": "greater-winnipeg",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "mb",
+    "slug": "winnipeg",
+    "name": "Winnipeg",
+    "isHub": false,
+    "parentHub": "greater-winnipeg",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "dieppe",
+    "name": "Dieppe",
+    "isHub": false,
+    "parentHub": "greater-moncton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "greater-moncton",
+    "name": "Greater Moncton",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "greater-saint-john",
+    "name": "Greater Saint John",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "greater-st-johns",
+    "name": "Greater St. John's",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "moncton",
+    "name": "Moncton",
+    "isHub": false,
+    "parentHub": "greater-moncton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "quispamsis",
+    "name": "Quispamsis",
+    "isHub": false,
+    "parentHub": "greater-saint-john",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "riverview",
+    "name": "Riverview",
+    "isHub": false,
+    "parentHub": "greater-moncton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "rothesay",
+    "name": "Rothesay",
+    "isHub": false,
+    "parentHub": "greater-saint-john",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "saint-john",
+    "name": "Saint John",
+    "isHub": false,
+    "parentHub": "greater-saint-john",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nb",
+    "slug": "st-johns",
+    "name": "St. John's",
+    "isHub": false,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "corner-brook",
+    "name": "Corner Brook",
+    "isHub": false,
+    "parentHub": "greater-corner-brook",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "greater-corner-brook",
+    "name": "Greater Corner Brook",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "greater-st-johns",
+    "name": "Greater St. John's",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "massey-drive",
+    "name": "Massey Drive",
+    "isHub": false,
+    "parentHub": "greater-corner-brook",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "mount-pearl",
+    "name": "Mount Pearl",
+    "isHub": false,
+    "parentHub": "greater-st-johns",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "paradise",
+    "name": "Paradise",
+    "isHub": false,
+    "parentHub": "greater-st-johns",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "nl",
+    "slug": "st-johns",
+    "name": "St. John's",
+    "isHub": false,
+    "parentHub": "greater-st-johns",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "bedford",
+    "name": "Bedford",
+    "isHub": false,
+    "parentHub": "greater-halifax",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "dartmouth",
+    "name": "Dartmouth",
+    "isHub": false,
+    "parentHub": "greater-halifax",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "glace-bay",
+    "name": "Glace Bay",
+    "isHub": false,
+    "parentHub": "greater-sydney",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "greater-halifax",
+    "name": "Greater Halifax",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "greater-sydney",
+    "name": "Greater Sydney",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "halifax",
+    "name": "Halifax",
+    "isHub": false,
+    "parentHub": "greater-halifax",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "north-sydney",
+    "name": "North Sydney",
+    "isHub": false,
+    "parentHub": "greater-sydney",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "sackville",
+    "name": "Sackville",
+    "isHub": false,
+    "parentHub": "greater-halifax",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "ns",
+    "slug": "sydney",
+    "name": "Sydney",
+    "isHub": false,
+    "parentHub": "greater-sydney",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "brampton",
+    "name": "Brampton",
+    "isHub": false,
+    "parentHub": "greater-toronto",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "burlington",
+    "name": "Burlington",
+    "isHub": false,
+    "parentHub": "greater-hamilton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "dundas",
+    "name": "Dundas",
+    "isHub": false,
+    "parentHub": "greater-hamilton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "greater-hamilton",
+    "name": "Greater Hamilton",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "greater-ottawa",
+    "name": "Greater Ottawa",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "greater-toronto",
+    "name": "Greater Toronto",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "isHub": false,
+    "parentHub": "greater-hamilton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "kanata",
+    "name": "Kanata",
+    "isHub": false,
+    "parentHub": "greater-ottawa",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "markham",
+    "name": "Markham",
+    "isHub": false,
+    "parentHub": "greater-toronto",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "mississauga",
+    "name": "Mississauga",
+    "isHub": false,
+    "parentHub": "greater-toronto",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "nepean",
+    "name": "Nepean",
+    "isHub": false,
+    "parentHub": "greater-ottawa",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "oakville",
+    "name": "Oakville",
+    "isHub": false,
+    "parentHub": "greater-toronto",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "orleans",
+    "name": "Orleans",
+    "isHub": false,
+    "parentHub": "greater-ottawa",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "ottawa",
+    "name": "Ottawa",
+    "isHub": false,
+    "parentHub": "greater-ottawa",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "stoney-creek",
+    "name": "Stoney Creek",
+    "isHub": false,
+    "parentHub": "greater-hamilton",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "toronto",
+    "name": "Toronto",
+    "isHub": false,
+    "parentHub": "greater-toronto",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "on",
+    "slug": "vaughan",
+    "name": "Vaughan",
+    "isHub": false,
+    "parentHub": "greater-toronto",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "charlottetown",
+    "name": "Charlottetown",
+    "isHub": false,
+    "parentHub": "greater-charlottetown",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "cornwall",
+    "name": "Cornwall",
+    "isHub": false,
+    "parentHub": "greater-charlottetown",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "greater-charlottetown",
+    "name": "Greater Charlottetown",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "greater-summerside",
+    "name": "Greater Summerside",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "kensington",
+    "name": "Kensington",
+    "isHub": false,
+    "parentHub": "greater-summerside",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "stratford",
+    "name": "Stratford",
+    "isHub": false,
+    "parentHub": "greater-charlottetown",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "pe",
+    "slug": "summerside",
+    "name": "Summerside",
+    "isHub": false,
+    "parentHub": "greater-summerside",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "beauport",
+    "name": "Beauport",
+    "isHub": false,
+    "parentHub": "greater-quebec-city",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "brossard",
+    "name": "Brossard",
+    "isHub": false,
+    "parentHub": "greater-montreal",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "greater-montreal",
+    "name": "Greater Montreal",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "greater-quebec-city",
+    "name": "Greater Quebec City",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "laval",
+    "name": "Laval",
+    "isHub": false,
+    "parentHub": "greater-montreal",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "levis",
+    "name": "Levis",
+    "isHub": false,
+    "parentHub": "greater-quebec-city",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "longueuil",
+    "name": "Longueuil",
+    "isHub": false,
+    "parentHub": "greater-montreal",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "montreal",
+    "name": "Montreal",
+    "isHub": false,
+    "parentHub": "greater-montreal",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "qc",
+    "slug": "quebec-city",
+    "name": "Quebec City",
+    "isHub": false,
+    "parentHub": "greater-quebec-city",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "greater-regina",
+    "name": "Greater Regina",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "greater-saskatoon",
+    "name": "Greater Saskatoon",
+    "isHub": true,
+    "parentHub": null,
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "martensville",
+    "name": "Martensville",
+    "isHub": false,
+    "parentHub": "greater-saskatoon",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "pilot-butte",
+    "name": "Pilot Butte",
+    "isHub": false,
+    "parentHub": "greater-regina",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "regina",
+    "name": "Regina",
+    "isHub": false,
+    "parentHub": "greater-regina",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "saskatoon",
+    "name": "Saskatoon",
+    "isHub": false,
+    "parentHub": "greater-saskatoon",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "warman",
+    "name": "Warman",
+    "isHub": false,
+    "parentHub": "greater-saskatoon",
+    "franchiseeEmail": ""
+  },
+  {
+    "province": "sk",
+    "slug": "white-city",
+    "name": "White City",
+    "isHub": false,
+    "parentHub": "greater-regina",
+    "franchiseeEmail": ""
+  }
+]

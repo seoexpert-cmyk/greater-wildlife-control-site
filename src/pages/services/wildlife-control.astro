@@ -1,0 +1,23 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '@/layouts/Base.astro';
+import View from '@/views/WildlifeControlPage.jsx';
+import { pageTitle, extractFaqs, faqSchema } from '@/lib/site.js';
+
+const article = await getEntry('pages', 'services/wildlife-control');
+const { Content } = article ? await render(article) : { Content: null };
+const faqs = article ? extractFaqs(article.body) : [];
+---
+<Base
+  title={pageTitle(article?.data.meta_title ?? 'Wildlife Control Services')}
+  description={article?.data.meta_description ?? 'Humane wildlife removal and pest control services across Canada. Browse all animal removal services.'}
+  schema={faqs.length ? [faqSchema(faqs)] : []}
+>
+  <View>
+    {Content && (
+      <section class="border-t border-stone-200 bg-white px-6 py-16 sm:py-24">
+        <div class="prose mx-auto max-w-[56rem]"><Content /></div>
+      </section>
+    )}
+  </View>
+</Base>

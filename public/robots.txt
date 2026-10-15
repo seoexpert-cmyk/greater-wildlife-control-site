@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /partner
+
+Sitemap: https://greaterwildlifecontrol.ca/sitemap-index.xml

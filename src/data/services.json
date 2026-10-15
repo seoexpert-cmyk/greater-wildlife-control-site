@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "wildlife-control",
+    "name": "Wildlife Control",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Comprehensive wildlife control for homes and businesses \u2014 humane trapping, exclusion, and full entry-point repair for any nuisance animal on your property.</p>"
+  },
+  {
+    "slug": "raccoon-removal",
+    "name": "Raccoon Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Raccoons in your attic or crawlspace can cause serious structural damage. Our technicians humanely trap and remove raccoons, then seal every entry point to prevent re-entry.</p>"
+  },
+  {
+    "slug": "squirrel-removal",
+    "name": "Squirrel Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Squirrels chew through wiring and insulation fast. We remove them safely and repair entry points on rooflines and soffits.</p>"
+  },
+  {
+    "slug": "skunk-removal",
+    "name": "Skunk Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Skunks denning under decks and porches are removed humanely, with odor remediation and exclusion barriers installed to stop repeat visits.</p>"
+  },
+  {
+    "slug": "bird-removal",
+    "name": "Bird Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Nuisance birds \u2014 pigeons, gulls, starlings, and sparrows \u2014 damage roofs, foul signage, and nest in vents and soffits. Our technicians remove nests, install humane deterrents like netting and spikes, and seal entry points to keep birds off your property without harming them.</p>"
+  },
+  {
+    "slug": "bat-removal",
+    "name": "Bat Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Safe, code-compliant bat exclusion from attics and soffits, timed to avoid maternity season, with full entry-point sealing afterward.</p>"
+  },
+  {
+    "slug": "opossum-removal",
+    "name": "Opossum Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Opossums nesting in sheds, crawlspaces, or garages are humanely trapped and relocated, with exclusion work to prevent future entry.</p>"
+  },
+  {
+    "slug": "groundhog-removal",
+    "name": "Groundhog Removal",
+    "category": "Wildlife Removal",
+    "baseContent": "<p>Groundhog burrows under sheds, decks, and foundations are cleared and treated, with barrier installation to keep the yard groundhog-free.</p>"
+  },
+  {
+    "slug": "pest-control",
+    "name": "Pest Control",
+    "category": "Pest Control",
+    "baseContent": "<p>General pest control covering ants, spiders, rodents, and more \u2014 routine treatment plans that keep infestations from coming back.</p>"
+  },
+  {
+    "slug": "restoration",
+    "name": "Restoration",
+    "category": "Restoration Services",
+    "baseContent": "<p>After a wildlife intrusion, our restoration team cleans, sanitizes, and repairs affected areas including attic insulation replacement, feces removal, and structural repairs. We restore your home or business to its pre-intrusion condition quickly and safely.</p>"
+  },
+  {
+    "slug": "roofing",
+    "name": "Roofing",
+    "category": "Roofing Services",
+    "baseContent": "<p>Wildlife intrusions often cause roof damage including torn shingles, damaged fascia, and compromised soffits. Our roofing team repairs all wildlife-related roof damage and installs prevention measures to keep animals out for good. We work with all roof types and materials.</p>"
+  }
+]

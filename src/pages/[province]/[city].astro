@@ -1,0 +1,99 @@
+---
+// ROUTE A: /:province/:city. Hubs (e.g. /on/greater-toronto) list their
+// cities; cities list every service available locally.
+import Base from '@/layouts/Base.astro';
+import DynamicHero from '@/components/DynamicHero.jsx';
+import LeadCaptureForm from '@/components/LeadCaptureForm.jsx';
+import { cities, services, childCities, parentHubOf, pageTitle, breadcrumbSchema } from '@/lib/site.js';
+import { provinceLabel } from '@/lib/formatSlug';
+
+export function getStaticPaths() {
+  return cities.map((city) => ({ params: { province: city.province, city: city.slug }, props: { city } }));
+}
+
+const { city } = Astro.props;
+const site = Astro.site.origin;
+const prov = provinceLabel(city.province);
+const isHub = city.isHub;
+const children = isHub ? childCities(city) : [];
+const hub = parentHubOf(city);
+const coreTitle = isHub ? `${city.name} Wildlife Control | Cities We Serve` : `Pest & Wildlife Control in ${city.name}, ${prov}`;
+const description = isHub
+  ? `Wildlife and pest control across the ${city.name} Area. Explore the cities we serve and book a local, experienced technician.`
+  : `Local, experienced pest and wildlife removal technicians serving ${city.name}, ${prov}. Same-day service available.`;
+const title = isHub ? coreTitle : pageTitle(coreTitle);
+const path = `/${city.province}/${city.slug}`;
+const schema = [
+  breadcrumbSchema(site, [['Home', '/'], ...(hub ? [[hub.name, `/${hub.province}/${hub.slug}`]] : []), [city.name, path]]),
+];
+---
+<Base title={title} description={description} schema={schema}>
+  <DynamicHero
+    eyebrow={isHub ? 'Regional Hub' : 'Service Area'}
+    title={isHub ? `Wildlife Services Across the ${city.name} Area` : `Top-Rated Wildlife Control in ${city.name}, ${prov}`}
+    description={description}
+  />
+
+  <section class="mx-auto max-w-[72rem] px-6 py-16">
+    {isHub ? (
+      <>
+        <h2 class="text-2xl font-bold text-stone-900">Cities We Serve in the {city.name} Area</h2>
+        <p class="mt-2 text-stone-600">Select your city to see local wildlife and pest control services and book a nearby technician.</p>
+        {children.length === 0 ? (
+          <p class="mt-4 text-stone-600">City coverage is being added for this region. Call us directly to book.</p>
+        ) : (
+          <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {children.map((c) => (
+              <a href={`/${c.province}/${c.slug}`} class="group flex flex-col overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-sm transition hover:-translate-y-1 hover:border-emerald-300 hover:shadow-xl">
+                <div class="relative aspect-[4/3] overflow-hidden bg-stone-100">
+                  <div class="flex h-full w-full items-center justify-center bg-gradient-to-br from-stone-100 to-stone-200">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10 text-stone-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></svg>
+                  </div>
+                  <div class="absolute inset-0 bg-gradient-to-t from-slate-950/40 to-transparent"></div>
+                </div>
+                <div class="flex flex-1 items-center justify-between p-5">
+                  <span class="font-semibold text-stone-900">{c.name}</span>
+                  <span class="text-stone-400 transition group-hover:translate-x-1 group-hover:text-emerald-700">&rarr;</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
+      </>
+    ) : (
+      <>
+        <h2 class="text-2xl font-bold text-stone-900">Services available in {city.name}</h2>
+        <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {services.map((s) => (
+            <a href={`/${city.province}/${city.slug}/${s.slug}`} class="group flex flex-col overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-sm transition hover:-translate-y-1 hover:border-emerald-300 hover:shadow-xl">
+              <div class="relative aspect-[4/3] overflow-hidden bg-stone-100">
+                <img src="/default-hero.jpg" alt={s.name} loading="lazy" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105" />
+                <div class="absolute inset-0 bg-gradient-to-t from-slate-950/40 to-transparent"></div>
+              </div>
+              <div class="flex flex-1 flex-col justify-between p-5">
+                <div>
+                  {s.category && <p class="text-xs font-semibold uppercase tracking-wide text-emerald-700">{s.category}</p>}
+                  <p class="mt-1 text-lg font-semibold text-stone-900">{s.name} in {city.name}</p>
+                </div>
+                <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-emerald-700 transition-all group-hover:gap-2">View details &rarr;</span>
+              </div>
+            </a>
+          ))}
+        </div>
+        {hub && (
+          <p class="mt-10 text-sm text-stone-600">
+            Part of our <a href={`/${hub.province}/${hub.slug}`} class="font-semibold text-emerald-700 hover:underline">{hub.name} Area</a> service region.
+          </p>
+        )}
+      </>
+    )}
+  </section>
+
+  <LeadCaptureForm
+    client:visible
+    title={isHub ? `Get a free quote across the ${city.name}` : `Get a free quote for ${city.name}`}
+    description={`Locally owned and operated. Our ${city.name} team responds fast and stands behind every job.`}
+    serviceRequested={`area:${city.province}/${city.slug}`}
+    areaName={city.name}
+  />
+</Base>

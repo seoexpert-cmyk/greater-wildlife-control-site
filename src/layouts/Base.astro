@@ -1,0 +1,75 @@
+---
+import '@/styles.css';
+import SiteHeader from '@/components/SiteHeader.jsx';
+import SiteFooter from '@/components/SiteFooter.jsx';
+import MobileStickyBar from '@/components/MobileStickyBar.jsx';
+import { noindexPaths } from '@/lib/noindex.mjs';
+
+interface Props {
+  title: string;              // full <title>
+  description: string;
+  image?: string;
+  schema?: Record<string, unknown>[];
+  noindex?: boolean;
+  bare?: boolean;             // no header/footer (not used by any page yet)
+}
+const { title, description, image = '/default-hero.jpg', schema = [], noindex, bare = false } = Astro.props;
+const site = Astro.site!.origin;
+const path = Astro.url.pathname.replace(/\.html$/, '').replace(/\/$/, '') || '/';
+const canonical = site + (path === '/' ? '/' : path);
+const robotsNoindex = noindex ?? noindexPaths().has(path);
+const imageUrl = image.startsWith('http') ? image : site + image;
+
+const business = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  '@id': `${site}/#business`,
+  name: 'Greater Wildlife Control',
+  url: site + '/',
+  logo: `${site}/gwc-logo.png`,
+  image: `${site}/default-hero.jpg`,
+  telephone: '+1-800-264-9416',
+  email: 'contact@greaterwildlifecontrol.ca',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: '1600-2300 Yonge St',
+    addressLocality: 'Toronto',
+    addressRegion: 'ON',
+    postalCode: 'M4P 1E4',
+    addressCountry: 'CA',
+  },
+  areaServed: 'CA',
+};
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {robotsNoindex && <meta name="robots" content="noindex, follow" />}
+    <link rel="icon" type="image/png" href="/gwc-logo.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Greater Wildlife Control" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={imageUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json" set:html={JSON.stringify([business, ...schema])} />
+    <!-- Search Atlas, carried over from the Horizons site -->
+    <script is:inline nowprocket nitro-exclude type="text/javascript" id="sa-dynamic-optimization" data-uuid="62c010ec-6e38-4a76-bb8d-bb94930eef4e" src="https://dashboard.searchatlas.com/scripts/dynamic_optimization.js"></script>
+  </head>
+  <body>
+    {bare ? <slot /> : (
+      <div class="flex min-h-[100dvh] flex-col bg-stone-50">
+        <SiteHeader client:load />
+        <main class="flex-1 pb-20 sm:pb-0"><slot /></main>
+        <SiteFooter />
+        <MobileStickyBar />
+      </div>
+    )}
+  </body>
+</html>

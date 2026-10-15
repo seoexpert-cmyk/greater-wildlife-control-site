@@ -1,0 +1,49 @@
+---
+import Base from '@/layouts/Base.astro';
+import HomeHero from '@/components/HomeHero.jsx';
+import ContentSection from '@/components/ContentSection.jsx';
+import home from '@/data/homepage.json';
+import { services } from '@/lib/site.js';
+
+// Same fallback images the Horizons homepage used (hosted by Hostinger;
+// copy them into /public before the Hostinger account is closed).
+const fallbackImages = [
+  'https://images.hostinger.com/9c5bdcdb-ffc5-44bc-bbff-dc493e159216.png',
+  'https://images.hostinger.com/2ecc9f02-22a1-4767-a119-e4184192ab09.png',
+  'https://images.hostinger.com/fa54cae5-3a84-45e9-96ad-91bbfcf0cc9f.png',
+];
+---
+<Base
+  title="Greater Wildlife Control | Find Animal Removal in Your City"
+  description="Greater Wildlife Control provides humane wildlife removal and pest control services in many Canadian provinces. Fast, guaranteed appointments with trained local technicians."
+>
+  <HomeHero client:load title={home.heroTitle} eyebrow="Trained & Locally Owned" description={home.heroSubtext} />
+
+  {home.sections.map((section, index) => (
+    <ContentSection
+      className={index % 2 === 1 ? 'bg-white' : ''}
+      title={section.title}
+      content={section.content}
+      imageSrc={fallbackImages[index % fallbackImages.length]}
+      imageAlt={section.title}
+      reverse={index % 2 === 1}
+    />
+  ))}
+
+  <section class="border-t border-stone-200 bg-white px-6 py-16">
+    <div class="mx-auto max-w-[72rem]">
+      <h2 class="text-2xl font-bold text-stone-900">Our core services</h2>
+      <div class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {services.map((s) => (
+          <a href={`/services/${s.slug}`} class="group flex flex-col justify-between rounded-2xl border border-stone-200 bg-stone-50 p-5 transition hover:border-emerald-300 hover:shadow-md">
+            <div>
+              {s.category && <p class="text-xs font-semibold uppercase tracking-wide text-emerald-700">{s.category}</p>}
+              <p class="mt-1 text-lg font-semibold text-stone-900">{s.name}</p>
+            </div>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-emerald-700 transition-all group-hover:gap-2">Learn more &rarr;</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
