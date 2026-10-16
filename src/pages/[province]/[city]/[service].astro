@@ -5,6 +5,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '@/layouts/Base.astro';
 import DynamicHero from '@/components/DynamicHero.jsx';
+import heroImages from '@/data/heroImages.json';
 import LeadCaptureForm from '@/components/LeadCaptureForm.jsx';
 import {
   cities, services, findCity, parentHubOf, pageTitle, breadcrumbSchema, extractFaqs, faqSchema,
@@ -35,6 +36,8 @@ const { Content } = article ? await render(article) : { Content: null };
 const faqs = article ? extractFaqs(article.body) : [];
 const hub = parentHubOf(city);
 const path = `/${city.province}/${city.slug}/${service.slug}`;
+// Use the article's own hero if it has one, otherwise the city page's hero
+const heroImage = article?.data.hero_image ?? heroImages[`/${city.province}/${city.slug}`];
 const otherServices = services.filter((s) => s.slug !== service.slug);
 
 const schema = [
@@ -56,13 +59,13 @@ const schema = [
   ...(faqs.length ? [faqSchema(faqs)] : []),
 ];
 ---
-<Base title={pageTitle(coreTitle)} description={description} schema={schema}>
+<Base title={pageTitle(coreTitle)} description={description} schema={schema} image={heroImage}>
   <DynamicHero
     eyebrow={`${service.category || 'Core Service'} · ${city.name}, ${prov}`}
     eyebrowIcon="service"
     title={h1}
     description={description}
-    imageSrc={article?.data.hero_image}
+    imageSrc={heroImage}
   />
 
   <section class="mx-auto grid max-w-[72rem] grid-cols-1 gap-10 px-6 py-16 sm:py-24 lg:grid-cols-[minmax(0,1fr)_18rem] lg:items-start">
