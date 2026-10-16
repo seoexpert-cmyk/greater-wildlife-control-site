@@ -17,6 +17,7 @@ import {
   PhoneCall,
   Mail,
   MapPin,
+  ClipboardList,
 } from 'lucide-react';
 
 // The six animals shown on the homepage hook. `label` is stored on the
@@ -118,6 +119,18 @@ const InteractiveLeadForm = ({ className = '' }) => {
     <div
       className={`overflow-hidden rounded-2xl border border-stone-800 bg-stone-950/95 shadow-2xl backdrop-blur-sm ${className}`}
     >
+      <div className="border-b border-stone-800 bg-emerald-600 px-6 py-4 sm:px-7">
+        <div className="flex items-center justify-between gap-3">
+          <p className="flex items-center gap-2 text-lg font-bold text-white">
+            <ClipboardList className="h-5 w-5" strokeWidth={2} /> Get a Free Quote
+          </p>
+          <span className="rounded-full bg-emerald-950/30 px-2.5 py-1 text-xs font-semibold text-white">Step {step} of 2</span>
+        </div>
+        <div className="mt-3 flex gap-1.5" aria-hidden="true">
+          <span className="h-1.5 flex-1 rounded-full bg-white" />
+          <span className={`h-1.5 flex-1 rounded-full transition-colors ${step === 2 ? 'bg-white' : 'bg-white/30'}`} />
+        </div>
+      </div>
       <div className="relative overflow-hidden px-6 py-6 sm:px-7 sm:py-7">
         <AnimatePresence mode="wait" custom={direction} initial={false}>
           {step === 1 && (
@@ -130,8 +143,10 @@ const InteractiveLeadForm = ({ className = '' }) => {
               exit="exit"
               transition={{ duration: 0.25, ease: 'easeOut' }}
             >
-              <p className="text-base font-semibold text-white">What's the problem?</p>
-              <p className="mt-1 text-xs text-stone-400">Tap the animal to get a free quote in seconds.</p>
+              <p className="text-base font-semibold text-white">Which animal is the problem?</p>
+              <p className="mt-1 text-sm text-stone-400">
+                Tap one, then add your name and number. A local technician calls you back.
+              </p>
               <div className="mt-5 grid grid-cols-3 gap-3">
                 {ANIMALS.map(({ label, slug, icon: Icon }) => (
                   <button
@@ -145,6 +160,13 @@ const InteractiveLeadForm = ({ className = '' }) => {
                   </button>
                 ))}
               </div>
+              <button
+                type="button"
+                onClick={() => selectAnimal({ label: 'Other', slug: 'other' })}
+                className="mt-4 flex w-full items-center justify-center gap-1 text-sm font-medium text-emerald-400 transition hover:text-emerald-300"
+              >
+                Something else? Go straight to the form <ArrowRight className="h-4 w-4" />
+              </button>
             </motion.div>
           )}
 
@@ -160,11 +182,11 @@ const InteractiveLeadForm = ({ className = '' }) => {
             >
               <div className="flex items-center gap-2">
                 <span className="flex h-8 w-8 items-center justify-center rounded-full bg-emerald-500/15">
-                  {currentAnimalIcon && React.createElement(currentAnimalIcon, { className: 'h-4 w-4 text-emerald-400' })}
+                  {React.createElement(currentAnimalIcon || ClipboardList, { className: 'h-4 w-4 text-emerald-400' })}
                 </span>
                 <div>
-                  <p className="text-sm font-semibold text-white">{animal?.label} problem — almost done</p>
-                  <p className="text-xs text-stone-500">We'll use this to call you back.</p>
+                  <p className="text-sm font-semibold text-white">{animal?.slug === 'other' ? 'Tell us how to reach you' : `${animal?.label} problem: almost done`}</p>
+                  <p className="text-xs text-stone-500">We'll use this to call you back with your quote.</p>
                 </div>
               </div>
 
