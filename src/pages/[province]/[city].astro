@@ -6,6 +6,7 @@ import DynamicHero from '@/components/DynamicHero.jsx';
 import LeadCaptureForm from '@/components/LeadCaptureForm.jsx';
 import { cities, services, childCities, parentHubOf, pageTitle, breadcrumbSchema } from '@/lib/site.js';
 import { provinceLabel } from '@/lib/formatSlug';
+import heroImages from '@/data/heroImages.json';
 
 export function getStaticPaths() {
   return cities.map((city) => ({ params: { province: city.province, city: city.slug }, props: { city } }));
@@ -23,15 +24,17 @@ const description = isHub
   : `Local, experienced pest and wildlife removal technicians serving ${city.name}, ${prov}. Same-day service available.`;
 const title = isHub ? coreTitle : pageTitle(coreTitle);
 const path = `/${city.province}/${city.slug}`;
+const heroImage = heroImages[path];
 const schema = [
   breadcrumbSchema(site, [['Home', '/'], ...(hub ? [[hub.name, `/${hub.province}/${hub.slug}`]] : []), [city.name, path]]),
 ];
 ---
-<Base title={title} description={description} schema={schema}>
+<Base title={title} description={description} schema={schema} image={heroImage}>
   <DynamicHero
     eyebrow={isHub ? 'Regional Hub' : 'Service Area'}
     title={isHub ? `Wildlife Services Across the ${city.name} Area` : `Top-Rated Wildlife Control in ${city.name}, ${prov}`}
     description={description}
+    imageSrc={heroImage}
   />
 
   <section class="mx-auto max-w-[72rem] px-6 py-16">

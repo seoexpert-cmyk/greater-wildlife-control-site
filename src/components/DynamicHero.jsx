@@ -32,9 +32,9 @@ const DynamicHero = ({
       {/* Database-driven image: dynamic routes (city/service templates) share this component, so the image must come from data, not the visual editor */}
       <img src={imageSrc || "/default-hero.jpg"} alt="Hero background" className="absolute inset-0 z-0 h-full w-full object-cover object-center" aria-hidden="true" />
       
-      {/* Dark overlay on top of image; pointer-events-none lets clicks pass through to the image for the visual editor */}
-      <div className="pointer-events-none absolute inset-0 z-10 bg-slate-950/70" aria-hidden="true" />
-      <div className="pointer-events-none absolute inset-0 z-10 bg-gradient-to-t from-slate-950/80 via-transparent to-slate-950/30" aria-hidden="true" />
+      {/* Overlay darkest on the left behind the text, lighter on the right so the image (e.g. the GREATER map pin) stays visible */}
+      <div className="pointer-events-none absolute inset-0 z-10 bg-gradient-to-r from-slate-950/80 via-slate-950/45 to-slate-950/10" aria-hidden="true" />
+      <div className="pointer-events-none absolute inset-0 z-10 bg-gradient-to-t from-slate-950/50 via-transparent to-transparent" aria-hidden="true" />
 
       {/* Content sits on top of image and overlays */}
       <div className="pointer-events-none container relative z-20 mx-auto w-full max-w-[72rem] px-6 py-20 sm:py-28">
