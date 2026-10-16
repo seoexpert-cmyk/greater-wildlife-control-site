@@ -11,6 +11,8 @@ const toTitleCase = value => {
   if (typeof value !== 'string') return value;
   return value.split(' ').map((word, i) => {
     if (!word) return word;
+    // Keep all-caps words such as the province code "ON" as written
+    if (word.length > 1 && word === word.toUpperCase() && /[A-Z]/.test(word)) return word;
     const lower = word.toLowerCase();
     if (i > 0 && MINOR_WORDS.has(lower)) return lower;
     return word.charAt(0).toUpperCase() + word.slice(1);

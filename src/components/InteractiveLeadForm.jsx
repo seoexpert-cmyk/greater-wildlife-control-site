@@ -122,7 +122,8 @@ const InteractiveLeadForm = ({ className = '' }) => {
 
   return (
     <div
-      className={`overflow-hidden rounded-2xl border border-stone-800 bg-stone-950/95 shadow-2xl backdrop-blur-sm ${className}`}
+      id="lead-capture"
+      className={`scroll-mt-24 overflow-hidden rounded-2xl border border-stone-800 bg-stone-950/95 shadow-2xl backdrop-blur-sm ${className}`}
     >
       <div className="border-b border-stone-800 bg-emerald-600 px-6 py-4 sm:px-7">
         <div className="flex items-center justify-between gap-3">

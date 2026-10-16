@@ -71,5 +71,16 @@ const business = {
         <MobileStickyBar />
       </div>
     )}
+    <script>
+      // "Get a Quote" links point at #lead-capture. Pages without a quote form
+      // (blog, contact, legal pages) send the visitor to the homepage form.
+      document.addEventListener('click', (e) => {
+        const link = e.target instanceof Element && e.target.closest('a[href="#lead-capture"]');
+        if (link && !document.getElementById('lead-capture')) {
+          e.preventDefault();
+          window.location.href = '/#lead-capture';
+        }
+      });
+    </script>
   </body>
 </html>

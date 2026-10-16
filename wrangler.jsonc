@@ -18,5 +18,8 @@
     { "pattern": "greaterwildlifecontrol.ca", "custom_domain": true },
     { "pattern": "www.greaterwildlifecontrol.ca", "custom_domain": true }
   ],
+  // Keep variables set in the Cloudflare dashboard (MAKE_WEBHOOK_URL) when a
+  // push redeploys the Worker; without this each deploy deletes them.
+  "keep_vars": true,
   "observability": { "enabled": true }
 }
