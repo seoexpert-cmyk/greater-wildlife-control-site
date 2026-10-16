@@ -43,7 +43,7 @@ const HomeHero = ({
               {eyebrow}
             </p>
           )}
-          <h1 className="pointer-events-auto max-w-xl text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-[3.25rem] lg:leading-tight">
+          <h1 className="pointer-events-auto max-w-3xl whitespace-nowrap text-[clamp(1.5rem,7vw,2.25rem)] font-bold tracking-tight text-white sm:text-5xl lg:text-[clamp(2.25rem,3.6vw,3.25rem)] lg:leading-tight">
             {title}
           </h1>
           {description && (

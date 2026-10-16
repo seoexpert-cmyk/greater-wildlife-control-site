@@ -3,11 +3,6 @@ import { submitLead } from '@/lib/submitLead';
 import { AnimatePresence, motion } from 'framer-motion';
 import {
   PawPrint,
-  Squirrel,
-  Cat,
-  Bird,
-  Ghost,
-  Rat,
   ArrowLeft,
   ArrowRight,
   Loader2,
@@ -22,18 +17,12 @@ import {
   ScanSearch,
 } from 'lucide-react';
 
-// The animals shown on the homepage hook. `label` is stored on the
+// The three choices shown on the homepage hook. `label` is stored on the
 // lead's `animal_issue` field; `slug` is kept for the icon/UI keying only.
 const ANIMALS = [
-  { label: 'Raccoon', slug: 'raccoon-removal', icon: PawPrint },
-  { label: 'Squirrel', slug: 'squirrel-removal', icon: Squirrel },
-  { label: 'Skunk', slug: 'skunk-removal', icon: Cat },
-  { label: 'Birds', slug: 'bird-control', icon: Bird },
-  { label: 'Bats', slug: 'bat-removal', icon: Ghost },
-  { label: 'Mice', slug: 'mouse-control', icon: Rat, small: true },
-  { label: 'Rats', slug: 'rat-removal', icon: Rat },
-  { label: 'Wasps', slug: 'wasp-removal', icon: Bug },
-  { label: 'Need Inspection', slug: 'inspection', icon: ScanSearch },
+  { label: 'Wildlife', slug: 'wildlife', icon: PawPrint, step2: 'Wildlife removal: almost done' },
+  { label: 'Pests', slug: 'pests', icon: Bug, step2: 'Pest control: almost done' },
+  { label: 'Inspection', slug: 'inspection', icon: ScanSearch, step2: 'Inspection request: almost done' },
 ];
 
 const stepVariants = {
@@ -149,30 +138,23 @@ const InteractiveLeadForm = ({ className = '' }) => {
               exit="exit"
               transition={{ duration: 0.25, ease: 'easeOut' }}
             >
-              <p className="text-base font-semibold text-white">Which animal is the problem?</p>
+              <p className="text-base font-semibold text-white">What do you need help with?</p>
               <p className="mt-1 text-sm text-stone-400">
-                Tap one, then add your name and number. A local technician calls you back.
+                Pick one, then add your name and number. A local technician calls you back.
               </p>
               <div className="mt-5 grid grid-cols-3 gap-3">
-                {ANIMALS.map(({ label, slug, icon: Icon, small }) => (
+                {ANIMALS.map(({ label, slug, icon: Icon }) => (
                   <button
                     key={slug}
                     type="button"
                     onClick={() => selectAnimal({ label, slug })}
                     className="flex flex-col items-center gap-2 rounded-xl border border-stone-800 bg-stone-900 px-2 py-4 text-center transition active:scale-[0.97] hover:border-emerald-500/60 hover:bg-stone-800"
                   >
-                    <span className="flex h-6 items-center"><Icon className={`${small ? 'h-5 w-5' : 'h-6 w-6'} text-emerald-400`} strokeWidth={1.75} /></span>
+                    <Icon className="h-6 w-6 text-emerald-400" strokeWidth={1.75} />
                     <span className="text-xs font-semibold text-white">{label}</span>
                   </button>
                 ))}
               </div>
-              <button
-                type="button"
-                onClick={() => selectAnimal({ label: 'Other', slug: 'other' })}
-                className="mt-4 flex w-full items-center justify-center gap-1 text-sm font-medium text-emerald-400 transition hover:text-emerald-300"
-              >
-                Something else? Go straight to the form <ArrowRight className="h-4 w-4" />
-              </button>
             </motion.div>
           )}
 
@@ -191,7 +173,7 @@ const InteractiveLeadForm = ({ className = '' }) => {
                   {React.createElement(currentAnimalIcon || ClipboardList, { className: 'h-4 w-4 text-emerald-400' })}
                 </span>
                 <div>
-                  <p className="text-sm font-semibold text-white">{animal?.slug === 'other' ? 'Tell us how to reach you' : animal?.slug === 'inspection' ? 'Inspection request: almost done' : `${animal?.label} problem: almost done`}</p>
+                  <p className="text-sm font-semibold text-white">{ANIMALS.find((a) => a.slug === animal?.slug)?.step2}</p>
                   <p className="text-xs text-stone-500">We'll use this to call you back with your quote.</p>
                 </div>
               </div>
