@@ -53,12 +53,12 @@ const SiteHeader = () => {
 
   return (
     <header className="sticky top-0 z-40 border-b border-stone-200 bg-stone-50/95 backdrop-blur">
-      <div className="mx-auto flex max-w-[90rem] items-center justify-between px-6 py-4">
-        <a href="/" className="flex items-center gap-3" onClick={() => setMobileOpen(false)}>
-          <img src="/gwc-logo.png" alt="Greater Wildlife Control" className="h-12 w-12" />
-          <div className="hidden sm:flex flex-col">
-            <span className="text-lg font-bold tracking-tight text-stone-900">Greater Wildlife Control</span>
-            <span className="text-xs text-stone-600">Commercial and Residential Services</span>
+      <div className="mx-auto flex max-w-[90rem] items-center justify-between gap-3 px-4 py-3 sm:px-6 sm:py-4">
+        <a href="/" className="flex min-w-0 items-center gap-2 sm:gap-3" onClick={() => setMobileOpen(false)}>
+          <img src="/gwc-logo.png" alt="Greater Wildlife Control" className="h-10 w-10 shrink-0 sm:h-12 sm:w-12" />
+          <div className="flex min-w-0 flex-col">
+            <span className="whitespace-nowrap text-[clamp(1rem,4.8vw,1.125rem)] font-bold tracking-tight text-stone-900 sm:text-lg">Greater Wildlife Control</span>
+            <span className="hidden text-xs text-stone-600 sm:block">Commercial and Residential Services</span>
           </div>
         </a>
 
@@ -178,7 +178,7 @@ const SiteHeader = () => {
           </a>
           <a
             href="#lead-capture"
-            className="flex items-center gap-2 rounded-full bg-emerald-700 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-emerald-800"
+            className="hidden items-center gap-2 rounded-full bg-emerald-700 sm:flex px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-emerald-800"
           >
             Get a Quote
           </a>
