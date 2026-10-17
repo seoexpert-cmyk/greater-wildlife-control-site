@@ -1,289 +1,151 @@
 ---
-title: "Squirrel Removal in Vaughan, ON: Humane Eviction & Prevention"
+title: "Squirrel Removal in Vaughan, ON: Chewed Vents, Attic Nests and Sealing Up"
 meta_title: "Squirrel Removal in Vaughan, ON"
-meta_description: "Squirrels in your Vaughan attic or soffits? Greater Wildlife Control removes them humanely and seals entry points to keep them out for good."
+meta_description: "Chewed roof vent or scratching in your Vaughan attic? We confirm it's squirrels, check for babies, get them out with one-way doors and seal it in steel."
 path: "/on/vaughan/squirrel-removal"
 source: "Surfer 16808915"
 ---
 
-## Introduction
+Look at the roof of almost any house built in Vaughan in the last twenty-odd years and you'll see a row of little plastic boxes up near the peak. Those are roof vents, and to a grey squirrel they're basically a door with a thin plastic lock. A lot of the squirrel removal in Vaughan that we do starts right there, with a vent that's been chewed open in an afternoon.
 
-Professional squirrel removal in Vaughan is the most reliable way to stop attic damage, eliminate health risks, and permanently keep squirrels out of your home. If you hear scratching above your bedroom ceiling at dawn, notice chewed plastic roof vents, or find small dark droppings near your attic hatch, you likely have an active squirrel infestation-and the longer it goes unaddressed, the more expensive the repairs become.
+The other half starts with a noise. Quick scratching or scampering above a bedroom ceiling, often early in the day, sometimes a rolling sound like someone dropped a marble. People put up with it for weeks because it only lasts a few minutes at a time. Meanwhile there's a nest getting bigger up there.
 
-This guide focuses specifically on grey and red squirrels invading residential attics, soffits, and chimneys across Vaughan neighbourhoods including Woodbridge, Maple, Kleinburg, Thornhill, Concord, and Vellore Village. It does not cover insect pest control, bed bugs, rodents like rats, or general bird control. The target audience is Vaughan residents-homeowners and small landlords-who are dealing with wildlife intrusions or want to prevent them, particularly during the fall and late-winter nesting seasons when squirrel activity peaks.
+I'll walk you through what I'd tell you on a visit: how to be sure it's squirrels, where they're getting into houses here, why the time of year matters, what we actually do, what's left behind in the attic, and roughly what it costs. No poison, and no trapping as the first move.
 
-Effective squirrel removal involves a thorough inspection of the roofline and attic, humane eviction using one-way exclusion doors, permanent sealing of every entry point with chew-resistant materials, and professional biohazard sanitation of contaminated insulation and surfaces. DIY attempts-stuffing holes with foam, scattering mothballs, or setting snap traps-are risky, often illegal under  [Ontario wildlife laws](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property), and usually only temporarily effective.
+## Squirrel, raccoon or mice?
 
-Key takeaways you will gain from this article:
+Timing gives it away. Squirrels are active in daylight, mostly in the morning and again later in the afternoon, and they go quiet at night. Raccoons are the opposite: heavy, slow thumps after dark. Mice are a faint, steady scratching, mostly at night and mostly inside walls.
 
-* How to confirm whether the noises in your attic are squirrels rather than raccoons, mice, or other wildlife
+Other things that point to squirrels:
 
-* What a complete, professional removal process looks like from inspection through cleanup
+- A hole about 4 to 8 cm across, chewed with rough edges, in a vent, soffit corner or fascia board
+- Small, dark, oblong droppings near the attic hatch or around a ceiling light
+- Shredded insulation, leaves and bits of bark bunched into a nest
+- Leaves or twigs stuck in the eavestrough near a vent
+- Chirping or squeaking in late winter or early summer, when there are babies
+- An ammonia smell upstairs if they've been there a while
 
-* Realistic cost ranges and timeframes for squirrel removal in Vaughan
+Pay attention to where the sound is, too. Squirrels like the edges of the attic, down where the roof meets the outside walls, because that's close to their way in and it's warm. So the noise is often right above a bedroom closet or along one exterior wall rather than in the middle of the ceiling. On windy days you might also hear banging, which is usually a loose vent or soffit panel they've already worked on.
 
-* Why humane removal techniques matter legally, ethically, and for long-term results
+Hole size is a handy check. A raccoon opening is usually 10 to 15 cm or bigger and looks torn rather than chewed. A squirrel only needs about 4 cm, an inch and a half, to squeeze through, so a gap that looks too small to matter often isn't.
 
-* When to contact Greater Wildlife Control for an inspection of your specific situation
+## The two squirrels we deal with here
 
-## Understanding Squirrel Infestations in Vaughan Homes
+Most of the time it's the Eastern grey squirrel, which in Vaughan comes in grey and black. Same animal, different coat. Greys are big chewers. They'll pick one entry, keep widening it, and build a nest close by.
 
-A squirrel infestation is more than a single animal passing through your attic. It means regular, repeated activity-established nests (called "dreys"), accumulating droppings, visible gnaw marks on wood and wiring, and persistent noise patterns above your living spaces. Vaughan's mix of mature canopy trees, ravine corridors near Boyd Conservation Area, and the Kleinburg escarpment creates ideal conditions for squirrels to travel tree-to-tree and onto rooflines, making the city a hotspot for attic invasions. With a population of over 300,000 residents and frequent wildlife interactions, Vaughan homes face consistent wildlife problems throughout the year.
+Red squirrels are smaller, louder when they're annoyed, and they're more common on lots near woodland, like the ones backing onto the Don River valley in Thornhill or the forest around the Kortright Centre. Reds love to stash food. I've pulled pine cones and seed husks out of attic insulation by the bucketful. They also tend to slip into wall cavities and deep corners, which makes them harder to find.
 
-The green spaces and urban-forest interface across neighbourhoods like Sonoma Heights and Vellore Village function as "squirrel highways," giving animals direct routes from woodland habitat to residential roofs. Older homes near ravines in Woodbridge and Kleinburg have decades of established canopy cover, while newer subdivisions often sit adjacent to preserved tree lines-both scenarios provide easy access for climbing squirrels.
+## Where squirrels get into newer Vaughan homes
 
-Before diving deeper, it helps to understand a few structural terms. **Entry points** are any openings-holes, gaps, or cracks-that allow animals to gain access to interior spaces. **Soffit gaps** are spaces beneath the roof overhang, often featuring vented or decorative panels. **Fascia boards** are the vertical finishing edges of the roof where soffits meet the roof structure; rot or loosening here creates openings. **Attic cavities** are the spaces above your ceiling and beneath the roof deck, where trusses, insulation, and sheathing create ideal nesting environments for squirrels.
+A lot of Vaughan is newer subdivision: Maple, Thornhill Woods, Sonoma Heights, the developments up along the Hwy 400 and 407 corridors. Those homes are solid, but the roofline is usually finished with light materials, and squirrels figure that out quickly.
 
-### Typical Squirrel Species and Behaviour in Vaughan
+What I find on newer builds:
 
-Two species account for nearly all residential squirrel infestations in Vaughan. The **Eastern grey squirrel** (*Sciurus carolinensis*) is the most common-larger, with grey fur and a bushy tail, highly adaptable to suburban environments, and an aggressive chewer of wood and plastic building materials. The **red squirrel** (*Tamiasciurus hudsonicus*) is smaller with reddish fur, more commonly found near woodlots and mature forest edges in areas like Kleinburg, and tends to nest in wall insulation or deep attic recesses.
+- **Plastic roof vents.** The most common entry, by a long way. A grey can chew through one pretty quickly, and once it's open, the attic is right there.
+- **Vinyl and aluminum soffit.** It flexes, and at corners and joints a squirrel can pry a panel down.
+- **Builder gaps.** Spots where two pieces of trim were supposed to meet and didn't quite. Around utility lines, where the soffit meets a bump-out, around the garage roof.
+- **Fireplace chimney chases.** The boxed-in chimney on homes with a gas or wood fireplace. The metal cap on top doesn't always meet the siding tightly.
+- **Unscreened wall vents.** Dryer and bathroom exhausts with no metal guard.
 
-Both species are diurnal animals, meaning they are active during daylight hours. Vaughan homeowners typically first notice squirrel activity as scuffling or rapid scurrying sounds at dawn and again in late afternoon. This timing helps distinguish squirrels from raccoons (which are nocturnal and produce heavier thumping sounds) and mice (which produce faint, constant scratching mostly at night).
+One that sticks with me was a 2000s two-storey in Thornhill. The builder had left a gap where the little roof over the bay window met the vinyl soffit, maybe two fingers wide, hidden in the shadow of the overhang. Squirrels were going in there, running along inside the soffit and coming out into the main attic. The owners had already had someone patch a vent on the other side of the house and couldn't figure out why the noise kept going.
 
-Squirrels typically have young twice a year: a late-winter/early-spring litter (mating in December–February, births around late February–April) and a summer litter (May–June births, with activity extending into August–October as juveniles become independent). These breeding cycles align with the busiest periods for wildlife removal calls across Woodbridge, Maple, and Thornhill. Sealing entry points while young squirrels are trapped inside the attic can lead to inhumane deaths-a critical reason why timing matters during professional removal.
+<!-- generic anecdote: confirm or replace with a real job -->
 
-As temperatures drop in fall, squirrels aggressively seek warm shelter, chewing through roof vents and soffits to access heated attic spaces before winter. Newer Vaughan homes with lightweight plastic vents are especially vulnerable during this period. Squirrels often enter homes through attic vents and soffits, targeting the weakest points in the building envelope.
+## Older homes have their own soft spots
 
-### Common Entry Points and Structural Vulnerabilities
+Older parts of Vaughan, like the original core of Maple and the homes around Concord, have a different set of problems. Wood fascia and soffit that's gone soft after decades of rain and snow. Rooflines with dormers and valleys that have shifted. Metal vent covers rusted to the point of crumbling. Uncapped chimneys and loose flashing where brick meets siding. On these houses there are usually several weak spots, and I'd rather find all of them than chase one.
 
-A "structural vulnerability" is any gap or weak point larger than approximately 1.5 inches (about 4 cm) around the roofline or building exterior. Squirrels can squeeze through surprisingly small openings-smaller than most homeowners expect.
+Trees play a bigger part on older lots too. A grey squirrel can jump a couple of metres from a branch to a roof, and on a ravine-backing lot there's no shortage of branches.
 
-High-risk potential entry points include:
+## Two litters a year, and why that matters for squirrel removal in Vaughan
 
-* **Roof-to-soffit junctions** where the overhang meets the fascia, especially where settling has created gaps
+Squirrels here usually have two litters a year. They mate from about December to February, with babies born from late February into April. Then there's a second round with babies born around May and June. The young ones stay up there for several weeks before they can follow their mother out, and some are still around into late summer.
 
-* **Plastic roof vents** that squirrels can chew through in minutes
+This is the part that people get wrong with a DIY fix. If you seal the hole, or put a one-way door on it, while there are babies inside, the mother can't get back to them. They starve in the insulation or down a wall, and you're left with a smell that can last for weeks. Mom will also chew like crazy trying to get back in, often making a brand-new hole right next to your patch.
 
-* **Wall vents** including dryer exhaust and heating vents without metal screening
+So before anything goes on the roof in late winter, spring or summer, we check for young. If we find them, we lift them out by hand and put them in a warm box mounted at the entry. The mother comes back, picks them up and moves them to a backup nest, usually in a tree nearby. Once they're out, the one-way door can go on.
 
-* **Uncapped chimney crowns** and gaps in chimney chase covers
+Fall is the other busy stretch. As it gets colder, squirrels look for somewhere warm to spend winter, and they go hard at any vent or soffit gap they can find.
 
-* **Construction gaps** around utility penetrations (pipes, cables, wiring)
+## What we actually do on the job
 
-* **Rotten fascia boards** and deteriorated wood soffits
+Here's the sequence, start to finish.
 
-Newer Vaughan builds in areas like Vellore, Patterson, and parts of Maple often use lighter aluminum soffits and plastic vents that are easier for squirrels to pry open or chew through. Construction gaps around penetrations in newer homes may also be poorly sealed from the start. Older Woodbridge and Kleinburg homes present different challenges: wood fascia and soffits that have rotted over decades, multiple roof intersections and dormers that have shifted, and corroded metal vent covers that have lost their protective integrity.
+1. **Inspection.** We walk the roofline on ladders and on the roof when needed, photograph every opening, and go into the attic where it's safe to. Sometimes a small camera helps us look inside a wall or a long soffit run. You get a written report with photos and a quote.
+2. **Baby check.** In the breeding seasons, we look for young before doing anything else.
+3. **The one-way door.** A steel mesh door or tube goes over the main hole. The squirrel goes out for its morning run and can't get back in.
+4. **Sealing the rest.** While the door does its work, we close every other gap: steel mesh (16 gauge or heavier) on vents, metal flashing at soffit corners and roof-to-wall joints, steel vent covers in place of plastic ones, chimney caps, and mesh around utility penetrations. Rotten fascia or soffit gets replaced.
+5. **Follow-up.** Most squirrels are out within 3 to 7 days. When there's no fresh activity, the door comes off and the last hole is sealed for good.
 
-Understanding where squirrels get in sets up the next step: recognizing the damage and hazards they create once inside your attic.
+Chimney jobs are a little different. Here's one I've seen a version of more than once. A homeowner in Maple heard frantic scratching behind the gas fireplace in the family room, on and off all day. A squirrel had squeezed in under the chase cover, dropped down inside the boxed chimney, and couldn't climb back up the smooth metal liner. We lowered a rough board down the chase so it had something to grip, put a one-way door at the top, and it was out by the next afternoon. Then the chase cover got sealed to the siding properly.
 
-## Risks, Damage, and Health Concerns from Squirrels in the Attic
+<!-- generic anecdote: confirm or replace with a real job -->
 
-Once squirrels establish nests inside an attic, the consequences escalate quickly. What begins as annoying loud noises above a bedroom becomes structural degradation, contaminated insulation, and in serious cases, genuine fire hazards. Recognizing these risks explains why professional removal and biohazard sanitation are essential-not optional.
+## How long it takes, from first call to last visit
 
-### Structural and Fire Hazards
+When you call, we'll ask what the noise sounds like, what time of day you hear it, roughly how old the house is and whether you've noticed anything chewed outside. That's usually enough for a good guess before we even pull up.
 
-Squirrels gnaw continuously to keep their teeth sharp, and attic building materials are convenient targets. They chew through wooden trusses, rafters, fascia boards, and roof decking, progressively weakening the roof structure-particularly in older Vaughan homes where framing may already be less robust. Squirrels can cause significant damage to insulation and electrical wiring, and this represents one of the most serious risks: gnawed wire insulation exposes copper conductors, creating the potential for electrical arcing, short circuits, and attic fires.
+The inspection takes about as long as it takes to walk the whole roof and get into the attic. We'll go over what we found with you right there and leave you with the written quote.
 
-Beyond wiring, squirrels damage secondary building systems including flexible HVAC duct connectors routed through attic spaces, pot-light housings recessed into ceilings, and plastic plumbing vents. A chewed vapour barrier in a Thornhill attic or exposed wiring above a Maple bedroom ceiling are not hypothetical scenarios-they are situations that experienced professionals encounter regularly in Vaughan homes.
+Once you say go, the one-way door and most of the sealing happen on the first working visit. Then we wait. Squirrels usually clear out within 3 to 7 days, but a house with several entry points or long, connected soffit runs can take longer, and we'd rather leave the door up a few extra days than pull it early. A follow-up visit takes the door off and closes the last hole. If the attic needs cleanup or new insulation, that comes after the squirrels are gone, so we're not working around an occupied nest.
 
-### Biohazards: Droppings, Parasites, and Contaminated Insulation
+Weather can shift things. Ice, freezing rain or a heavy snowfall can push roof work back a day or two, and we'll keep you posted when that happens. Spring and fall are our busiest stretches, so it helps to call as soon as you notice something.
 
-Squirrel urine and feces accumulate in attic insulation and on drywall surfaces over weeks and months. Urine-soaked insulation loses its R-value (thermal resistance), compresses, and generates ammonia odour that can seep into living spaces. **Aerosolized droppings**-particles that become airborne when contaminated insulation is disturbed-pose health risks for anyone entering the attic without proper respiratory protection.
+## Spray foam, mothballs and cage traps
 
-**Ectoparasites** such as fleas, ticks, and mites live on squirrels and within their nesting materials. Roundworm eggs may also be present in droppings. **Pathogen transmission** is possible through bacteria like *Salmonella* and potentially *Leptospira*, though less commonly than with some other wildlife. These organisms pose health risks particularly for children, pets, and individuals with respiratory conditions.
+I get why people try these first. Here's what usually happens.
 
-Professional squirrel removal includes biohazard sanitation to address these risks-not just eviction of the animals. This distinction matters: simply getting rid of the squirrels without cleaning up their biological waste leaves your family exposed to ongoing contamination.
+**Spray foam and caulk.** Squirrels chew through both in no time, and the hole often ends up bigger. Worse, if a squirrel was inside when you sealed it, it'll chew its way out somewhere else, sometimes into the house.
 
-### Noise, Odour, and Secondary Pest Problems
+**Mothballs, ammonia rags, ultrasonic gadgets.** They wear off or the squirrels get used to them. A mother with babies isn't leaving because of a smell.
 
-Common noise complaints from Vaughan homeowners include rapid scratching at dawn, rolling sounds from cached nuts, and fast scurrying directly above bedrooms-particularly noticeable in quiet residential subdivisions. During storms, squirrels sometimes produce banging sounds as they attempt to force entry through loose materials.
+**Cage traps.** In Ontario, you're allowed to deal with a squirrel that's damaging your property, but a live-caught one has to be released within 24 hours and within 1 km of where it was caught. The province lays out the rules on its page about [wildlife damaging private property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property). A squirrel will cover a kilometre without trying, and if the hole is still open, it'll be back. Trap a nursing mother and her babies are stranded. We only trap when exclusion won't work, like a squirrel loose inside the living space.
 
-Accumulated droppings and urine generate persistent odours, especially during warmer months when decomposition accelerates. These smells can migrate through ceiling drywall, HVAC returns, and wall cavities into living spaces. An untreated squirrel infestation also attracts secondary pests-carpet beetles, flies, and mice-drawn to droppings, seeds stored in nesting material, and the warm, insulated environment.
+**Poison.** Never. A poisoned squirrel crawls into a wall to die, and then you've got the smell, the flies and a carcass nobody can reach. It's also a danger to hawks, owls and pets.
 
-Quick, professional intervention is almost always more cost-effective than waiting. Every additional week of infestation compounds structural damage, contamination, and the eventual cleanup cost.
+And then there's the roof itself. Vaughan has a lot of steep two-storey rooflines, and climbing one with a can of foam in your hand isn't worth it.
 
-## How Squirrel Removal in Vaughan Works
+## What's left in the attic after they're gone
 
-Effective squirrel removal is a structured process, not a single trap or a can of spray foam. Hiring a professional humane wildlife removal service is essential for squirrel invasions because the work requires coordinating eviction, exclusion, and sanitation in the right sequence and at the right time of year. Greater Wildlife Control, a local humane wildlife specialist, follows a proven four-step workflow for squirrel removal across Vaughan's residential neighbourhoods.
+Squirrels leave a mess. Droppings and urine soak into insulation, it packs down and stops insulating, and the ammonia smell can work its way through the ceiling and into the ductwork. Nests bring fleas, mites and ticks with them, and droppings can carry bacteria like *Salmonella*. Old nests and stashed food also draw in beetles, flies and mice.
 
-### Step 1: Detailed Exterior and Attic Inspection
+Then there's the chewing. A squirrel's teeth never stop growing, so it chews whatever's handy: trusses, roof boards, flexible duct, pot-light housings and electrical wiring. Chewed wire is the one that bothers me most, because bare copper buried in insulation is a fire risk you can't see.
 
-Technicians begin with a full exterior walk-around, systematically assessing the roofline, soffits, fascia, vents, and chimney from ground level and, where needed, from ladders or the roof surface. A full inspection of the attic follows-using proper safety equipment and often aided by thermal imaging or endoscopic cameras to locate hidden nests in wall cavities or deep soffit runs.
+If it's a recent problem, cleanup is usually simple. We pull out the nest and droppings, HEPA vacuum, and treat the area with disinfectant and deodorizer. If they've been there for months, the soiled insulation comes out and new insulation goes in. Any chewed wiring gets documented, and I'd have an electrician look at it before new insulation covers it up. We wear respirators and coveralls for this, and we keep the dust in the attic.
 
-Licensed technicians look for chew marks on soffits and fascia, entry holes in roof vents, droppings, nesting materials (shredded insulation, leaves, fabric), and live squirrel activity patterns. A thorough inspection distinguishes squirrels from raccoons, birds, bats, or mice based on entry hole size, droppings shape, and damage type.
+If the smell has made it downstairs, the ductwork is usually the reason. Flexible ducts running through the attic are easy for a squirrel to chew, and once there's a hole in one, the furnace pulls attic air through the house. We check the ducts while we're up there and let you know if any need repairing or cleaning.
 
-A written, photo-documented report is prepared so homeowners can clearly see every identified entry point, the extent of damage, and the recommended scope of work. This property inspection forms the basis for an accurate quote.
+## Ballpark pricing
 
-### Step 2: Humane Eviction and One-Way Door Installation
+Every house is different, so we always look before quoting. But to give you a rough idea, a typical Vaughan squirrel job with the inspection, eviction and some sealing usually falls somewhere around $200 to $600. A bigger job with several entry points, structural repairs and a full attic cleanup can run $1,500 or more.
 
-A **one-way exclusion door** is a device installed over the primary entry point that allows squirrels to exit the attic through a spring-loaded or flap mechanism but prevents them from re-entering. One-way exclusion doors are the gold standard for humane squirrel removal. Greater Wildlife Control typically installs these at the main identified entry-often a roof-soffit junction gap or a damaged roof vent.
+What pushes it up: a steep or high roof, lots of openings, how much needs replacing, and how long they've been in there. When you compare quotes, check what each one actually covers. You'll see exactly what the warranty covers on paper before we start.
 
-Timing around baby season is critical. During late winter and late summer, technicians check for dependent young before installing exclusion devices. When babies are present, they may be carefully hand-removed and placed in a warming "reunion box" mounted near the entry point, allowing the mother to retrieve and relocate her litter naturally. This humane approach avoids orphaning young inside walls-a common and devastating consequence of premature sealing.
+## Keeping your roofline squirrel-proof
 
-Lethal methods and poisons are avoided entirely. Beyond the ethical issues, poisoned squirrels often die inside wall cavities or attic spaces, creating severe odour and decomposition problems. Humane exclusion methods are preferred over relocation for nuisance wildlife because they allow squirrels to leave on their own terms while preventing return.
+Once we've sealed the house, a bit of upkeep keeps it that way:
 
-### Step 3: Permanent Exclusion and Structural Repairs
+- Trim branches back so there's at least 2 metres between them and the roof.
+- If you're replacing the roof, ask for metal vents instead of plastic, and have the soffit corners looked at while it's open.
+- Move bird feeders away from the house and use a baffle on the pole. Spilled seed is a squirrel magnet.
+- Keep garbage and compost closed, and feed pets inside.
+- Look up at the roofline after a big windstorm for lifted vents, new chew marks or a soffit panel hanging down.
+- Have the roof checked in late summer and again in late fall, before the winter nesting push.
 
-Once all squirrels have exited-typically over 3–7 days of monitoring-the one-way door is removed and the main entry hole is permanently sealed with chew-resistant materials. Greater Wildlife Control uses galvanized steel mesh (16 gauge or heavier), metal flashing, and heavy-duty vent covers that squirrels cannot gnaw through.
+Those steel covers and flashing keep out raccoons, birds and bats too, since they all go after the same weak spots.
 
-Typical exclusion work includes:
+## Things people ask me on site
 
-* Screening all roof vents and gable vents with metal mesh
+**Can you do this in winter?** Yes, we work year-round. Ice and snow sometimes mean we have to pick our day for the roof, and late winter is baby season, so we check for young first no matter what month it is.
 
-* Reinforcing soffit-eave intersections with steel flashing
+**Will they come back?** Not through the openings we've sealed with steel. They'll keep checking the roof if there's food around and branches touching it, which is why the yard stuff above matters.
 
-* Installing chimney caps on uncapped or damaged chimneys
+**Is it only one squirrel?** Sometimes. More often it's a mother with young, or a couple of adults sharing a nest, especially in winter. The one-way door handles however many there are, since each one leaves on its own schedule and none can get back in.
 
-* Closing construction gaps around utility penetrations (pipes, cables)
+**Do I need to be home?** For the inspection, it helps, so we can get into the attic and go over what we found. For the exterior work, not usually, as long as we can get to the roof and you've let us know about gates and pets.
 
-* Replacing rotten fascia boards or damaged soffits
+**Does Vaughan send someone to remove them?** No. The City doesn't handle wildlife removal on private property, so that falls to the homeowner and whoever they hire.
 
-Properly executed exclusion not only prevents squirrels from returning-it also deters raccoons, birds, and bats from exploiting the same vulnerabilities. Sealing entry points can prevent wildlife intrusions in homes across all seasons.
+## Got a squirrel in the attic? Let's take a look
 
-### Step 4: Attic Cleanup and Biohazard Sanitation
-
-Professional squirrel removal should always include assessment of attic contamination and, when warranted, full biohazard remediation. The process involves removal of heavily soiled insulation and nesting materials, HEPA-filtered vacuuming of droppings from surfaces and structural members, and application of hospital-grade disinfectants and odour neutralizers.
-
-In heavily damaged attics-where insulation is compressed, saturated with urine, or torn apart for nesting-Greater Wildlife Control may coordinate insulation replacement to restore thermal performance and indoor air quality. Electrical damage is documented and, when necessary, referred to licensed electricians for wiring repair.
-
-**Recap:** The four-step process-Inspection → Eviction → Exclusion/Repair → Cleanup-works as a system. Skipping any step leads to recurring problems: eviction without exclusion means squirrels return through the same holes; exclusion without cleanup leaves biohazards in your attic; and cleanup without proper eviction first means you are disturbing an occupied nest.
-
-## DIY vs Squirrel Removal in Vaughan
-
-Many Vaughan homeowners initially try DIY fixes-spray foam in visible holes, store-bought repellents, or generic cage traps-before discovering the limitations firsthand. This section compares typical DIY approaches to qualified wildlife control services like those from Greater Wildlife Control, focusing on safety, effectiveness, and legality.
-
-### Why DIY Attempts Often Fail
-
-Common DIY methods include blocking visible holes with expanding foam or caulk, placing mothballs or ammonia-soaked rags in the attic, and setting store-bought cage traps without a clear plan for what to do with a captured animal.
-
-Each method has specific failure points. Squirrels chew through foam and caulk within hours, often creating larger openings than the original gap. Chemical repellents lose potency quickly and squirrels habituate to them. Cage traps can catch a mother while her dependent young remain trapped inside the attic, leading to starvation and decomposition in walls. Blocking entry points prematurely-without confirming all animals have exited-pushes squirrels deeper into wall cavities and soffit runs where they cause even more property damage and are far harder to reach.
-
-### Safety, Legal, and Animal-Welfare Considerations
-
-Ontario wildlife laws regulate the relocation of wild animals. Under the  [Fish and Wildlife Conservation Act](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property), any captured wildlife must be released within 1 km of the capture site and within 24 hours. Relocating squirrels further is illegal. The City of Vaughan does not provide wildlife removal services for private property; instead, the City of Vaughan advises using a private wildlife-control company for nuisance wildlife.
-
-Physical safety risks of DIY removal are substantial: climbing steep Vaughan roofs, working near exposed electrical wiring, and handling potentially aggressive or injured animals. Exposure to aerosolized droppings and ectoparasites without proper respiratory protection and PPE poses additional health risks. Professional technicians are trained, vaccinated, insured, and use fall-arrest equipment and HEPA-rated respiratory protection.
-
-Humane removal techniques include sealing entry points and using one-way doors-methods that require training to execute correctly without trapping animals inside or separating mothers from young.
-
-### Service Advantages with Greater Wildlife Control
-
-Greater Wildlife Control provides effective solutions that DIY methods cannot match:
-
-* **Accurate species identification** and lifecycle assessment (presence of babies, nest location)
-
-* **Complete entry point mapping**, including hidden gaps that homeowners miss
-
-* **High-grade, chew-resistant materials** for permanent exclusion
-
-* **Guaranteed work** with defined warranty periods on materials and labour
-
-* **Humane, family-friendly practices**, especially during baby season, preserving local squirrel populations while protecting your home
-
-Typical service timelines in Vaughan: inspection within 24–48 hours of first contact, with most removals resolved within one to two weeks including the eviction monitoring period. This compares favorably to the weeks or months of escalating damage that often result from repeated failed DIY attempts.
-
-## What Vaughan Homeowners Can Expect: Process, Timeline, and Cost
-
-This section answers three practical questions Vaughan residents ask most often: "What happens when I call?", "How long does it take?", and "What will it cost?" for professional squirrel removal.
-
-### From First Call to Follow-Up: Step-by-Step Experience
-
-The customer journey begins with an initial phone or email contact. Greater Wildlife Control's office will ask about the signs you have noticed (noises, timing, visible damage), your roof type and approximate home age, and your address to determine the service area. An on-site inspection is then scheduled-often within a day or two.
-
-On inspection day, a technician arrives within a defined window, performs the exterior walk-around and attic check, discusses findings with you on-site, and presents a written quote covering removal, exclusion, and any recommended cleanup. Follow-up visits are scheduled to remove one-way doors after the monitoring period, verify seals, and confirm no further squirrel activity. Greater Wildlife Control offers free quotes so homeowners can understand the full scope before committing.
-
-### Typical Timeframes for Squirrel Removal in Vaughan
-
-During most of the year, inspections are scheduled within the same week of initial contact. During peak spring (March–May) and fall calling seasons, high demand may add a few days. Active eviction via one-way doors usually takes 3–7 days to ensure all squirrels have exited. Complex infestations with multiple entry points or access through interconnected soffit runs may require a longer monitoring window.
-
-Structural repair and exclusion work may take additional days beyond eviction, particularly when chimney caps, extensive soffit replacement, or roofing repairs are involved. Vaughan's winter weather-snow, ice, freezing rain-can delay exterior roof work, and Greater Wildlife Control adapts by prioritizing safe working conditions while keeping homeowners informed of adjusted timelines.
-
-### Cost Factors and Budgeting
-
-Key pricing variables include:
-
-* Number and location of entry points (height, roof pitch, accessibility)
-
-* Level of attic contamination (light droppings vs. heavily soiled insulation requiring replacement)
-
-* Complexity of exclusion work (single vent seal vs. multiple soffit-eave repairs and chimney cap installation)
-
-* Whether electrical damage documentation or insulation replacement is needed
-
-In Vaughan, standard squirrel removal jobs-including inspection, eviction, and minor exclusion-typically range from CAD $200 to $600. Extensive jobs involving multiple entry points, significant structural repairs, and full attic cleanup can cost CAD $1,500 or more. Exact quotes always require an on-site assessment because every home and infestation is different.
-
-Properly executed squirrel removal and long term prevention is almost always far cheaper than repairing accumulated roof damage, replacing fire-damaged wiring, or performing emergency insulation replacement after months of unchecked contamination.
-
-## Common Squirrel Problems in Vaughan and How to Solve Them
-
-Greater Wildlife Control encounters the same three scenarios repeatedly across Vaughan homes. Here is how each problem presents and how it is professionally resolved.
-
-### Problem 1: Squirrels in the Attic Above Bedrooms
-
-**Signs:** Loud morning scurrying directly overhead, scratching sounds that stop and start, and small dark droppings found near attic hatches or around ceiling light fixtures.
-
-**Solution:** A technician inspects the roof-to-soffit line to identify the primary entry hole and any secondary gaps. A one-way exclusion door is installed at the main entry, all other gaps are sealed with galvanized steel mesh, and the attic is monitored for 3–7 days. Once confirmed clear, the exclusion door is removed and the final seal is completed. If droppings or urine-soaked insulation are present, biohazard sanitation follows.
-
-### Problem 2: Chewed Roof Vents and Soffits on Newer Vaughan Builds
-
-**Signs:** Visible chew marks or holes in plastic roof vents, pried-open aluminum soffit panels, and daylight visible from inside the attic in subdivisions across Vellore, Patterson, and newer Maple developments.
-
-**Professional fix:** Damaged plastic vents are replaced or capped with metal-caged vent covers. Soffit edges are reinforced with steel flashing. Construction gaps around utility penetrations-common in newer builds-are sealed with heavy-gauge mesh. In some cases, cheap plastic vents throughout the roofline are proactively upgraded to metal during the same visit to prevent future wildlife problems.
-
-### Problem 3: Squirrels Nesting in Chimneys or Wall Cavities
-
-**Signs:** Scratching or chittering sounds inside chimney flues or walls, unusual odour near the fireplace, and visible gaps between brick-to-siding transitions or missing chimney caps.
-
-**Solution:** Greater Wildlife Control installs a one-way exclusion cap on the chimney, allowing animals to exit but not return. When squirrels are trapped deep inside wall cavities, specialized retrieval tools or carefully placed access openings may be necessary. After extraction, permanent chimney caps are installed and flashing is repaired at all siding-to-masonry transitions. Raccoons commonly invade attics and crawlspaces in Vaughan through similar chimney and roofline vulnerabilities, so these repairs provide dual protection.
-
-Solving today's squirrel problem is only half the battle-the next step is making sure they can't come back.
-
-## Long-Term Prevention for Vaughan Homes
-
-Long-term success against squirrels in Vaughan requires combining structural exclusion with smart property-level habits and periodic professional oversight. Prevention strategies save significantly more money than repeated reactive removal.
-
-### Exterior Maintenance and Wildlife-Proofing
-
-Key preventive measures include:
-
-* **Annual roofline inspections**, ideally in late summer and again in late fall, to catch loose soffits, deteriorating fascia, and damaged vents before squirrels exploit them
-
-* **Prompt repair** of any rotted wood, loose panels, or shifted flashing
-
-* **Tree trimming** to maintain at least 6–8 feet of clearance between branches and the roof, eliminating the primary jump route squirrels use to gain access
-
-* **Metal screening** on all roof, gable, and wall vents-never rely on plastic alone
-
-* **Chimney caps** on every flue, and sealed utility penetrations (pipes, cables) with steel mesh and flashing
-
-Wildlife proofing homes can prevent squirrel infestations far more effectively and affordably than dealing with an active invasion. These same upgrades also protect against raccoons, birds, and bats-common pests that exploit identical vulnerabilities.
-
-### Yard and Neighbourhood Attractants
-
-Open bird feeders are among the most common food sources drawing squirrels close to Vaughan homes. Use pole-mounted baffles and position feeders well away from the house. Secure garbage cans with tight-fitting lids-metal cans are more effective than plastic. Compost bins should be enclosed, and pet food should always be stored inside.
-
-Intentional feeding of wildlife can result in municipal fines in Vaughan, and even unintentional attractants like fruit trees overhanging roofs increase squirrel pressure on nearby homes. Even when mature trees and green spaces cannot be fully eliminated from your property, strong exclusion work keeps the home itself protected.
-
-### When to Schedule a Preventive Inspection with Greater Wildlife Control
-
-The ideal times for pre-emptive checks are **late summer** (after spring young are independent and before fall nesting behaviour begins) and **late fall** (before winter sheltering peaks). Additional inspections are wise after major storms, roof renovations, or any time you notice changes to your roofline.
-
-A standalone prevention visit includes an exterior survey of all vulnerable points, written recommendations prioritized by risk level, and optional installation of preventive features-vent screens, chimney caps, soffit reinforcement-before squirrels find the gaps first. Prevention is significantly cheaper and less disruptive than dealing with an active infestation, and Greater Wildlife Control can tailor recommendations to your home's specific situation.
-
-## Conclusion and Next Steps
-
-In Vaughan's squirrel-dense environment-with its mature tree canopy, ravine corridors, and mix of older and newer housing stock-professional, humane removal plus robust exclusion is the safest, most reliable way to protect your attic, your property, and your family. Raccoons can cause significant property damage in homes and raccoons can carry diseases like rabies and raccoon roundworm, making comprehensive wildlife control services in Vaughan valuable beyond just squirrel removal. March through May is peak raccoon season in Vaughan, and raccoon removal services include thorough property inspections that often overlap with squirrel exclusion work.
-
-**Your next steps:**
-
-1. **Confirm the signs:** Listen for dawn/dusk scurrying, check your attic for droppings, and look for chew marks on exterior vents and soffits
-
-2. **Do not seal holes yourself**-premature sealing can trap animals inside walls, causing far worse damage and animal-welfare problems
-
-3. **Contact Greater Wildlife Control** to book a professional inspection-most appointments are available within 24–48 hours across Vaughan
-
-4. **Plan for follow-up prevention:** After removal, schedule annual roofline checks and address yard attractants to keep your home protected long-term
-
-If you are also dealing with raccoons often entering attics and crawlspaces during cold months, skunks under decks, or seagulls-which are a major wildlife complaint in Vaughan-Greater Wildlife Control provides humane solutions across residential and commercial properties. Vaughan's wildlife control services cover both residential and commercial properties, including commercial buildings near the Vaughan Metropolitan Centre where wildlife issues can affect business operations.
-
-## Frequently Asked Questions About Squirrel Removal in Vaughan
-
-**How do I know if it's squirrels in my attic and not raccoons or mice?** Squirrels produce fast, light scurrying and scratching sounds primarily at dawn and late afternoon-they are diurnal animals. Raccoons are heavier and nocturnal, creating loud thumps and slow dragging sounds at night; raccoons can be aggressive if threatened, posing risks to humans. Mice produce faint, constant scratching mostly at night. Entry hole size also helps: squirrel holes are typically 1.5–3 inches across, while raccoon entry points are much larger (4–6 inches or more). A professional can confirm the species during an on-site inspection.
-
-**Is squirrel removal legal in Vaughan, and what rules apply?** Yes, squirrel removal is legal in Ontario when done humanely. Under the Fish and Wildlife Conservation Act, any live-captured wildlife must be released within 1 km of the capture location and within 24 hours. Leg-hold traps and certain other methods are strictly regulated. The City of Vaughan requires licensing for wildlife removal companies operating within city limits and advises homeowners to hire private pest control services rather than attempting capture themselves. Vaughan's geography attracts various wildlife, including raccoons and skunks, so these regulations apply broadly.
-
-**Will the squirrels come back after removal?** Not if exclusion is done properly. When all entry points are sealed with chew-resistant materials-galvanized steel mesh, metal flashing, heavy-duty vent covers-squirrels cannot re-enter. However, if attractants remain (open bird feeders, unsecured garbage, overhanging branches providing easy access), squirrels will continue testing your roofline. Effective squirrel removal involves humane eviction and sealing entry points as an integrated approach to prevent recurrence.
-
-**Can you remove squirrels in winter?** Yes. Greater Wildlife Control performs squirrel removal year-round in Vaughan, though winter conditions (snow, ice, freezing temperatures) may require adjusted scheduling for safe roof access. Late-winter removals must account for the possibility of newborn litters in the attic, since squirrels mate in December–February and give birth in late winter. Technicians assess for dependent young before installing exclusion devices, regardless of season.
-
-**Do you offer warranties on squirrel exclusion work in Vaughan?** Greater Wildlife Control backs its exclusion work with defined warranty coverage on materials and labour. Many Vaughan pest control company providers offer 1–2 year exclusion guarantees on sealed entry points. For exact warranty terms applicable to your home, contact Greater Wildlife Control directly-coverage details depend on the scope of work and materials used for your specific situation.
+If you're hearing scratching overhead or you've spotted a chewed vent, get in touch with Greater Wildlife Control and we'll set up a visit. We'll find every way in, check for babies, get the squirrels out and seal the roof so they stay out.
