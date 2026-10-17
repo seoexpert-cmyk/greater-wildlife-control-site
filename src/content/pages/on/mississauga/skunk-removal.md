@@ -100,7 +100,7 @@ The inspection process includes:
 
 4. **Documentation of contamination** including feces accumulation, urine staining, insulation damage, and biohazard conditions requiring sanitization
 
-Companies like Gates Wildlife Control, with over 40 years of experience in the Greater Toronto Area, and Brilliex Pest Control, which uses humane methods for wildlife removal, exemplify the professional standard that Mississauga homeowners should expect from any wildlife removal company they engage.
+That's the standard we hold ourselves to at Greater Wildlife Control on every Mississauga job, and it's what you should expect from anyone you let near your deck.
 
 ### Humane Removal Techniques Comparison
 
@@ -175,7 +175,7 @@ Professional skunk removal remains the safest and most effective solution for Mi
 
 If you suspect skunk activity on your property, take these immediate steps:
 
-1. **Do not approach or attempt to trap the animal yourself**-contact a licensed wildlife removal company in the Mississauga area for a professional consultation
+1. **Do not approach or attempt to trap the animal yourself**-call Greater Wildlife Control and we'll come take a look
 
 2. **Schedule a thorough inspection** of your property's perimeter, focusing on decks, porches, sheds, and foundation gaps
 
@@ -205,4 +205,4 @@ For straightforward cases involving a single den with few entry points, expect 2
 
 ### Do removal companies offer guarantees against skunk return?
 
-Most reputable wildlife removal companies in Mississauga offer guarantees tied to their exclusion work. Basic service packages typically include a 30-day guarantee, while comprehensive exclusion installations-covering all identified entry points with galvanized steel mesh and structural repairs-often come with warranties of one year or even lifetime coverage. The strength of any guarantee depends on the thoroughness of the exclusion work performed. Homeowners should verify warranty terms in writing and understand that guarantees typically require maintaining the preventive measures recommended by the company, including securing food sources and keeping the property free of attractants.
+Greater Wildlife Control backs its exclusion work, and we go over exactly what the warranty covers when we quote the job. Any guarantee is only as good as the exclusion behind it, so get the terms in writing and understand that guarantees typically require maintaining the preventive measures recommended by the company, including securing food sources and keeping the property free of attractants.

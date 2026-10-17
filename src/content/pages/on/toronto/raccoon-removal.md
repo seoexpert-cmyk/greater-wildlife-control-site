@@ -1,159 +1,117 @@
 ---
-title: "Raccoon Removal in Toronto, ON: Safe, Humane Attic Eviction"
+title: "Raccoon Removal in Toronto, ON: Out of the Attic and Kept Out"
 meta_title: "Raccoon Removal in Toronto, ON"
-meta_description: "Raccoons in your Toronto attic, chimney or deck? Greater Wildlife Control removes them humanely, seals entry points and cleans up. Book an inspection."
+meta_description: "Raccoons in your Toronto attic, chimney or under the deck? We check for babies, get them out humanely, seal every entry point and clean up. Book a visit."
 path: "/on/toronto/raccoon-removal"
 source: "Surfer 16703254"
 ---
 
-## Introduction
+If you're hearing something heavy walking across the ceiling around 9 or 10 at night, and then again just before sunrise, that's almost always a raccoon. Squirrels keep daytime hours and they're light on their feet. Raccoons sound like somebody dragged a bag of laundry across your attic.
 
-Professional raccoon removal in the city of Toronto is the safest way to resolve wildlife intrusions that threaten your property, your family's health, and the well-being of the animals themselves. Every year, thousands of Toronto homeowners discover raccoons nesting in attics, under decks, and inside wall cavities - situations that demand expert intervention rather than improvised fixes.
+Toronto is about as good as it gets for a raccoon, which is why raccoon removal in Toronto keeps us busy pretty much all year. There's food on every street on garbage night, there are ravines to travel along, and there are a lot of older houses with soft wood soffits and roof vents that pop off with one good pull. So we see this constantly, from the Annex and Leslieville out to North York and Scarborough.
 
-This guide covers the full scope of professional wildlife removal as it applies to Toronto properties: attic extrication procedures, under-deck and shed removals, biohazard sanitation protocols, and the structural repairs needed to prevent re-entry. It is written for property owners across Toronto and the GTA who are dealing with an active raccoon problem or who want to understand what certified professionals actually do - and why humane, legally compliant methods produce the only lasting results. Professional raccoon removal services are necessary to avoid legal risks, and DIY raccoon removal can increase overall costs due to repeat visits and incomplete sealing.
+Here's how we actually deal with it: what we look for on the roof, why the time of year changes everything, and how we get the animals out without trapping a mom away from her babies. We'll also cover the part most people skip, which is sealing the house so you aren't calling us again next spring.
 
-**In short:** professional raccoon removal in Toronto involves humane live capture or eviction using one-way exclusion doors, thorough sanitization of contaminated spaces, and permanent structural sealing of all entry points - all performed in compliance with Ontario's Fish and Wildlife Conservation Act.
+## Where they're getting in
 
-After reading this guide, you will:
+When I walk a house, I start at the corners. Where the soffit meets the fascia at a roof corner is the number one spot in this city. On a lot of older Toronto homes that wood has had decades of freeze and thaw, and a raccoon just peels it back like a can lid. After that I check the roof vents, the plumbing stack, the chimney, and anywhere a tree branch hangs over the roof, because that branch is their staircase.
 
-* Recognize the following signs that indicate a raccoon infestation requiring professional intervention
+They don't need much. A gap about the size of your fist is enough for a female looking for a place to have her litter.
 
-* Understand the humane removal process from detailed inspection through permanent exclusion
+I remember a call on a semi where the homeowner was sure they were coming in through the chimney. They'd already paid for a cap. When we got up there, it was a soft corner on the back side of the house that you couldn't see from the street or the yard. That's why we go up on the roof instead of guessing from the driveway.
 
-* Know the health risks associated with raccoon droppings, urine, and direct contact
+<!-- generic anecdote: confirm or replace with a real job -->
 
-* Learn how Toronto's housing architecture creates specific vulnerabilities raccoons exploit
+And don't forget under the deck and the shed. If the attic's sealed tight, that's the next place they'll try.
 
-* Have actionable prevention steps to keep your home safe after removal
+## Why the calendar matters so much
 
-## Understanding Raccoon Behavior and Urban Infestations
+Raccoons mate in late winter, and the babies, called kits, show up anywhere from about March into June. A litter is usually three to five. A pregnant female wants somewhere warm, dry and enclosed, and an attic checks every box.
 
-Raccoons are among the most successfully adapted wild animals in any North American city, and Toronto's dense urban landscape provides them with abundant food, shelter, and nesting opportunities. Understanding wildlife behaviour is the foundation of effective raccoon control - removal strategies that ignore seasonal patterns, denning instincts, or maternal behavior almost always fail, leading to repeat infestations and unnecessary harm to the animals.
+So here's my rule of thumb. If there's a raccoon in your attic between spring and late summer, I assume it's a mother with young until I've seen for myself that it isn't. That one assumption changes the whole job.
 
-Qualified wildlife control in Ontario emphasizes humane eviction and permanent exclusion methods precisely because raccoon biology demands it. You cannot simply remove raccoons from a property without addressing why they chose it in the first place.
+If you just block the hole or trap the adult, the kits are stuck inside with nobody coming back for them. They die in the insulation or down a wall cavity, and now you've got a smell, flies, and a much uglier cleanup. It also puts you on the wrong side of Ontario's wildlife rules, which don't take kindly to orphaning young animals.
 
-### Seasonal Nesting Habits and Peak Activity Periods
+We had a call one spring from a homeowner who kept hearing a high, chattering chirp in the wall above the kitchen window. They figured a bird had nested in the exhaust vent. When I opened up the soffit, there were four kits tucked into the cavity with their eyes barely open. Mom had been heading out every evening after dark, which is why nobody had ever spotted her. We set the kits in a warmed box right beside the opening, and she came back that night and carried them off one at a time.
 
-Raccoon mating season leads to birthing season from March to June, making spring the most sensitive period for removal work. Raccoon litters average four cubs each spring, and pregnant females actively seek warm, enclosed spaces - particularly attics - to raise their young. During this denning season, Toronto Wildlife Centre advises that any raccoon found in an attic between January and September should almost always be assumed to be a mother with baby raccoons.
+<!-- generic anecdote: confirm or replace with a real job -->
 
-In fall (September through November), raccoons shift into shelter-seeking mode as they prepare for winter. This creates a second peak in intrusion activity, though removal is generally safer in late fall when most kits are fully mobile. Inspectors must check for kits before installing one-way doors during baby season - failing to do so risks orphaning dependent young, which violates both ethical standards and Ontario wildlife law.
+Fall is the second rush. From September through November, raccoons are shopping for a winter spot. The upside is that by then the kits are big enough to follow mom, so getting the whole family out is a lot simpler.
 
-Winter emergency removals are rare and complex. Deep cold increases hypothermia risk for evicted animals, and wildlife removal services typically avoid major exclusion work in sub-zero conditions unless there is a direct safety or structural hazard.
+Winter is its own thing. Raccoons don't truly hibernate, but they hole up and sleep through the cold stretches. We don't like pushing an animal out into minus 20 unless there's a real reason, like chewed wiring or one getting into the furnace room. When it has to happen, we plan where that animal is going to go so we aren't just tossing it into a snowbank.
 
-### Structural Vulnerabilities Raccoons Exploit
+## How raccoon removal in Toronto works when we show up
 
-Toronto's housing stock - particularly older homes with wooden soffits, Victorian-era fascia work, and aging roofing materials - creates a map of entry points that raccoons systematically exploit. Common breach locations include roof vents, soffit-fascia junctions, chimney openings, plumbing stack caps, and loose shingles around roofing penetrations.
+### First, the inspection
 
-Overhanging tree branches give raccoons direct roof access, turning any gap wider than four inches into an invitation. Under-deck spaces and shed undersides are frequently overlooked during inspections but serve as primary alternative denning sites, especially when enclosed or partially raised foundations provide shelter.
+Before anything gets installed, I want to know three things: how many ways in there are, whether there are babies, and how much mess has built up. That means walking the whole roofline, then getting into the attic if there's safe access.
 
-In a documented North York case, an attic breach measuring just 5×5 inches allowed a raccoon family to establish a den. The initial gap was at a soffit-fascia intersection - a vulnerability pattern repeated across thousands of Toronto homes. Understanding these structural weaknesses is exactly why a detailed inspection by certified technicians is the essential first step before any removal work begins.
+Up top I'm looking for torn soffit, bent vent flaps, lifted shingles around pipes, and the dark greasy rub marks raccoons leave on whatever they squeeze past. Inside, it's droppings, flattened or torn-up insulation, nesting material and any chewed wiring. You'll get photos of what I find and a plain explanation of what each spot needs. The price comes from that list: the number of openings to seal and how much cleanup there is.
 
-## Removal Methods and Specialized Techniques
+### Getting them out of the attic
 
-With a clear picture of raccoon behavior and structural vulnerabilities, the next step is understanding the specialized techniques that certified professionals use to remove raccoons safely, humanely, and permanently. Each method is selected based on the animal's location, the season, and whether dependent young are present.
+During baby season, the first step is a hands-on check for kits. If we find them, they go into a heated reunion box set right by the exit. Mom finds them, and she moves them to a new den on her own schedule, usually within a day or two. It's less stressful for everybody, the animals included, than trying to catch her.
 
-### Attic Extrication Procedures
+Once the attic is clear of babies, we fit a one-way door over the main entry. It's a metal door or tunnel that lets the raccoon push its way out, then swings shut so it can't get back in. It has to be built to fit your roofline. A century brick house and a newer townhouse have completely different edges, vents and materials, and a sloppy one-way door is worse than none. The raccoon just forces past it or rips open the spot next to it.
 
-Attic removals are the most common raccoon removal services performed in Toronto. Technicians inspect attics and rooflines for entry points, then determine whether the infestation involves a solitary adult or a mother with kits.
+We leave the door on for at least a week, often longer, until we're sure nothing's moving around up there. Then it comes off and that last opening gets sealed for good.
 
-Humane methods are used to capture raccoons in Ontario. During breeding season, professionals hand-check for baby raccoons before any exclusion devices are installed. If kits are found, they are carefully placed in a  heated reunion box positioned near the exit point, allowing the mother to retrieve and relocate them naturally. Humane methods prioritize the safety and well-being of raccoons - this reunion technique avoids invasive handling and respects the mother's instinct to move her young.
+### Under the deck or the shed
 
-Once the attic is confirmed clear, insulation assessment begins. Raccoon feces can damage insulation and contaminate living spaces, requiring thorough mapping of soiled areas before restoration work starts. Humane trapping methods must be certified under AIHTS in Canada, ensuring that any live capture equipment meets federal welfare standards.
+Raccoons under a deck, a porch or a shed are a different job. Those spaces are tight and dark, and a lot of older Toronto homes have raised porches sitting close to the foundation, so you don't want anyone digging around and undermining it.
 
-### Under-Deck and Shed Removal Strategies
+We fit a one-way tunnel at the opening they're using and let them walk out. Once it's quiet, we close the space off with steel mesh that runs down into the soil, so the next raccoon can't just dig under it.
 
-Raccoons denning under decks and sheds present different challenges than attic infestations. These spaces are often tight, dark, and structurally complex - particularly in Toronto's older century homes with raised foundations.
+While we're at it, take a look at what's drawing them in. Pet food left outside, fallen fruit, an open compost bin, a green bin with a loose lid. You can seal a deck perfectly, but if the yard is a buffet, something else will come sniffing around.
 
-Excavation-free removal uses one-way tunnel systems fitted at identified access points. Unlike attic work, under-deck removals require careful assessment of foundation proximity to ensure the removal process doesn't cause structural undermining. In one Toronto case study, a Victorian-era home required simultaneous treatment of both soffit and deck entry points, with one-way doors installed at each location and follow-up visits confirming no return activity.
+## Can't you just trap it and drive it out to the country?
 
-Securing food attractants around deck areas - including pet food, fallen fruit, and accessible compost - is critical. Remove fallen fruit from trees to eliminate food sources, and secure garbage and compost bins to prevent access. Without eliminating these attractants, even perfect exclusion work faces higher re-infestation risk from other animals.
+I get asked this a lot. The short answer is no.
 
-### One-Way Exclusion Door Installation
+Under Ontario's [Fish and Wildlife Conservation Act](https://www.ontario.ca/laws/statute/97f41), a raccoon that's live-captured has to be released within about a kilometre of where it was caught. Driving it out past the 401 isn't allowed, and it usually ends badly for the animal anyway. It doesn't know where the food or shelter is out there, and if it's a mother, her kits are still in your attic. Killing them isn't on the table for us either. Any live-capture equipment used in Canada also has to meet the national humane trapping standards (AIHTS).
 
-The one-way door is the single most important tool in humane raccoon removal. One-way exclusion doors allow raccoons to exit safely but prevent them from re-entering homes. These devices are typically spring-loaded or flap-type mechanisms constructed from durable materials capable of withstanding weather and repeated raccoon attempts.
+And here's the practical problem. If you trap a raccoon and let it go a kilometre away, it can be back on your roof by morning, and the hole is still open. That's why we push them out and seal up instead. We only use live capture when exclusion won't work, like when one has ended up somewhere inside the living space.
 
-Custom fitting is essential. Toronto's diverse architectural styles - from pre-war brick homes in the Annex to modern townhouses in North York - require exclusion doors adapted to different roofline profiles, vent configurations, and building materials. A poorly fitted one-way door is worse than none at all, as raccoons will simply force past it or find an adjacent weakness.
+If you want to read the city's side of it, Toronto has a page on [wildlife trapping](https://www.toronto.ca/community-people/animals-pets/wildlife-in-the-city/wildlife-trapping/) that lays out the same release rules.
 
-Monitoring protocols require the exclusion device to remain in place for a minimum of one week - often longer - before permanent sealing. This ensures complete evacuation and confirms no animals remain trapped inside, achieving removal with minimal disruption to both the wildlife and the property.
+## The mess they leave behind
 
-## Comprehensive Removal Process and Implementation
+Raccoons pick one spot in the attic as a toilet, and they keep using it. That pile is the part of the job I take most seriously.
 
-Professional raccoon removal follows a systematic sequence: assessment, detection, eviction, sanitation, and prevention. Each phase builds on the previous one, and skipping any step compromises the long-term result.
+A large share of raccoons carry a roundworm called *Baylisascaris procyonis*. Its eggs pass in the droppings and they last a very long time. If someone breathes in the dust or gets it on their hands and then their mouth, it can cause serious neurological damage. Raccoon urine can also carry leptospirosis, and rabies is always a possibility with a bite.
 
-### Initial Property Assessment and Wildlife Detection
+So please don't go up there with a broom and a paper dust mask. When we clean, it's respirators, gloves, coveralls, and HEPA vacuums so we aren't kicking that dust into the rest of the house.
 
-A professional assessment becomes necessary when a property owner notices scratching or thumping sounds in the attic (especially at night), finds animal droppings near rooflines or deck perimeters, or spots damage to soffits, vents, or shingles. These are the most reliable following signs of an active raccoon infestation.
+How much cleanup you need depends on how long they've been there. Here's the rough ballpark:
 
-The assessment process includes:
+- **Light, scattered droppings.** An enzyme treatment that breaks down what's on the surface. A few hours, usually somewhere in the $300 to $800 range.
+- **Odour and surface contamination.** Odour treatment such as ozone on top of the cleanup. Half a day or so, roughly $500 to $1,200.
+- **Soaked insulation and a heavy latrine.** We pull the insulation out and replace it. That's one to three days and can run from about $1,500 into the $5,000-plus range.
 
-1. **Infrared thermal imaging** of wall cavities, attic spaces, and inaccessible areas to locate den sites and determine whether kits are present
+If you caught it within a few weeks, the enzyme treatment plus pulling out the worst patches of insulation is usually enough. If a family's been up there through a whole denning season, the insulation almost always has to go.
 
-2. **Full roofline audit** documenting every potential entry point - roof vents, chimney openings, plumbing stacks, soffit gaps, ridge vents, and previous patch work
+## Sealing up so you don't hear them next spring
 
-3. **Fecal sample analysis** to estimate raccoon family size, duration of occupation, and health status (including roundworm presence)
+Getting the raccoon out is maybe half the job. If we put a one-way door on the main hole and there are five other soft spots, the next raccoon will find one of them.
 
-4. **Structural damage evaluation** assessing insulation contamination, chewed wiring that creates fire hazards, and compromised building materials for repair cost estimation
+So every opening we found during the inspection gets closed, the main one and every weak spot around it. We use heavy-gauge galvanized steel mesh, metal flashing and steel screening, because raccoons go through plastic and thin aluminum without much effort. Chimneys get a proper wildlife-rated cap. Roof vents and plumbing stacks get steel covers.
 
-5. **Digital entry point mapping** providing the property owner with a comprehensive visual record of all vulnerabilities requiring sealing
+Then there's the stuff around the house:
 
-Raccoon removal costs depend on damage extent and number of animals. Professional wildlife removal services in Toronto and the GTA typically start around CAD $395 for basic exclusion work, with final pricing determined by the number of entry points and scope of restoration required. Many firms offer a free quote after the initial assessment. First-time customers can receive discounts on raccoon removal services, and raccoon removal services often include a money-back guarantee.
+- Cut tree limbs back at least six feet from the roofline.
+- Keep garbage and green bins locked, and bring pet food inside.
+- Pick up fallen fruit and keep the compost closed.
+- Get the roof looked at in spring and fall so new gaps are found before something moves in.
 
-### Biohazard Cleanup and Sanitation Protocols
+## A few things to do before we get there
 
-Raccoon droppings, urine, and nesting debris create serious health concerns that go far beyond unpleasant odors. Up to 70% of raccoons carry the roundworm parasite Baylisascaris procyonis, and raccoon droppings can transmit Leptospirosis to humans. Raccoons can also transmit rabies through bites or saliva contact - a viral infection that is almost always fatal once symptoms appear.
+If you think you've got raccoons, don't block the hole yet. If there are babies inside, you'll make things a lot worse. Instead:
 
-Professional sanitation uses full PPE (gloves, respirators, protective suits) and HEPA filtration to prevent airborne exposure during cleanup. The appropriate method depends on contamination severity:
+- Take photos of any damage you can see from the ground, and of droppings, without touching them.
+- Jot down when you hear the noise. Night and early morning points to raccoons.
+- Keep kids and pets out of the attic and away from wherever the animal is going in and out.
+- Lock up the bins and bring in anything that smells like food.
 
-| Criteria                | Enzyme Treatment                            | Ozone Treatment                           | Complete Insulation Replacement            |
-|-------------------------|---------------------------------------------|-------------------------------------------|--------------------------------------------|
-| **Contamination Level** | Light - scattered droppings                 | Moderate - odor and surface contamination | Severe - saturated insulation, fecal heaps |
-| **Cost**                | Lower ($300–$800)                           | Moderate ($500–$1,200)                    | Higher ($1,500–$5,000+)                    |
-| **Effectiveness**       | Neutralizes surface pathogens               | Eliminates odor and airborne microbes     | Removes all contaminated material entirely |
-| **Time Required**       | 2–4 hours                                   | 4–8 hours                                 | 1–3 days                                   |
-| **Residual Risk**       | Possible - deeper contamination may persist | Low for odor; moderate for embedded waste | Minimal - most thorough option             |
+## Let's find out what's up there
 
-For most Toronto attic infestations discovered within a few weeks, enzyme treatment combined with targeted insulation removal is sufficient. Long-standing infestations - particularly those spanning an entire denning season - typically require complete insulation replacement to eliminate all pathogen reservoirs.
-
-## Common Challenges and Solutions
-
-Even with systematic methods, raccoon removal in Toronto presents complications that require specialized expertise. Here are the most common challenges and how wildlife control professionals address them.
-
-### Mother Raccoons with Dependent Kits
-
-Raccoon removal should ensure no young are left behind. During baby season, evicting a mother without accounting for her litter leads to dead animals inside walls or attic spaces - creating severe odor, pest, and health problems. Certified professionals place heated reunion boxes near the exit point, allowing the mother to carry each kit to a new den on her own schedule. This natural reunification process takes 24–48 hours in most cases and represents the gold standard in humane animal removal.
-
-### Multiple Entry Points and Re-infestation
-
-A single one-way door means nothing if the property has six unsealed vulnerabilities. Raccoon removal includes sealing all potential entry points - not just the primary breach. Comprehensive property sealing uses heavy-gauge galvanized steel mesh, metal flashing, and PVC-coated steel screens at every documented vulnerability. Seal all potential entry points like vents and chimneys. Cap chimneys with wildlife-rated covers. Install one-way exclusion doors to prevent re-entry at the primary access point, and reinforce secondary weak spots with proper tools and commercial-grade materials.
-
-Use electric flex tracks as raccoon-proof barriers along rooflines and fence tops where raccoons repeatedly gain access. These long term solutions address the root cause rather than treating symptoms.
-
-In a North York case, four raccoons were removed from an attic via traps built over the primary entry, with one-inch steel mesh exclusion preventing further re-entering. The customer confirmed no further noises after comprehensive sealing.
-
-### Roundworm Contamination and Disease Transmission
-
-Baylisascaris procyonis eggs can survive in soil and on surfaces for years, making casual cleanup dangerous. Professional-grade PPE, HEPA-filtered vacuums, and approved disinfectants are non-negotiable safety precautions. Homeowners should never attempt to clean raccoon latrines without respiratory protection - the health risks from inhaled roundworm eggs include severe neurological damage.
-
-### Winter Emergency Removals
-
-Ontario wildlife regulations and welfare guidelines discourage major disturbance during deep winter, but emergencies do occur - particularly when raccoons cause property damage to electrical wiring or HVAC systems. In these cases, wildlife removal services may deploy heated exclusion systems or temporary shelter alternatives to protect evicted animals from hypothermia while still resolving the immediate hazard. These situations require coordination with local animal services and careful judgment from experienced operators.
-
-## Conclusion and Next Steps
-
-Professional raccoon removal is the only approach that reliably resolves Toronto's most common wildlife issues while complying with Ontario law, protecting your health, and ensuring humane treatment of the animals. Legal standards prohibit lethal trapping and long-distance relocation of raccoons - a captured raccoon must be released within one kilometer of capture - making qualified wildlife control the only path that avoids both legal liability and repeated infestation.
-
-Raccoons are protected under Ontario's Fish and Wildlife Conservation Act, and the [municipal bylaws](https://www.toronto.ca/community-people/animals-pets/pets-in-the-city/prohibited-animals/) governing the city of Toronto add further restrictions on how wild animals may be handled on private property. Working with certified professionals who understand these frameworks protects you legally and delivers permanent results.
-
-**Take these steps now:**
-
-1. **Schedule a property assessment** - contact a licensed wildlife removal company serving Toronto and the greater Toronto area for a detailed inspection and free quote
-
-2. **Document evidence** - photograph any animal droppings, damage to roof vents or soffits, or signs of nesting before the assessment visit
-
-3. **Secure attractants immediately** - lock garbage bins, remove pet food from outdoor areas, and stop any practices that feed raccoons directly or indirectly
-
-4. **Trim overhanging branches** - cut tree limbs back at least six feet from your roofline to eliminate the most common roof access route
-
-5. **Schedule seasonal maintenance** - book spring and fall inspections to catch new vulnerabilities before raccoons, squirrels, birds, or other animals exploit them
-
-For ongoing protection, ask your pest control or wildlife control provider about seasonal prevention programs, warranty-backed exclusion work (many firms offer 2–5 year guarantees), and monitoring services that catch new activity before it becomes a full infestation. Understanding raccoon behavior, acting quickly, and relying on professional expertise is how you protect your property, your domestic animals, your family's health, and Toronto's urban wildlife - all at the same time.
+If something heavy is moving around over your head at night, book an inspection with Greater Wildlife Control. We'll check the roof and the attic, tell you what's living in your house and how it's getting in, and walk you through what it'll take to get it out, clean it up and keep it out.

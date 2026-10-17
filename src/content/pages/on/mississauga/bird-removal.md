@@ -40,7 +40,7 @@ Avian influenza has been [confirmed in Mississauga](https://www.mississauga.ca/s
 
 ### Structural Vulnerability and Property Damage
 
-Pigeon droppings are highly acidic and can corrode buildings, including steel, aluminum, painted surfaces, and concrete facades. Commercial buildings with signage and ledges take heavy exposure; restaurants and retail spaces with outdoor seating face both structural damage and reputational harm from visible droppings, as Skedaddle Wildlife has documented across Mississauga commercial properties.
+Pigeon droppings are highly acidic and can corrode buildings, including steel, aluminum, painted surfaces, and concrete facades. Commercial buildings with signage and ledges take heavy exposure; restaurants and retail spaces with outdoor seating face both structural damage and reputational harm from visible droppings. We see it all the time on plazas and storefronts across Mississauga.
 
 Birds nesting in vents can cause fire hazards. Nesting birds can block airflow in dryer vents, and when nesting materials accumulate in exhaust ducts, they create ignition risk from trapped lint and heat. Blocked vents also reduce proper airflow, cause moisture buildup, and promote mould growth. Starlings are known for nesting in eaves and vents, where their nests obstruct soffits and compromise the building envelope.
 
@@ -139,7 +139,7 @@ Bird infestations in Mississauga create compounding problems: health hazards fro
 
 If you are dealing with a bird infestation or want to prevent one:
 
-1. **Schedule a professional inspection** before nesting season begins (ideally by late February). A property assessment helps determine bird removal pricing and identifies every vulnerability. Icon Pest offers free, no-obligation quotes for bird removal, and Pestend provides competitive pricing for wildlife removal services.
+1. **Schedule a professional inspection** before nesting season begins (ideally by late February). A property assessment helps determine bird removal pricing and identifies every vulnerability. Greater Wildlife Control can book that inspection and give you a quote.
 
 2. **Avoid removing nests yourself during breeding season** (March through August). Disturbing active nests violates federal law and can result in fines.
 

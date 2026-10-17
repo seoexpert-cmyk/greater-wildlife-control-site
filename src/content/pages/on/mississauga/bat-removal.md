@@ -96,7 +96,7 @@ Professional assessment is required whenever a homeowner has found a bat inside 
 
 4. **Acoustic and dusk monitoring**: Observers stationed at suspected exit points during evening hours count bats leaving the structure, confirming active versus inactive openings.
 
-The inspection fee for bat removal services varies; for example, Pestend offers an inspection fee of $85, which is waived if removal services are hired. It is essential to check local reviews and verify humane practices when hiring a bat removal company.
+Inspection fees vary from company to company, so ask up front. Whoever you call, check local reviews and make sure they use humane exclusion.
 
 ### Humane Exclusion Methods
 
@@ -130,7 +130,7 @@ Reliable bat removal companies should offer cleanup and decontamination as part 
 
 Many Mississauga homes are two-story brick construction, and commercial buildings in downtown areas and along Lakeshore may be taller. Accessing roofline entry points safely requires ladders with stabilizers, fall-protection harnesses, and in some cases scaffolding. Wildlife removal services working on multi-story structures need both the technical knowledge to identify bat entry points at height and the safety certifications to work there legally. Same-day bat removal services are available in Mississauga for urgent situations, such as a bat found inside occupied living space, but full exclusion projects on complex structures take days to weeks.
 
-Costly damage from re-infestation is common when inexperienced companies treat bat removal as routine pest control. Gaps that are tiny or hidden get missed, and homeowners pay for repeated service calls. Bats Canada reports that many clients have paid multiple times for failed bat-proofing before engaging a specialist. A reliable wildlife control service will provide humane exclusion, follow provincial regulations, and back the work with a written warranty covering all sealed areas. Pestend provides a money-back guarantee for bat removal and offers competitive pricing for bat removal services, which helps address the risk of repeated failures.
+Costly damage from re-infestation is common when inexperienced companies treat bat removal as routine pest control. Gaps that are tiny or hidden get missed, and homeowners pay for repeated service calls. A reliable wildlife control service will provide humane exclusion, follow provincial regulations, and back the work with a written warranty covering all sealed areas. Greater Wildlife Control backs its bat exclusion work, and we explain the warranty when we quote.
 
 ## Conclusion and Next Steps
 

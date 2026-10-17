@@ -12,7 +12,7 @@ Professional skunk removal in Vaughan starts with understanding that skunks denn
 
 The City of Vaughan does not handle nuisance wildlife on private property. Vaughan Animal Services is responsible for sick or injured wildlife on public roadways and in parks, but skunk removal from beneath residential structures falls squarely on the homeowner. That means choosing a qualified, humane wildlife removal provider who can inspect, evict, exclude, and sanitize-all while complying with Ontario regulations and Vaughan's evolving business-licensing requirements for wildlife control services.
 
-So how do you actually get rid of skunks in Vaughan? The most effective and humane solution is to contact a wildlife removal professional who conducts a thorough inspection, installs one-way doors to let skunks leave without re-entering, seals all access points with heavy-gauge steel mesh, and performs biohazard sanitation to eliminate lingering odour and contamination.
+So how do you actually get rid of skunks in Vaughan? The most effective and humane solution is to call Greater Wildlife Control. We do a thorough inspection, install one-way doors to let skunks leave without re-entering, seal all access points with heavy-gauge steel mesh, and do biohazard sanitation to eliminate lingering odour and contamination.
 
 This guide is written for Vaughan homeowners, landlords, and property managers dealing with-or trying to prevent-skunk activity around their homes. Here's what you'll take away:
 

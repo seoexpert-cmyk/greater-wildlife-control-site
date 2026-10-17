@@ -132,7 +132,7 @@ Professional squirrel removal in Oakville should address not just getting wild a
 
 Squirrel infestations can cause damage to insulation and wiring in homes that ranges from moderate to severe depending on how long the animals have been present:
 
-* **Gnawed electrical wiring and junction boxes:** Squirrels can cause significant damage by chewing wires, stripping plastic insulation from copper conductors. Squirrels can damage electrical lines, posing a fire risk that insurance adjusters and electrical inspectors take seriously. In one documented case in Stratford, Ontario, a fire above an attic was attributed to a squirrel chewing through a live wire.
+* **Gnawed electrical wiring and junction boxes:** Squirrels can cause significant damage by chewing wires, stripping plastic insulation from copper conductors. Squirrels can damage electrical lines, posing a fire risk that insurance adjusters and electrical inspectors take seriously. In Stratford, Ontario, an attic fire was attributed to a squirrel chewing through a live wire.
 
 * **Shredded and compressed insulation:** Squirrels can shred attic insulation for nesting materials, and their weight compresses fibres further. This reduces R-value, increases heat loss, and drives up energy bills - particularly noticeable during Oakville's long heating season.
 

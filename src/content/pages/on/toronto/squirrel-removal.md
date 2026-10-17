@@ -1,235 +1,175 @@
 ---
-title: "Squirrel Removal in Toronto, ON: A Homeowner's Guide"
+title: "Squirrel Removal in Toronto, ON: Signs, Eviction and Sealing Up"
 meta_title: "Squirrel Removal in Toronto, ON"
-meta_description: "Squirrels in your Toronto attic or walls? Learn the signs, the risks and how Greater Wildlife Control removes them humanely and keeps them out for good."
+meta_description: "Scratching in your Toronto attic at sunrise? Learn the signs of squirrels, what removal involves and how Greater Wildlife Control seals them out for good."
 path: "/on/toronto/squirrel-removal"
 source: "Surfer 16708955"
 ---
 
-## Introduction
+Squirrels are early risers. If the noise in your ceiling starts right around first light, goes quiet through the middle of the day, then picks up again late in the afternoon, you're almost certainly sharing the house with a grey squirrel. And around here, that's a very common thing to be dealing with.
 
-Professional squirrel removal in the city of Toronto is a service that thousands of homeowners need each year as Eastern grey squirrels exploit aging rooflines, chewed roof vents, and soffit gaps to nest in attics, walls, and chimney voids. Urban wildlife encounters are increasing due to urban sprawl, and Toronto's dense tree canopy and older housing stock make the city one of the most active regions in southern Ontario for squirrel intrusions into residential and commercial properties.
+Squirrel removal in Toronto is steady work for us because this city is built for them. You've got big old trees on nearly every residential street, houses packed close together, and a lot of rooflines that have been through fifty or a hundred winters. A squirrel can go from a maple branch to your eavestrough in one jump and be chewing on your soffit five minutes later.
 
-The safest and most effective way to get squirrels out of your home is to hire a licensed, humane wildlife control company that uses exclusion methods, not poisons. Qualified wildlife control focuses on exclusion rather than simply trapping, relying on one-way exclusion doors, structural proofing, and targeted baby-handling protocols to resolve infestations without harming wild animals.
+I'm going to walk you through how to tell it's squirrels and not something else, where they get in on a typical Toronto house, why baby season changes how we do the job, what removal and cleanup actually involve, and what it tends to cost. No poison, no trapping as the first move. Just getting them out and making sure the house stays closed.
 
-This guide covers everything a Toronto property owner needs to know: how to recognize a squirrel problem, what structural vulnerabilities to watch for, the health risks of animal droppings and contaminated insulation, how the professional removal process works step by step, realistic 2026 pricing, Ontario wildlife regulations, and how to choose a qualified wildlife removal company. It does not cover DIY trapping tutorials, rodenticide use, or regulations outside Ontario.
+## So how do you know it's squirrels?
 
-By the end, you will:
+The timing is the biggest giveaway. Grey squirrels are active during the day, mostly at dawn and in the late afternoon. Raccoons are heavier and they're up at night. Mice are lighter, the sound is more constant, and it's usually inside the walls rather than across the attic floor.
 
-* Understand how squirrels enter Toronto homes and what damage they cause
+A lot of people only hear squirrels for a few minutes a day, which is why they put off calling. I had a homeowner in Leaside who'd been hearing quick scratching above the bedroom for weeks, but only between about 6:30 and 7 in the morning. Their partner was always in the shower by then and never heard a thing, so the working theory in the house was mice. When I got up on the roof, there was a chewed-out gap at the soffit return on the gable end, packed with leaves on the inside. The squirrel was leaving every morning to forage and coming home in the afternoon while everyone was at work.
 
-* Recognize early warning signs before extensive damage develops
+<!-- generic anecdote: confirm or replace with a real job -->
 
-* Know what happens on service day during a professional squirrel eviction
+Here's what else to watch and listen for:
 
-* Have realistic expectations for costs, warranties, and timelines
+- Fast, light scampering or rolling sounds in the attic or ceiling, mostly in the morning and late afternoon
+- Chirping or squeaking during baby season, roughly February to March and again June to July
+- Fresh gnaw marks on fascia boards, soffit panels and around roof vents
+- Holes or gaps near the roof vents, where the soffit meets the brick, or along the drip edge
+- Leaves, twigs and bark piled up in the eavestrough or on the roof near a vent
+- Torn-up insulation, shredded cardboard and nest-like piles in the attic
+- Small, pellet-shaped droppings along the joists
+- Daylight showing through at the attic edges or around a vent
 
-* Learn long-term prevention steps to stop future invasions
+The outside damage usually shows up first on the south- and west-facing sides of the roof. Those faces take the most sun and the most freeze and thaw, so the materials break down there first.
 
-## Understanding Squirrel Intrusions in Toronto Homes
+### Which squirrel is it?
 
-A squirrel intrusion occurs when one or more squirrels establish a nesting site inside a residential or commercial structure, typically in an attic, soffit cavity, wall void, or chimney. In the city of Toronto, these wildlife intrusions are frequent because of a specific combination of factors: mature urban tree canopy, tightly spaced rooflines, and a housing stock that dates back decades, with materials that degrade over time.
+Nine times out of ten it's the Eastern grey squirrel. Adults run about 400 to 600 grams. Toronto has a lot of black squirrels too, and people are often surprised to hear they're the same species, just a darker colour. They act exactly the same once they're in your attic.
 
-Neighbourhoods such as [High Park](https://www.toronto.ca/data/parks/prd/facilities/complex/81/index.html), The Annex, Forest Hill, Leaside, Riverdale, and Rosedale have dense tree cover that creates natural "wildlife highways" from branch to roof. Squirrels can leap horizontal distances of up to three metres between branches and rooflines. Once on the roof, a grey squirrel needs only about 4 cm of opening to enter a home. A missing drip edge section, a cracked mushroom vent, or a gap where a soffit panel meets brick is enough.
+Red squirrels are smaller and a lot more territorial. You'll see them more near the ravines and bigger parks than on dense city streets. They like to stash food in insulation, which makes cleanup more of a job. Grey squirrels tend to enlarge one hole and keep using it, while reds may keep several small entry points going along the roofline.
 
-Early professional intervention matters because squirrel damage escalates quickly. Squirrels gnaw continuously since their incisor teeth grow throughout their lives. They chew wood, plastic, aluminum, shingles, and electrical wires. Toronto Hydro recorded 57 sustained power outages in 2018 caused by squirrels, and a transformer fire caused by a squirrel in Toronto's east end in May 2019 affected nearly 4,000 customers. Inside a home, chewed electrical wires create fire hazards, while animal droppings and nesting debris pose health risks that compound with every week of delay.
+Every so often we find flying squirrels, usually in houses backing onto a ravine. Those are active at night, so they can fool you into thinking it's something bigger.
 
-### Common Squirrel Species in the City of Toronto
+## Why Toronto houses are so easy for them
 
-The Eastern grey squirrel (*Sciurus carolinensis*) is the primary wildlife species homeowners encounter. Adults weigh 400 to 600 grams. Toronto has a high proportion of the melanistic "black" colour morph alongside the standard grey with white underbelly. Both morphs are the same species and exhibit identical squirrel behaviour when entering structures.
+Neighbourhoods like High Park and Roncesvalles have huge tree canopy, and that canopy is a highway. A grey squirrel can jump up to about three metres from a branch to a roof. Once it's up there, it only needs an opening of about 4 cm to get in, which is roughly the size of a golf ball.
 
-Red squirrels are smaller and more territorial. They are less common in dense urban Toronto but appear in ravine-adjacent areas and near larger parks. Red squirrels are known for caching food stores inside insulation, creating additional cleanup challenges. Flying squirrels occasionally turn up in attic spaces near ravines; they are nocturnal, so homeowners hear scratching at night rather than at dawn.
+It helps to know the names of the parts they go after, so you can follow along when anybody quotes you:
 
-Eastern grey squirrels are diurnal, with peak activity at dawn and late afternoon. If you hear rapid scampering above the ceiling at 6 a.m. and again around 4 p.m., squirrels are the likely culprit, not raccoons (which are heavier and active at night) or mice (which produce lighter, more continuous sounds). Knowing the species helps professionals choose the right exclusion method: grey squirrels typically enlarge one hole and use it repeatedly, while red squirrels may maintain multiple small entry points across a roofline.
+**Soffit.** That's the underside of the roof overhang. Gaps where the soffit meets the brick, or at the soffit return where the roof changes direction at a gable end, are some of the most common entry points we see. Builder-grade aluminum or vinyl soffit panels warp and pull apart over time.
 
-### Seasonal Nesting Habits and Why Timing Matters
+**Fascia.** The vertical board along the roof edge. Wood fascia softens with moisture, and a squirrel can chew through soft wood in minutes.
 
-Squirrels typically have two birthing seasons in spring and late summer. In Toronto, the first mating period runs from December through February, producing litters in February and March. The second runs from May through June, with litters born in June and July. Litter sizes average around three but can reach six or occasionally eight. Squirrels can have multiple litters per year, increasing infestation risk if the first nesting goes unnoticed.
+**Drip edge.** The bent metal strip under the shingles that sends water into the eavestrough. When it's missing or bent, there's a gap between the shingles and the fascia, and that's an invitation.
 
-Female squirrels seek sheltered, warm spaces for birthing, which is why attics, soffit cavities, and chimney voids become nursery sites during these periods. A mother with non-mobile kits (eyes closed, under roughly four to six weeks old) will not leave voluntarily through a one-way door if her young are still inside. Installing a one-way exclusion door too early during baby season can trap dependent young in the attic, leading to dead animals in wall cavities, foul odours, and insect infestations.
+**Roof vents.** Turtle vents, mushroom vents, ridge vents and gable vents. The plastic ones are the weak link. A squirrel can get through a standard plastic mushroom vent in under an hour.
 
-This is why professionals adjust their strategies during birthing seasons. Effective wildlife removal includes inspecting for entry holes and dependent young. Technicians perform a hands-on baby check around insulation and joists, remove kits carefully, and place them in a heated reunion box at the entry point so the mother can relocate them to a secondary nest. Only after confirming that young are mobile or have been safely retrieved does the technician install the one-way door. Timing the removal process around these seasonal windows is one of the primary reasons squirrel removal requires professional expertise rather than a DIY approach.
+**Roof valleys, dormers and chimneys.** Anywhere two roof surfaces meet, there's flashing that can rust or separate. On older masonry chimneys, the flashing and cracked mortar joints are a regular problem.
 
-## Recognizing a Squirrel Problem Before Damage Spreads
+The housing stock matters here. A lot of the 1950s to 1980s bungalows out in Etobicoke and the century semis closer to downtown share the same weak spots. Then the weather does the rest. Freeze and thaw, ice dams and heavy snow open cracks a little more each winter, and after a few years a hairline gap is wide enough for a squirrel. That's why I look at the openings that are active now and the ones that are probably one winter away.
 
-Squirrel behaviour shifts with season and temperature. After the first hard freeze, females actively seek warm den sites; after spring thaw, south- and west-facing rooflines show the earliest moisture damage, creating gaps that become the next entry point. Catching the following signs within days of first onset can save hundreds or thousands of dollars in repair and sanitation costs.
+One I still think about: a homeowner called because a squirrel had chewed a clean hole straight through the side of a brand-new plastic roof vent, maybe a month after the roof was redone. The roofer had used the cheap vents, and the squirrel went right through it while the old soffit, the spot everyone expected trouble from, was still solid. We swapped in a steel vent cover and checked the rest of the roof while we were up there.
 
-### Structural and Behavioural Warning Signs
+<!-- generic anecdote: confirm or replace with a real job -->
 
-Watch for these specific indicators:
+## Why you don't want to wait it out
 
-* **Morning and late-afternoon scratching or scampering** in the attic, walls, or ceiling, particularly rapid, light-footed sounds distinct from the heavier thumping of raccoons
+A squirrel's front teeth never stop growing, so it chews constantly to keep them in check. Wood, plastic, aluminum, shingles, and electrical wiring are all fair game. Squirrels are a well-known cause of power outages across the city, and inside a house, chewed wiring is a fire risk you can't see until you pull the insulation back.
 
-* **Chirping or squeaking sounds** during birthing seasons (February through March, June through July), indicating kits in the attic
+Then there's the mess. Squirrel droppings and urine carry bacteria, and squirrels bring fleas and mites with them. When urine soaks into insulation, the moisture can lead to mould. If the attic sits right over the bedrooms, that's air you're breathing. Fleas and ticks can also make their way down into the house and onto your pets.
 
-* **Gnaw marks on roofline edges**, especially around roof vents, fascia boards, and soffit panels
+Worst case, a squirrel dies in a wall cavity, and the smell works its way into the rooms below. Every week the squirrels stay, the cleanup gets bigger.
 
-* **Visible holes or gaps** near mushroom or turtle vents, at soffit-to-brick junctions, or along drip edges
+## Baby season changes the plan
 
-* **Shredded material** in the attic: insulation pulled apart, strips of cardboard, leaves, and bark fragments gathered into nest-like piles
+Squirrels in Toronto usually have two litters a year. The first round of mating runs from about December into February, with babies born in February and March. The second runs May into June, with babies in June and July. A litter is usually around three, sometimes up to six or more. If the first litter goes unnoticed, you can end up with a second one in the same attic.
 
-* **Small, pellet-shaped droppings** in attic spaces, along joists, or in insulation
+That timing matters because a mother with young babies won't leave them. Kits under about four to six weeks old have their eyes closed and can't move on their own. If somebody puts a one-way door on the hole during that window, mom gets locked out and the babies are stuck inside. You end up with dead kits in the insulation, a bad smell, and bugs.
 
-* **Debris accumulation** (twigs, leaves, bark) in gutters or on the roof near vent openings
+So in baby season, before anything goes on the roof, we do a hands-on baby check around the insulation and joists. If we find kits, we lift them out by hand and put them in a heated reunion box mounted right at the entry point. Mom comes back, finds them, and usually moves them to a backup nest in a nearby tree within a few hours. Once the babies are out, or old enough to leave with her, then the one-way door goes on.
 
-* **Daylight visible** through attic edges or around roof vent housings
+Sometimes the litter is tucked somewhere awkward, like behind a knee wall, deep in blown-in insulation, or way down a long soffit run. Young kits are quiet and almost invisible in insulation. In those cases we may need to make a small access cut in the soffit or drywall to reach them, and we'll talk it through with you before we do.
 
-Differentiating sounds matters when you call for a professional assessment. Mouse activity is lighter and more continuous, often inside walls rather than attic spaces. Raccoon sounds are heavier, with distinct thuds, and occur primarily at night. Squirrel activity clusters around dawn and dusk, with silence during midday and overnight. Exterior signs often appear first on south- and west-facing rooflines, where Toronto's freeze-thaw cycles accelerate material degradation.
+## How squirrel removal in Toronto works, start to finish
 
-### Structural Vulnerabilities in Typical Toronto Houses
+Here's what happens when you call us about squirrels:
 
-Toronto's 1950s through 1980s bungalows, semi-detached homes, and century homes share common weak points that squirrels exploit. Understanding these terms helps you communicate with technicians and evaluate quotes:
+1. **The phone call.** We'll ask what the noise sounds like, what time of day you hear it, how old the house is, and whether you've noticed any damage outside. That usually tells us the animal and roughly where it's getting in before we even arrive.
 
-**Soffit** is the underside of the roof overhang. Gaps where the soffit meets the brick wall or at the soffit return (where the roof changes direction at a gable end) are among the most common entry points. Builder-grade aluminum or vinyl soffit panels warp and separate over time.
+2. **The inspection.** We walk the whole roofline on ladders, take photos of every bit of damage, find the active holes, and check the attic for nesting material and droppings where we can get in safely.
 
-**Fascia** is the vertical board running under the roof edge. Wood fascia rots from moisture exposure, and squirrels chew through softened wood in minutes. **Drip edge** is the bent metal strip under shingles that channels water into the eavestrough; when missing or bent, it creates a gap between shingles and fascia.
+3. **The baby check.** In spring and late summer, we look for kits first and use the reunion box if we find any.
 
-**Roof vents** come in several styles: turtle vents, mushroom vents, ridge vents, and gable vents. Plastic or builder-grade vents are particularly vulnerable. Squirrels chew through standard plastic mushroom vents in under an hour. **Roof valleys**, where two roof slopes meet, rely on metal flashing that rusts or separates over time.
+4. **The one-way door.** It's a mesh tube or flap mounted flush over the main hole, angled so the squirrel pushes out and can't get back. It leaves on its normal morning run and finds the door closed behind it.
 
-**Chimney gaps** around the flashing and mortar joints are frequent vulnerabilities, especially on older masonry chimneys where mortar has cracked. **Dormers** create additional intersections of roofing material where gaps develop.
+5. **Sealing everything else.** While the one-way door works on the main hole, we close up every other active or likely gap. That means heavy-gauge galvanized steel mesh, metal flashing, steel covers over the roof vents, and a chimney cap where there's a chimney. Squirrels can't chew through any of it.
 
-Toronto's climate accelerates these problems. Freeze-thaw cycles, ice dams, and heavy snow loads expand cracks by fractions of a centimetre each winter. Over several years, a hairline gap becomes a usable opening. A squirrel needs only a 4 cm opening to enter, which is roughly the diameter of a golf ball. This is why a professional inspection is needed to identify entry points that are active now and those that are one winter away from becoming accessible.
+6. **The follow-up.** Most squirrels are out within three to seven days. Once it's quiet up there and there are no fresh droppings, the one-way door comes off and the last hole is sealed for good.
 
-### Health and Biohazard Concerns
+## Why we don't trap or poison them
 
-Squirrel feces and urine introduce bacteria and can harbour parasites including squirrel fleas and mites. Squirrel nests can carry odours and parasites which may require remediation. When droppings accumulate in insulation, moisture from urine promotes mould growth. In homes where attic space sits directly above bedrooms, contaminated insulation degrades indoor air quality.
+### Trapping
 
-Secondary health concerns extend beyond the attic. Fleas and ticks from attic-dwelling squirrels can transfer to domestic animals and into living areas. Strong odours from saturated insulation or, in worst cases, dead animals in wall cavities permeate occupied rooms. These are not hypothetical risks; they are serious health hazards that worsen with every week an infestation persists.
+People ask why we don't just set a cage trap. A few reasons.
 
-Biohazard sanitation is the term professionals use for the cleanup protocol required after a squirrel infestation. It involves PPE (gloves, respirators, protective coveralls), HEPA-filtered vacuuming of droppings and debris, and application of hospital-grade disinfectants. Simple sweeping or shop-vacuuming without HEPA filtration can aerosolize bacteria and fungal spores, making the health concerns worse rather than better. This work should not be attempted bare-handed by homeowners.
+In Ontario, a live-trapped squirrel has to be released within 1 km of where it was caught, and within 24 hours. A kilometre is nothing to a squirrel. It's often back at the same house in a day or two, and if the hole is still open, you're right back where you started.
 
-## How Squirrel Removal Works in the City of Toronto
+Traps also catch whatever walks into them, including the neighbour's cat. And if you trap a nursing mother, her babies are left in the attic. We only use a live trap when exclusion won't work, like when a squirrel has gotten loose inside the living space.
 
-Licensed wildlife control operators in Toronto follow a structured removal process focused on eviction and exclusion, not killing. Professional wildlife removal companies comply with [Ontario's Fish and Wildlife Conservation Act](https://www.ontario.ca/laws/statute/97f41) and [City of Toronto bylaw Chapter 349](https://www.toronto.ca/legdocs/municode/1184_349.pdf) governing animal control. Pest management experts emphasize a systematic and humane approach to wildlife exclusion. Reputable operators provide a customized treatment plan based on the specific species, the number of entry points, the season, and the structural condition of the home.
+### Poison
 
-### Step-by-Step Squirrel Eviction and Exclusion Process
+We never use poison for squirrels. A poisoned squirrel doesn't fall over in your yard. It crawls back into the wall and dies there. Then you've got weeks of smell, flies and beetles, and a carcass you can't reach. It's also a risk to hawks, owls and anything else that eats it, and to your pets. If anyone suggests poison for a squirrel in your attic, I'd show them the door.
 
-Here is what to expect when you book toronto wildlife removal for a squirrel problem:
+Pushing them out and sealing with steel is kinder, and it works better. Once every opening is closed, the house stays closed. A trap with the holes left open just makes room for the next squirrel.
 
-1. **Phone intake and preliminary diagnosis.** The technician asks about the type and timing of noises, the age and style of your house, and whether you have noticed exterior damage. This information narrows the likely species and entry area before anyone arrives on site.
+## Cleaning up the attic
 
-2. **Exterior and attic inspection.** Professionals perform inspections to track down entry points and vulnerabilities. The technician walks the roofline perimeter using ladders (and sometimes drones or cameras on steep or high roofs), photographs all damage, confirms active entry holes, and checks accessible attic areas for nesting material and droppings. Inspection fees in Toronto typically run $100 to $250, often credited toward the service if you proceed.
+Not every squirrel job needs a full attic cleanup. If it's a recent problem in one corner, we remove the nest (a squirrel nest is called a drey), the droppings and the debris, then HEPA vacuum and disinfect. That's usually it.
 
-3. **Baby check during birthing seasons.** During spring and late-summer nesting periods, the technician inspects around insulation and joists to locate non-mobile kits. Humane techniques include capturing entire families of animals together. If kits are found, they are gently removed by hand and placed in a heated reunion box mounted near the entry point so the mother can retrieve them.
+If they've been up there for months or longer, it's a bigger job. Insulation soaked with urine loses its insulating value, holds moisture and grows mould. In that case the contaminated insulation comes out, the attic floor gets HEPA vacuumed and treated with disinfectant and deodorizer, and new insulation goes in to the R-values Ontario's building code currently calls for.
 
-4. **Installation of a one-way exclusion door over the main entry.** One-way exclusion doors allow squirrels to exit but not re-enter. The device is a mesh or tube assembly mounted flush over the primary hole, angled so the squirrel pushes out through a flap or cone that closes behind it. The squirrel leaves on its normal schedule and finds itself unable to return.
+On the bigger jobs, the eviction and sealing happen first, then the cleanup. We put up plastic sheeting and keep air moving out of the attic so the dust doesn't drift into your living space. If there's any sign of chewed wiring, have an electrician look at it before new insulation goes over it.
 
-5. **Sealing and screening of all secondary vulnerabilities.** While the one-way door handles the main entry point, the technician seals every other active or potential gap. Proper sealing materials include heavy-gauge galvanized steel mesh (typically 16-gauge), metal flashing, heavy-gauge metal covers for roof vents, and chimney caps. Animal-proofing includes sealing entry points with durable materials that squirrels cannot chew through. Comprehensive exclusion costs approximately $50 per vent or $10 per linear foot of screening.
+The cleanup itself isn't something to do with a shop vac and no mask. Without HEPA filtration, a regular vacuum blows bacteria and mould spores right back into the air. We wear respirators, gloves and coveralls for a reason.
 
-6. **Follow-up and final inspection.** Squirrels typically clear out within three to seven days after the one-way door is installed. Once the technician confirms the attic is empty (no sounds, no fresh droppings, no heat signatures), the one-way door is removed and the last opening is permanently sealed.
+## What does squirrel removal cost?
 
-### Humane Removal Methods vs. Trapping and Poison
+It depends on how hard the roof is to get at, how many openings there are, the time of year, and how much damage and mess you've got. Here are the rough Toronto ballparks you'll see:
 
-Humane squirrel removal means non-toxic solutions, minimal stress on the animal, no separation of mothers from dependent young, and compliance with Ontario's 24-hour release requirement. Humane exclusion methods include one-way doors and structural proofing. One-way exclusion doors prevent wildlife from re-entering homes while allowing them to leave on their own schedule, with minimal disruption to the animal's well being.
+- **Inspection:** usually $100 to $250, and many companies credit it toward the job if you go ahead.
+- **A standard attic job:** around $450 for a single main entry, the one-way door, and sealing that opening.
+- **Extra sealing:** roughly $50 per vent or $10 per linear foot of screening when there are more openings to cover.
+- **Attic cleaning:** about $300 to $500 for a standard job.
+- **Insulation replacement:** about $2 to $6 per square foot depending on the type and depth.
+- **Dead animal removal:** about $150 to $300 per animal.
 
-Cage trapping (live traps) carries risks that exclusion avoids. Trapped animals may include neighbour's pets or other animals not involved in the infestation. Ontario law requires live-trapped squirrels to be released within 1 km and within 24 hours, which means the squirrel often returns to the same property. Trapping a mother while leaving kits behind in the attic results in dead animals in inaccessible wall cavities, strong odours, and secondary insect infestations. Live trapping is used only when exclusion methods are impractical, such as when a squirrel is loose inside a living space.
+Steep or high roofs that need fall protection, complicated rooflines with lots of dormers and valleys, chimney masonry, and long-standing infestations all push the number up. Put everything together on a bad one and total repair and cleanup can reach $2,000 or more.
 
-Poison is not used for squirrels by any legitimate wildlife removal services provider in Ontario. Non-toxic solutions are used for animal removal to protect pets and other wildlife species. Poison creates cascading problems: a squirrel that consumes rodenticide and dies inside a wall void produces intense odours for weeks, attracts flies and beetles, and poses a secondary poisoning risk to predators such as hawks and owls that may consume the carcass. No reputable pest control services company advertises poison for squirrel removal.
+My honest advice: the cheapest quote is often the one that patches a single hole and leaves the three weak spots beside it. You'll be paying again in a few weeks.
 
-Humane exclusion is both more ethical and more effective for long-term prevention. Once all entry points are sealed with steel and metal, the structure is protected against re-entry, while trapping alone leaves every hole open for the next squirrel.
+## The rules in Ontario and Toronto
 
-### Biohazard Cleanup and Attic Restoration
+Squirrels are covered by Ontario's [Fish and Wildlife Conservation Act](https://www.ontario.ca/laws/statute/97f41). It lets a property owner, or someone working for them, remove wildlife that's damaging the property, but with conditions, including the 1 km and 24-hour release rule. The animal has to be treated humanely the whole way through, and holding it longer or moving it farther is against the rules.
 
-Not every squirrel job requires full attic remediation. A recent, light infestation confined to one area may need only targeted cleanup: removal of the nest (drey), droppings, and nesting debris, followed by HEPA vacuuming and disinfection. Waste cleanup and attic sanitization may be offered by some wildlife removal companies as part of their removal services.
+Toronto adds its own layer through the animals bylaw, [Chapter 349 of the Municipal Code](https://www.toronto.ca/legdocs/municode/1184_349.pdf), which covers things like feeding wildlife and trapping.
 
-For chronic infestations where squirrels have occupied an attic for months or longer, the scope expands. Insulation saturated with urine loses its R-value, traps moisture, and supports mould. In these cases, contaminated insulation is removed, the attic floor is HEPA-vacuumed and treated with hospital-grade disinfectant and deodorizer, and new insulation is blown or batted to current Ontario building code R-values.
+Some other animals, certain bats for example, come with seasonal exclusion restrictions under provincial rules. That's another reason we stick with eviction and sealing for all of our wildlife work instead of trapping. It keeps everyone on the right side of the rules.
 
-Attic cleaning in Toronto costs between $300 and $500 for standard jobs. Full insulation replacement runs approximately $2 to $6 per square foot depending on type and depth. Electrical rewiring in affected areas, when gnawed wiring is confirmed, runs $4 to $9 per square foot. Soffit and fascia repair costs $9 to $34 per linear foot. In severe cases combining all of these, total remediation can reach $2,000 or more.
+## What to ask before you hire anybody
 
-## Costs, Regulations, and Choosing an Expert in Toronto
+Not every pest control company does this kind of work. Spraying for ants and sealing a roofline are very different jobs. Ask these of anyone you're thinking about, us included:
 
-Toronto squirrel removal pricing depends on access difficulty, number of entry points, time of year, and the extent of contamination or structural damage. The lowest quote is not always the best value; a company that seals one hole and ignores surrounding vulnerabilities leaves the property owner exposed to re-entry within weeks.
+- Have you done squirrel and attic exclusion on houses like mine, and can I see photos?
+- Do you carry liability insurance and WSIB coverage, in case someone gets hurt on my roof?
+- Is there a written warranty on the exclusion work, and what does it cover?
+- Will I get before and after photos of every opening you seal?
+- Do you use one-way doors and steel exclusion hardware, or traps and poison?
+- What do you do if there are babies?
+- Can I get a written quote that lists each opening and the material you'll use, like 16-gauge galvanized steel mesh, a metal chimney cap or steel vent covers?
 
-### Typical Price Ranges for Squirrel Removal
+And look at local reviews. You want people saying the squirrels stayed gone months later, which tells you more than a review written the day after the visit.
 
-Wildlife removal in Toronto costs approximately $450 for a standard attic job involving a single entry point, one-way door installation, and sealing of the primary opening. For comparison, raccoon removal from a Toronto attic costs $450 plus $100 for litters.
+## Keeping them out after we leave
 
-A standard service typically includes the inspection, photo documentation, installation of one-way exclusion doors, sealing of the main entry and key vulnerabilities, materials, and a labour warranty. Comprehensive exclusion costs approximately $50 per vent or $10 per linear foot when multiple openings need screening.
+Once the house is sealed, a little upkeep goes a long way:
 
-Separate charges apply for attic cleaning ($300 to $500), insulation replacement ($2 to $6 per square foot), and dead animal removal ($150 to $300 per animal). Factors that increase cost include steep or high roofs requiring fall-protection equipment, complex roof designs with multiple dormers or valleys, masonry work on chimneys, and long-standing infestations with heavy contamination. Many companies offer a free estimate or credit inspection fees ($100 to $250) toward the service if the homeowner proceeds.
+- Trim back branches that hang over the roof.
+- Walk around the house after big storms and look up at the roofline for new gnaw marks, lifted vents or droppings near the edges.
+- Get the roof checked in spring and fall, before each nesting season.
+- If you're re-shingling, ask the roofer about steel vents instead of plastic, and get the soffits and drip edge looked at while the roof is open.
+- Hang on to your service reports, photos and invoices. They help with insurance claims and when you sell the house.
 
-### Ontario Wildlife Regulations and Local Compliance
+## Hear it again tomorrow morning? Give us a call
 
-Ontario's Fish and Wildlife Conservation Act allows property owners or their agents to capture or remove wildlife causing damage to private property, but it imposes strict conditions. Ontario law requires live-trapped squirrels to be released within 1 km of the capture location and within 24 hours. Captured animals must be handled humanely; the use of leg-hold or body-gripping traps is banned.
-
-The City of Toronto's animal control bylaws reinforce these rules. [Chapter 349](https://www.toronto.ca/legdocs/municode/1184_349.pdf) restricts wildlife feeding and governs trapping. The [City's wildlife trapping guidelines](https://www.toronto.ca/community-people/animals-pets/wildlife-in-the-city/wildlife-trapping/) specify that relocation beyond the allowable distance or holding captured animals longer than 24 hours is illegal. In 2016, Toronto's Licensing and Standards Committee proposed requiring wildlife control operators to carry $3,000,000 in liability coverage, hold fall-protection certificates, undergo criminal record checks, and demonstrate humane training standards.
-
-Some wildlife species, such as certain bat species, have seasonal exclusion restrictions under provincial natural resources rules, which is one reason exclusion-focused methods are preferred for all wildlife removal services: they avoid the regulatory complications of trapping. Hiring a properly insured and compliant operator protects the homeowner from fines, liability, and the risk of an incomplete or illegal removal.
-
-### How to Evaluate and Select a Squirrel Removal Company
-
-Not every pest control company specializes in structural wildlife exclusion. General pest control services may handle insects and rodents but lack the roofing knowledge and exclusion hardware for squirrel work. Look for these specific criteria:
-
-* **Documented experience** with squirrel and attic exclusion work in Toronto, including photos of past jobs on similar home types
-
-* **Proof of liability insurance and WSIB coverage** to protect you if a technician is injured on your roof
-
-* **Written warranty on exclusion work**, typically one to five years depending on the provider
-
-* **Photo documentation** before and after, showing every sealed opening and the materials used
-
-* **Use of one-way doors and exclusion hardware** rather than poisons or unmonitored live traps
-
-* **Clear explanation of baby-handling procedures**, including reunion box protocols during birthing seasons
-
-* **Detailed written quote** that itemizes each exclusion point and names the material type (e.g., 16-gauge galvanized steel mesh, metal chimney cap, steel vent covers)
-
-* **Local reviews** from Toronto homeowners that mention long-term success, not just initial removal
-
-Ask whether the company provides a free quote or credits the inspection fee. Avoid operators who offer a quick patch of one hole without inspecting the full roofline for surrounding vulnerabilities. A single sealed gap means nothing if three other weak points remain along the fascia or soffit.
-
-## Common Challenges and Solutions
-
-Some squirrel jobs are resolved in a single visit with one-way doors and standard screening. Others involve complications from structure, season, or prior DIY attempts that extend the timeline and cost.
-
-### Hidden or Multiple Entry Points
-
-Squirrels often use one main hole and maintain several secondary openings along the fascia, under loose shingles, or at soffit returns. If even one secondary gap is missed, squirrels re-enter within hours, prolonging the problem and adding cost.
-
-The professional solution is a methodical perimeter inspection. Technicians work the full roofline, checking every vent, soffit junction, drip edge, and roof valley. On complex roof designs, cameras or drones supplement ladder work. All active and potential entries are sealed at once rather than one at a time. Two seasonal inspections a year help catch new access points before squirrels exploit them.
-
-### Baby Squirrels in Inaccessible Areas
-
-Litters hidden behind knee walls, deep in blown insulation, or inside long soffit runs present one of the more difficult challenges in humane wildlife removal services. The kits are silent when very young and nearly invisible in insulation.
-
-Standard professional solutions include targeted access cuts in soffit or drywall, thermal imaging to pinpoint nest locations, and careful hand removal. Kits are placed in a heated, ventilated reunion box mounted at the entry point. Mothers typically retrieve pups within two to six hours, relocating them to a backup drey in a nearby tree. Humane removal methods minimize harm to wildlife during capture, and the reunion box approach keeps families intact.
-
-### Severe Contamination and Long-Standing Infestations
-
-When squirrels have occupied an attic for months or years, the damage goes beyond a few droppings. Compressed, urine-saturated insulation loses thermal performance. Thick layers of fecal matter create persistent odour. Gnawed wiring creates ongoing fire hazards that may not be visible without pulling back insulation.
-
-Professionals stage this work in phases: eviction and full exclusion first, then remediation. Containment barriers (plastic sheeting and negative air pressure) protect living spaces during cleanup. If gnawed wiring is suspected, an electrician inspects the affected areas before insulation work begins. Environmental modifications such as trimming branches that overhang the roof help prevent squirrel access in the future.
-
-Documenting damage with photos, written reports, and itemized repair estimates is important for potential insurance claims and for maintaining records that support the property's resale value.
-
-## Conclusion and Next Steps
-
-Squirrels in Toronto attics are a common problem, but they are manageable when addressed quickly with professional, humane wildlife control services and solid exclusion work. The combination of the city's mature tree canopy, aging housing stock, and two annual birthing seasons means that wildlife intrusions are not a matter of "if" but "when" for many Toronto homeowners.
-
-The core takeaways: recognize the early signs (dawn scratching, gnaw marks, daylight through attic edges), avoid DIY trapping and poisons, insist on exclusion-focused humane solutions, and address both the eviction and the underlying structural vulnerabilities. A one-way door solves today's problem; galvanized steel screening and vent covers prevent wildlife issues from recurring.
-
-Your next steps:
-
-1. Document noises and visible damage with photos, dates, and times
-
-2. Schedule a professional inspection with a company that provides a detailed, itemized quote and a free estimate or credited inspection fee
-
-3. Approve a full exclusion plan that covers all active and potential entry points, not just one hole
-
-4. Authorize attic cleaning and insulation replacement if contamination is present
-
-5. Set up seasonal inspections (spring and fall) to catch new access points before the next nesting period
-
-Related topics worth exploring include raccoon removal from attics, bat removal and seasonal exclusion rules, and preventive wildlife-proofing during roof renovations or re-shingling projects.
-
-## Additional Resources for Toronto Homeowners
-
-These references are optional but useful for homeowners who want to verify regulations or plan ongoing maintenance.
-
-* **Ontario Ministry of Natural Resources and Forestry** guidelines on nuisance wildlife provide the current legal framework for humane wildlife removal, trapping restrictions, and release requirements. The ministry's website lists species-specific rules and seasonal restrictions.
-
-* **City of Toronto** resources on property standards ([Chapter 629](https://www.toronto.ca/legdocs/municode/1184_629.pdf)) cover structural maintenance obligations that intersect with wildlife prevention. Check toronto animal services pages for current reporting procedures during wildlife emergencies or urgent situations involving injured wild animals.
-
-* **Homeowner roofline checklist**: walk the perimeter after major storms, check accessible attic spaces twice yearly where safe to do so, and monitor for new exterior gnaw marks, displaced vent covers, or fresh droppings near roof edges.
-
-* Keep records of all service reports, warranty documents, before-and-after photos, and repair invoices from your wildlife control provider. These records support insurance claims, property resale documentation, and future maintenance scheduling.
+If you've got scratching in the ceiling at sunrise, book an inspection with Greater Wildlife Control. We'll find out where they're getting in, check for babies, get them out, and close the house up so the next squirrel in the neighbourhood has to find somewhere else to live.

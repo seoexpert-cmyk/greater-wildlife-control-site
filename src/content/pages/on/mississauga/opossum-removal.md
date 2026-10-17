@@ -150,7 +150,7 @@ Professional opossum removal in Mississauga delivers what DIY approaches cannot:
 
 If you suspect opossum activity on your property, take these steps:
 
-1. **Schedule a professional property assessment.** Contact a licensed wildlife removal company for a thorough inspection. This determines the scope of the infestation and provides an accurate quote for services.
+1. **Schedule a professional property assessment.** Call Greater Wildlife Control to book an inspection. This determines the scope of the infestation and provides an accurate quote for services.
 
 2. **Implement immediate preventative measures.** Secure garbage and pet food to deter wildlife, trim trees to prevent wildlife from accessing roofs, and seal any obvious entry points you can safely reach. Install bird-proofing measures to prevent nesting in vents, as dealing with multiple species compounds the problem.
 
