@@ -1,144 +1,137 @@
 ---
-title: "Raccoon Removal in Brampton, ON: Humane Attic and Deck Solutions"
+title: "Raccoon Removal in Brampton, ON: Attics, Chimneys and Creek-Side Yards"
 meta_title: "Raccoon Removal in Brampton, ON"
-meta_description: "Humane raccoon removal in Brampton, ON. One-way door eviction, baby season care, cleanup and repairs for homes and businesses across Peel Region."
+meta_description: "Raccoon in your Brampton attic, chimney or under the deck? We find the way in, check for kits, let the family out on its own, clean up and seal the house."
 path: "/on/brampton/raccoon-removal"
 source: "rewritten from Surfer 16776040 (rewritten from another brand)"
 ---
 
-Brampton has grown quickly, but it still has plenty of green space. Creeks, ravines, parks and wooded areas run through many neighbourhoods, and they sit right beside streets full of houses with warm attics, open chimneys and decks with space underneath. For raccoons, that mix is ideal. With few natural predators in the city and easy access to garbage, pet food and gardens, raccoon numbers can climb, and many of those animals end up living in homes and commercial buildings.
+Bramalea is laid out in lettered sections, and every street in a section starts with the same letter. So once you've worked on enough of those roofs, a street name starting with D or M tells you roughly when the house went up and what it's made of. Late 60s and 70s, original aluminum soffit, box vents that have gone brittle in the sun, and wood fascia going soft behind its metal cover. That's where a good chunk of our raccoon removal in Brampton begins.
 
-Greater Wildlife Control helps Brampton homeowners, landlords and businesses deal with raccoons humanely. Our trained technicians inspect the property, evict raccoons with one-way doors, take special care during baby season, clean up contamination and seal the building so the animals cannot return.
+It's not the only place, of course. Etobicoke Creek winds down through Heart Lake, downtown and Bramalea, the Credit River valley follows the west edge, and long strips of trees surround Chinguacousy Park, Professor's Lake and the trails in between. Raccoons sleep in that cover during the day and walk into the backyards once it gets dark. Up in Fletcher's Meadow and Mount Pleasant the houses are young, but they're wrapped in vinyl and topped with plastic vents, and a raccoon can work those loose in one night.
 
-## Why Raccoons Move Into Brampton Homes
+Here's how I'd explain it if you had me over to look: how to tell it's a raccoon, where they get into Brampton houses, why spring changes the plan, and what it takes to clear them out and close the house so they stay gone.
 
-Raccoon problems look a little different from one part of Brampton to another, depending on the age of the homes and what surrounds them.
+## Is that really a raccoon up there?
 
-### Homes near wooded areas and creeks
+Listen to the clock first. A raccoon leaves the attic soon after sunset and comes home somewhere between 2 and 5 in the morning, so that's when the ceiling gets loud. A grown one outweighs most house cats, and you hear it: a slow, deliberate walk, a thud as it drops off a rafter, a scraping sound while it rearranges the insulation into a bed. Squirrels make their noise in daylight and move in quick bursts.
 
-Neighbourhoods such as Heart Lake, with its trees and natural shelter, see steady raccoon activity. Raccoons travel from wooded areas into backyards to feed, then look for a nearby den. Roofs with overhanging branches are especially easy to reach.
+Out in the yard, look for:
 
-### Older housing in Bramalea and established areas
+- A box vent tipped up on one side or missing from the roof
+- A soffit panel bent down at a corner, or a gable vent screen torn open
+- Shingles lifted along the bottom edge of a lower roof
+- Dark smudges and a few hairs around a gap, where its body rubs every night
+- A hole dug at the edge of the deck, porch or shed, with fresh soil pushed out
+- One pile of droppings in the same spot on a flat roof or the deck, which is a latrine
+- Green bins knocked over and patches of lawn rolled back
 
-Older homes in Bramalea and other established parts of the city often have aging roof vents, soffits and flashing. Small gaps that have developed over decades are easy for a raccoon to pry open. These homes can also have hidden entry points that are hard to spot from the ground, which is why a thorough inspection matters.
+Inside, it's usually a strong musky smell around the hatch, or a brownish ring spreading across the ceiling. And in spring, a thin chattering from one corner of the house during the day almost always means kits.
 
-### Newer subdivisions
+## Where they get into Brampton houses
 
-In growing communities such as Credit Valley, new construction pushes into land where wildlife used to live. Displaced raccoons look for shelter in the closest buildings, and new homes are not immune. Roof vents, gable ends and the space under new decks can all become dens.
+### Bramalea, Peel Village and the older streets downtown
 
-### Downtown Brampton and busy urban streets
+The houses around Peel Village and the brick homes near the Four Corners and Gage Park are older still, and they share the same weak spots as Bramalea. I go straight to:
 
-In Downtown Brampton and other built-up areas, raccoons and other animals often nest in chimneys, vents and roof spaces on houses, older buildings and commercial properties. Garbage from homes and businesses gives them a steady food supply.
+- **Chimneys.** Lots of them were never capped, and a flue nobody uses is a dry, quiet place to raise a litter.
+- **Fascia hidden under aluminum.** The metal looks fine from the lawn. The wood behind it can be soft enough to push a thumb into.
+- **Old box vents** that crack when a raccoon pulls on the edge.
+- **Additions and enclosed porches,** where a newer roof was tied into the old one and the seam was never quite tight.
+- **A mature maple or silver maple** hanging over the roof, which lets the animal skip the climb altogether.
 
-Raccoon activity is also commonly reported in Fletchers Creek South, Springdale, Peel Village, Mount Pleasant, Gore Meadows, Castlemore and Churchville. Wherever you live in Brampton, the signs and the solution are much the same.
+### Fletcher's Meadow, Mount Pleasant and the newer subdivisions
 
-## Signs of Raccoons on Your Brampton Property
+Newer homes don't have rotten wood, but they've got other problems. Plastic box vents held on by a few nails. Ridge vents with plastic baffles under the cap shingles. Vinyl soffit that flexes when you press it. And plenty to climb: a downspout on a garage corner, stone veneer at the front door, a fence that runs right up to the side wall. Once a raccoon is on the garage roof, it's standing next to the second-floor soffit.
 
-- Heavy footsteps, thumping or scratching in the attic or ceiling at night.
-- Chattering or crying sounds in spring, which usually means kits are being raised inside.
-- Lifted shingles, bent or torn roof vents, damaged soffits or ripped gable vent screens.
-- A gap or hole under your deck, porch or shed, often with loose soil around it.
-- A latrine, which is a pile of droppings in one spot, on a flat roof, deck or in the attic.
-- Tipped garbage, green bins and recycling, or damaged lawns and gardens.
-- A musky smell or stains on ceilings below the attic.
+The spot people forget is the underside of a bump-out. One family in Fletcher's Meadow called because the noise wasn't coming from the ceiling at all. It was under the floor of their son's bedroom, which hung out a couple of feet past the wall below it. A raccoon had pushed up the vinyl soffit panel under that overhang and was sleeping in the floor joists, right on top of the insulation. We fitted a one-way door to the soffit, let her leave, then closed the whole underside with steel mesh before putting new panels back on.
 
-## Risks of Leaving Raccoons in Place
+<!-- generic anecdote: confirm or replace with a real job -->
 
-**Damage to your home.** Raccoons tear open roof vents and soffits to get inside, then flatten and soil insulation, damage ductwork and chew on wiring, which can create a fire hazard.
+### Under the deck and the shed
 
-**Health hazards.** Raccoon droppings can contain roundworm eggs that stay infectious for a long time. Contact with contaminated material puts people and pets at risk. Raccoons can also spread diseases such as canine distemper to dogs.
+Brampton has a lot of decks with lattice or open sides, and the dry ground underneath suits a raccoon fine. Same goes for sheds sitting on blocks. If you see a round hole at the edge with packed dirt in front of it, something's using it.
 
-**Repeat problems.** A hole made by a raccoon becomes an open door for squirrels, birds and other animals. The longer it stays open, the more likely it is that you will have more than one species to deal with.
+## Kits change the whole job
 
-## How Greater Wildlife Control Removes Raccoons in Brampton
+Raccoons mate in late winter and most kits are born in April and May. They stay with their mother until late summer, and for the first several weeks they can't go anywhere on their own. So if a raccoon is in your attic or chimney between March and August, I treat it as a mother with young until I've checked for myself.
 
-### Step 1: Property inspection
+That matters because blocking the hole, or trapping the adult, leaves the kits stuck inside. They starve in the insulation or wedged inside a wall cavity, and you get the smell, the flies and a much bigger cleanup. A mother cut off from her litter will also tear a brand-new hole in the roof trying to reach them, sometimes a foot from the one you just patched.
 
-A technician checks the roof, attic, chimney, vents, soffits, gable ends, decks, sheds and foundation to find the active entry point, any secondary openings and places that could become entry points later. The inspection also looks at food sources and other attractants around the yard.
+So the order is always the same:
 
-### Step 2: Baby check
+1. Find the kits. Where we can reach them, we take them out one at a time and set them in a warm box right at the exit.
+2. Let the mother collect them and carry them to another den. Usually that takes a night or two.
+3. Close the house only after the whole family is gone.
 
-Before anything is sealed, the technician confirms whether there are kits inside. This step is essential in spring and early summer in Brampton, when many attic and chimney raccoons are mothers with young.
+Fall is the other rush. From September on, raccoons are looking for a winter spot, so roofs that looked fine in August suddenly have a vent torn off. Winter is quieter but it isn't empty. Raccoons don't hibernate. They sleep through the coldest weeks and get moving again on mild nights.
 
-### Step 3: Humane eviction with a one-way door
+## How raccoon removal in Brampton works on the day
 
-A one-way door is installed over the main entry. Raccoons can leave to feed but cannot get back in. This lets them leave on their own without being handled, which is the most humane way to remove them from a building. The same method is used for raccoons, squirrels and skunks under decks and sheds.
+### The look around
 
-### Step 4: Sealing and exclusion
+Before anything goes on your house, I check the roof, the attic if the hatch allows it, the chimney, every vent, the soffits and gable ends, the deck and shed, and the foundation. I want the opening the raccoon is using now, the backup openings it could use next, and any sign of a litter. I'll also point out what's drawing it to the yard. You get photos and a plan, and the estimate comes out of that plan.
 
-Other openings and weak spots are sealed with sturdy materials such as heavy-gauge screening and galvanized steel mesh. Once the animals are gone, the main entry point is closed permanently.
+Not every job is a house. A shop owner near Main Street downtown called about a brown stain spreading across the ceiling tiles over the back counter. The building had a flat roof, and up there a raccoon had chewed and pulled at the old flashing around a rooftop unit until there was a gap big enough to squeeze into the ceiling space. There was a latrine right beside it on the roof. We put the one-way door on that opening, gave it a few quiet nights, then sealed the curb with sheet metal and mesh.
 
-### Step 5: Cleanup
+<!-- generic anecdote: confirm or replace with a real job -->
 
-Raccoon latrines, nesting material and soiled insulation are removed and the area is sanitized. Dead animal removal is available if needed.
+### Letting them walk out
 
-## Baby Season in Brampton
+Once no kits depend on her, the main hole gets a steel one-way door. It swings outward only. She leaves at dusk to eat, and when she comes back the way is shut. Ahead of that, we close the other weak spots on the roof, since a raccoon shut out of one hole goes looking for the next. The door stays until we've had several quiet nights, then we pull it and close that final hole permanently. Nobody has to handle the animal, which is the gentlest way to do this and, honestly, the one that works best.
 
-Raccoon breeding season generally runs from about March through August. After a gestation of roughly two months, most kits are born in spring, in litters of two to eight. Attic and chimney calls in Brampton rise sharply during this period, especially in neighbourhoods like Fletchers Creek South and Heart Lake, where mothers have easy access to roofs.
+Decks and sheds get the same idea: a one-way door on the hole they're using, then galvanized mesh buried along the base so the next raccoon or skunk hits metal when it starts to dig.
 
-Removing raccoons during baby season takes extra care:
+### Closing it up
 
-- Kits are located and, where they can be reached, removed by hand and placed safely near the exit.
-- The mother is allowed to collect her young and carry them to a new den.
-- The building is sealed only after the entire family has left.
+Every opening we found gets closed, used or not. Heavy-gauge screening over roof vents, galvanized steel mesh behind soffit and fascia repairs, a proper cap on the chimney, guards on the dryer and gable vents, and sealing around plumbing stacks. Foam and plastic mesh won't hold a raccoon for long.
 
-This keeps the family together and prevents a frantic mother from tearing a new hole in your roof to reach her kits. It also avoids the smell and contamination that come with young animals trapped inside a sealed attic.
+### Cleaning up
 
-## Repairs and Prevention for Brampton Homes
+Then the attic. We take out the latrine, the nesting material and any insulation that's soaked through or matted under the toilet spot, and sanitize the area. If an animal died in the house, we can take care of that too.
 
-After the raccoons are out, the focus shifts to keeping them out. Typical work on Brampton homes includes:
+## Why not trap it and let it go by the creek?
 
-- **Roof vent covers** made of heavy-gauge screening.
-- **Chimney caps** for older homes and houses with open flues.
-- **Soffit, fascia and gable end repairs** where raccoons have pulled panels loose.
-- **Dryer vent, roof vent and gable vent protection**, which are common nesting spots for raccoons and squirrels.
-- **Deck, porch and shed screening**, using galvanized mesh buried at the base so raccoons and skunks cannot dig under.
-- **Sealing other gaps** along the roofline and around plumbing stacks.
+People ask me that every week. Raccoons fall under the province's [Fish and Wildlife Conservation Act](https://www.ontario.ca/laws/statute/97f41). You're allowed to deal with one that's damaging your property, but if you catch one alive, the clock starts. You get one day to let it go, and the release spot can't be more than a kilometre from your yard. Driving it up to a conservation area isn't allowed.
 
-Simple habits help too. Keep garbage, recycling and green bins in the garage until collection day or secure them with latches. Bring pet food indoors at night, clean up fallen birdseed and fruit, trim branches that hang over the roof, and never feed raccoons.
+It also doesn't fix anything. A kilometre is a short walk for a raccoon, your soffit still has a hole in it, and a mother caught in May leaves her kits upstairs. That's why we'd rather move them out and seal up than trap.
 
-## Brampton and Ontario Rules
+Brampton also licenses businesses that do wildlife removal. Whoever you hire, it's fair to ask whether they hold the licence the City requires, and [brampton.ca](https://www.brampton.ca) has the details.
 
-Raccoons are protected wildlife under Ontario's [Fish and Wildlife Conservation Act](https://www.ontario.ca/laws/statute/97f41). Property owners may remove nuisance animals that are damaging their property, but a live-trapped raccoon must be released within one kilometre of where it was caught. Moving raccoons farther away is not permitted.
+One more thing. If you see a raccoon that's staggering, circling or oddly calm around people, keep the kids and the dog inside and call Brampton Animal Services. That isn't a job for us. A healthy raccoon living in your roof is.
 
-The City of Brampton also issues business licences for wildlife removal operators. Before hiring any company, you can ask whether it holds the licence the city requires and check the city's requirements on [brampton.ca](https://www.brampton.ca).
+## What they leave behind
 
-For a raccoon living in your attic, chimney or under your deck, the usual route is to hire a private wildlife removal company that uses safe, humane methods. If you see a raccoon that appears sick, injured or is acting strangely, avoid it, keep pets away and contact the City of Brampton for guidance.
+Raccoon droppings are a common carrier of *Baylisascaris procyonis*, a roundworm whose eggs hang on for a long time in dust and dirt, and if a person swallows or breathes them in, it can cause serious illness. Little kids are the worry, since everything ends up in their mouths. A dog that isn't vaccinated can also pick up distemper from raccoons. If anyone in the house is bitten or scratched, see a doctor and call Peel Public Health that day.
 
-## Book a Raccoon Inspection in Brampton
+So please don't go up with a broom. We clean in respirators and coveralls, with HEPA vacuums, so the dust stays in the attic and not in your hallway.
 
-Whether raccoons are in your attic in Bramalea, under your deck in Credit Valley or on the roof of a business downtown, contact Greater Wildlife Control to book an inspection. Our trained technicians will remove the raccoons humanely, clean up after them and help keep your Brampton property protected.
+## Your part: food, bins and branches
 
-## Brampton Raccoon Removal FAQs
+Most of this is about food:
 
-### Should I call the City of Brampton or a wildlife removal company for a raccoon in my attic?
+- Keep the garbage, recycling and green bin in the garage until collection day, or latch the lids.
+- Bring pet food in at night.
+- Sweep up spilled birdseed and pick up fallen fruit.
+- Cut back branches that reach the roof.
+- Don't feed them, even the cute one on the fence.
 
-For raccoons living in an attic, chimney or under a deck, a private wildlife removal company is usually the right call. These companies have the training and equipment to evict raccoons humanely and seal the building afterward. The city is the place to go for questions about local rules or concerns about a sick or injured animal.
+If your yard backs onto a creek valley, get the roof checked each September. A loose vent costs far less to fix in the fall than a family costs to clear out in April.
 
-### Why are raccoons so common in Heart Lake and other wooded areas?
+## Questions I hear a lot in Brampton
 
-Trees, creeks and green space give raccoons shelter and food close to homes. They move from wooded areas into neighbouring backyards and roofs, especially when branches give them easy access.
+### Can I just do it myself?
 
-### Are older homes in Bramalea more likely to have raccoons?
+You can try, but this is where people get into trouble. Seal the hole too early and you trap kits. Corner a mother and she'll defend herself. Sweep the latrine and you're breathing roundworm dust. And the release rules above apply to you too.
 
-Older homes often have worn roof vents, soffits and flashing with gaps that raccoons can widen. An inspection can find these weak spots before or after an animal moves in.
+### Do you only handle raccoons?
 
-### Can raccoons get into newer homes in areas like Credit Valley?
+No. Around Brampton we also get called for squirrels in attics and vents, skunks under decks and sheds, and birds nesting in vents and chimneys.
 
-Yes. New construction displaces wildlife, and raccoons will use roof vents, gable ends and spaces under decks on brand-new houses just as easily as on older ones.
+### Do newer houses really get raccoons?
 
-### What should Downtown Brampton property owners watch for?
+All the time. A 2015 build in Mount Pleasant with plastic vents can be easier to open than a 1972 house in Bramalea with steel ones.
 
-Chimneys, vents and flat roofs on older buildings are common targets. Raccoons are drawn by garbage from homes and businesses, so secure waste storage is important.
+## Hearing it again tonight? Let's sort it out
 
-### Can I remove raccoons myself?
-
-Attempts to remove raccoons without experience often fail or make the problem worse. Mother raccoons can be defensive, droppings may be contaminated, Ontario has strict rules on trapping and release, and sealing a hole too early can trap kits inside. A trained technician is the safer choice.
-
-### What other animals do you deal with in Brampton?
-
-Besides raccoons, common Brampton calls include squirrels in attics and vents, skunks under decks and sheds, and birds nesting in vents and chimneys.
-
-### What should I look for when choosing a wildlife removal company?
-
-Look for a company that does a full inspection, uses humane methods such as one-way doors, takes care during baby season, explains its pricing clearly and focuses on long-term prevention, and confirm it holds the business licence the City of Brampton requires.
+Thumping after midnight in Heart Lake, a vent missing in Bramalea, a hole under the deck in Peel Village: whatever you've found, call Greater Wildlife Control. We'll come out, show you where it's getting in and whether there's a litter, and lay out what it takes to move the family out and close your house up.
