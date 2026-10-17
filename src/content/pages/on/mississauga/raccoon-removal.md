@@ -53,7 +53,7 @@ The newer townhouses north of the 403, in places like Churchill Meadows and Mead
 
 Raccoons mate in late winter. Kits are born in spring, usually somewhere between March and June, and they stay in the den until they're big enough to follow their mother, which takes them into mid or late summer.
 
-That's why, from spring through midsummer, I treat every raccoon in an attic as a mother with young until I've checked. If somebody blocks the hole or traps the adult during that stretch, the kits are left inside with nobody to feed them. They die in the insulation or down a wall, and now there's a smell, flies and a much harder cleanup. It's also the kind of thing Ontario's wildlife rules are written to prevent.
+That's why, from spring through midsummer, my working assumption is that the raccoon in your attic is a nursing female, and I stay with that assumption until I've proven otherwise. Seal her out or trap her in those months and the litter starves where it is. You end up with dead kits somewhere in the ceiling, a smell that hangs around for weeks, flies, and a cleanup that's twice the work. It's also the kind of thing Ontario's wildlife rules are written to prevent.
 
 Fall is the other busy stretch. From about September to November, young raccoons head off on their own and adults look for a solid winter den. Raccoons don't really hibernate. They slow way down and sleep through the cold snaps, a state called [torpor](https://www.hww.ca/wp-content/uploads/2024/11/raccoon-en.pdf), but they'll still wake up and move around on milder nights. So a quiet attic in January doesn't mean an empty one.
 
@@ -63,17 +63,17 @@ The sweet spot for exclusion work, if you have a choice, is late summer into ear
 
 ### Up on the roof first
 
-I don't put anything on a house until I've walked the whole roof. I want to know how many openings there are, which one is active, whether there are kits, and how much mess has built up. Then I go into the attic if there's safe access.
+Nothing gets installed until I've been over the entire roofline. I'm counting holes, figuring out which one she's actually using, looking for signs of a litter and sizing up the mess. If the hatch and the framing let me in safely, the attic is next.
 
 You'll get photos of every spot and a plain explanation of what each one needs. That list is what the quote is built on: how many openings, how much repair, and how much cleanup.
 
 ### Getting the family out
 
-If it's baby season, the first job is a hands-on check for kits. When we find them, they go into a warmed box set right beside the entry hole. Mom comes back, finds them, and carries them off to another den, usually within a day or two. She does the moving, which is far less stressful for everyone than trying to catch her.
+In baby season, step one is physically finding the kits. Once we have them, they're tucked into a heated box on the roof next to the hole she's been using. She hears them, collects them one at a time and relocates them herself, usually inside of a night or two. Letting her do it beats chasing a protective mother around an attic.
 
-Once the attic is clear of kits, we install a one-way door over the main opening. It's a steel door or tunnel the raccoon can push out through, but it closes behind it so it can't get back in. Before that door goes on, the other weak spots get sealed, so the only way out is through the door. It has to be fitted to your roof. A one-way door that's loose at the edges just teaches the raccoon to rip open the spot next to it.
+Once the attic is clear of kits, we install a one-way door over the main opening. It's a steel door or tunnel the raccoon can push out through, but it closes behind it so it can't get back in. Before that door goes on, the other weak spots get sealed, so the only way out is through the door. It has to be fitted to your roof. A one-way door that's loose at the edges just shows the raccoon where to tear through the shingles beside it.
 
-The door stays on for several days, often longer, until we're confident nothing is moving up there. Then it comes off and that last opening is closed for good.
+We leave the door in place for at least several days, and longer if anything looks off. When the attic's been quiet long enough that I'm sure, we pull the door and seal that final hole permanently.
 
 ### Decks, sheds and the townhouse problem
 
@@ -89,7 +89,7 @@ If your deck is shared, it's worth talking to your neighbour before we come out.
 
 ## The one-kilometre rule, and why trapping rarely solves it
 
-People ask me all the time why we don't just trap the raccoon and drop it off somewhere far away. Ontario's Fish and Wildlife Conservation Act lets a property owner, or someone they hire, deal with wildlife that's damaging the property. But if a raccoon is live-trapped, it has to be released within 24 hours and within 1 km of where it was caught. Driving it out past the city isn't allowed.
+People ask me all the time why we don't just trap the raccoon and drop it off somewhere far away. Ontario's Fish and Wildlife Conservation Act lets a property owner, or someone they hire, deal with wildlife that's damaging the property. The catch is the release rule: a live-trapped raccoon goes back out within 24 hours, no more than a kilometre from your house. A trip up to the Caledon hills isn't an option.
 
 In practice, a raccoon let go a kilometre away can be back on your roof the same night. And if the hole is still open, you haven't solved anything. Trap a mother in spring and her kits are still in your attic. That's why we push them out with a one-way door and seal up instead. Live capture is for odd cases, like a raccoon that's ended up somewhere inside the living space.
 
@@ -97,11 +97,11 @@ It also helps to know that Mississauga Animal Services doesn't trap healthy racc
 
 ## Raccoon droppings are not a weekend project
 
-Raccoons pick a toilet spot and keep using it. In an attic, that pile is the part of the job I take most seriously.
+Raccoons use one corner as a toilet, night after night. That latrine is what worries me most on any attic job.
 
-Many raccoons carry a roundworm called *Baylisascaris procyonis*. The eggs pass in the droppings and they hang around a long time, in dust, insulation and soil. If someone breathes in that dust or gets it on their hands and then their mouth, it can cause serious illness, and kids are most at risk. Raccoons can also carry rabies and distemper, and they bring fleas and ticks in with them.
+Many raccoons carry a roundworm called *Baylisascaris procyonis*. The eggs pass in the droppings and they hang around a long time, in dust, insulation and soil. Breathe the dust in, or touch it and then touch your face, and you can get very sick. Young children are the ones most at risk. Raccoons can also carry rabies and distemper, and they bring fleas and ticks in with them.
 
-So please don't head up there with a broom and a dust mask. When we clean, it's respirators, gloves, coveralls and HEPA vacuums, and the waste is bagged and taken away properly. If the latrine is small and recent, removal and an enzyme treatment may be enough. If a family has been living up there for a season, the urine-soaked insulation usually has to come out and get replaced, and we'll show you what we find before deciding.
+This is not a weekend job with a shop vac and a paper mask. Our crew suits up in respirators and coveralls, uses HEPA vacuums, and bags everything for proper disposal. If the latrine is small and recent, removal and an enzyme treatment may be enough. If a family has been living up there for a season, the urine-soaked insulation usually has to come out and get replaced, and we'll show you what we find before deciding.
 
 ## Closing the house up
 
@@ -120,10 +120,10 @@ A few things on your end help too. Trim branches back so nothing hangs over the 
 
 - Don't block the hole. If there are kits inside, you'll make it much worse.
 - Note when you hear the noise and roughly where in the ceiling it is.
-- Take photos of any damage you can see from the ground.
+- Snap a few pictures of anything chewed or torn that's visible from the yard.
 - Keep kids and pets away from the attic and from wherever the animal goes in and out.
 - Don't touch droppings. Leave them for us.
 
 ## Give us a call before it settles in
 
-If something heavy is moving over your ceiling after dark, or a raccoon has moved in under the deck, call Greater Wildlife Control. We'll come out, show you exactly where it's getting in and whether there are kits, and give you a straight plan to get it out and close the house up.
+Heavy thumping overhead at night, or a raccoon living under your deck? Give Greater Wildlife Control a call. We'll come out, show you exactly where it's getting in and whether there are kits, and give you a straight plan to get it out and close the house up.

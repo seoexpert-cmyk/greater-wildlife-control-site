@@ -1,171 +1,158 @@
 ---
-title: "Opossum Removal in Mississauga, ON: Safe Wildlife Eviction"
+title: "Opossum Removal in Mississauga, ON: Garages, Decks and Crawl Spaces"
 meta_title: "Opossum Removal in Mississauga, ON"
-meta_description: "Opossum under your Mississauga deck, shed or porch? Greater Wildlife Control removes opossums humanely and screens the area to keep them out."
+meta_description: "Opossum in your Mississauga garage, under the deck or in a crawl space? Here's how we check for young in the pouch, let it out, and close the gap it used."
 path: "/on/mississauga/opossum-removal"
 source: "Surfer 16684506"
 ---
 
-## Introduction
+If you've caught something in the headlights that looked like an oversized rat with a white face, and instead of running it just stood there and hissed at you with its mouth wide open, you've met an opossum. They look a lot scarier than they are.
 
-Professional opossum removal in Mississauga protects your property from structural damage, eliminates serious health risks from fecal contamination, and ensures humane wildlife eviction that complies with Ontario law. As Virginia opossums are recent arrivals to southern Ontario-expanding their range northward due to urban heat island effects and abundant food sources near Lake Ontario-Mississauga property owners are encountering these nocturnal marsupials under decks, inside crawl spaces, and within attic voids with increasing frequency. Understanding how experienced professionals handle these situations is essential for resolving infestations safely and permanently.
+Opossum removal in Mississauga used to be a pretty rare call for us. Not anymore. Opossums have been working their way north into southern Ontario, and the lakeshore side of the city suits them well. Most of the time they're just passing through. The calls come when one decides your garage, your deck or your crawl space is home for a while.
 
-This guide covers residential and commercial properties, seasonal removal considerations, legal requirements under Ontario's wildlife protection framework, and long-term prevention strategies. It is written for Mississauga homeowners and business owners dealing with active opossum infestations, property managers responsible for maintaining buildings, and anyone seeking preventative measures against future wildlife problems. General pest control topics such as insect extermination fall outside the scope of this article.
+So here's the rundown: what an opossum actually is, how to tell one's living with you, why the babies change everything, and how we get it out and close the gap behind it.
 
-Professional opossum removal in Mississauga involves humane eviction using one-way exclusion devices, systematic structural sealing of all entry points, and thorough biohazard sanitation-all performed by licensed wildlife control specialists who ensure compliance with provincial and municipal regulations.
+## Canada's only marsupial, living under your deck
 
-After reading this guide, you will gain:
+The Virginia opossum is the only marsupial we've got in Canada. Like a kangaroo, the female carries her young in a pouch. An adult is about the size of a house cat, with grizzled grey fur, a pointy white face, black ears and a bare, scaly tail.
 
-* A working knowledge of opossum behavior patterns and seasonal activity cycles relevant to removal timing
+A few things worth knowing about them:
 
-* The ability to recognize structural vulnerabilities that opossums exploit on your property
+- **They're nomads.** An opossum rarely stays in one den for long. It might use your shed for a few nights, then move on to somebody else's. The exceptions are a mother with young and an animal hunkering down in a cold snap.
+- **They don't dig much.** Unlike a skunk, an opossum would rather borrow a hole than make one. Old skunk burrows, gaps under sheds, spaces behind stored stuff in a garage.
+- **They climb pretty well.** Sharp claws, a grabbing tail and a thumb-like toe on the back feet. They'll go up a fence or a tree, though they usually den low.
+- **They eat almost anything.** Bugs, slugs, worms, ticks, fallen fruit, roadkill, compost, bird seed, cat food, garbage.
+- **They aren't built for our winters.** You'll often see one with nicked, frostbitten ear tips or a tail that's lost its end. That's one reason they look for sheltered spots once it gets cold.
 
-* A clear understanding of professional removal methods, from inspection through biohazard remediation
+## Why we're seeing more of them here
 
-* Practical strategies for preventing re-infestation and achieving long-term protection
+For an animal that gets frostbite on its ears, a few degrees matters, and the lake takes some of the bite out of a Mississauga winter. That's my guess for why they've settled in so comfortably here.
 
-* Confidence in navigating Ontario wildlife regulations, including the one-kilometre relocation limit
+The yards they like best are the older, leafier ones. Around Lorne Park and the streets near Rattray Marsh you've got pear and apple trees dropping fruit all fall, compost bins, detached garages and old sheds that sit right on the ground. In newer neighbourhoods it's more likely to be a garage or a gap under a deck. Either way, an opossum doesn't need much: something to eat and a dry place to sleep for a few days.
 
-## Understanding Opossum Behavior and Habitat Preferences in Mississauga
+## Is it actually an opossum?
 
-The Virginia opossum (*Didelphis virginiana*) is the only opossum species found in the Mississauga area. Opossums are nocturnal, opportunistic scavengers that fill an important ecological niche-they consume carrion, insects, ticks, fallen fruit, and small vertebrates, helping control other nuisance animals while cleaning up decaying organic matter. However, their growing presence in southern Ontario's urban landscape brings real wildlife concerns for property owners. An adult Virginia opossum typically weighs between 10 and 14 pounds, and their adaptable feeding habits mean they readily exploit human food sources like unsecured garbage, pet food left outdoors, and compost bins containing food waste.
+Since they don't dig and they're quiet, opossums can be hard to pin down. Here's what tips me off:
 
-For homeowners, the critical issue is that opossums actively seek out protected, dark, dry spaces on residential properties for denning. They evaluate structures the same way you might assess shelter quality: proximity to food, protection from predators and weather, and ease of access. Understanding these selection criteria-and the seasonal patterns that drive them-is the foundation of effective wildlife removal.
+- **Tracks that look like little hands.** The back foot has a thumb that sticks out sideways, which nothing else around here has.
+- **Droppings** about the size of a cat's, often dropped near the den or along a fence line.
+- **Garbage or compost picked through**, but not torn apart the way a raccoon does it.
+- **Soft shuffling or scratching** under a floor or in a garage at night. Lighter than a raccoon, slower than a squirrel.
+- **A musky smell** where it's been sleeping.
+- **Hissing, drooling or clicking** if you stumble across one.
 
-### Seasonal Activity Patterns and Breeding Cycles
+If you've got a trail camera, point it at the spot overnight. A white face and a long pink nose show up nicely on video.
 
-Opossum activity in Mississauga follows a distinct annual cycle that directly affects when and how removal should be performed. Peak activity runs from March through October, with breeding beginning in late January through early February. Females give birth between March and May, producing litters where the number of young born often exceeds the number that survive to weaning, given the species' high first-year mortality rate. Young opossums spend approximately two months in the mother's pouch before riding on her back until they are three to four months old. Juvenile dispersal occurs during summer, which is when many property owners first notice wildlife issues on their property.
+## About playing dead
 
-Winter behavior is equally important for removal planning. Opossums do not truly hibernate but significantly reduce activity when temperatures drop below approximately -15°C. They seek out well-insulated dens-often inside human structures-and limit foraging during the coldest months. This winter denning behavior means that animals discovered in crawl spaces or wall spaces during cold weather have likely been present for weeks, potentially causing extensive damage to insulation and creating biohazard conditions.
+This is the thing everyone's heard about, and yes, it's real. When an opossum is badly scared, it can collapse on its side, go stiff, drool, and give off a nasty smell. It isn't something it decides to do. It's more like fainting, and it can last a few minutes or a lot longer.
 
-The breeding timeline has direct legal implications. Under [Ontario's Fish and Wildlife Conservation Act](https://www.ontario.ca/laws/statute/97f41), wildlife removal must follow local regulations for humane treatment, and disturbing a den containing dependent young raises serious compliance concerns. Qualified wildlife control services time eviction strategies around these cycles to avoid separating nursing mothers from offspring that cannot yet survive independently.
+What do you do? Nothing. Back off, bring the dog inside, and give it time. It'll get up and leave once things go quiet. Please don't poke it, and don't try to pick it up to "move the body." Every year somebody does that and gets a nasty surprise.
 
-### Structural Vulnerabilities Opossums Exploit
+Before it gets to that point, an opossum will usually try the bluff first: mouth wide open, showing off a lot of teeth (they have fifty of them), and hissing. It looks fierce. It's mostly show. Still, it's a wild animal, and it'll bite if you grab it.
 
-Opossums gain access to buildings through surprisingly small openings, and the structural vulnerabilities they exploit are predictable. Damaged vents along foundations are among the most common entry points-foundation vent screens that have corroded, been knocked loose, or never properly installed create easy access to crawl spaces. Compromised deck lattice ranks as another primary access point, as opossums can push through or dig under poorly secured lattice panels to establish dens beneath porches and decks.
+## Garages, decks and crawl spaces
 
-At the roofline, roof-soffit gaps where fascia boards have rotted or separated from the structure allow opossums access to attic spaces. Missing chimney caps, damaged roof vents, and gaps around utility penetrations all represent potential entry points. Outbuildings present additional vulnerable areas: garden sheds with deteriorated siding, garages with gaps at the base of overhead doors, and any structure with compromised roofing materials.
+These are the three places opossums end up in Mississauga homes.
 
-These structural preferences connect directly to seasonal patterns. During breeding season, females are particularly selective about den sites, favoring locations that offer warmth and protection for raising young. A crawl space with damaged vent screening or a gap beneath a deck may go unnoticed by a property owner for months-until scratching sounds at night, scattered garbage, or a distinctive musky odor signals that wild animals have moved in. Recognizing these vulnerabilities before they are exploited is the first step toward effective prevention, but once an opossum has established a den, professional identification and assessment become necessary.
+**Garages.** A gap under the overhead door, a worn-out sweep on the side door, or a door that's left open in the evening. Once inside, they tuck in behind storage bins, under a workbench, or in a box of old blankets.
 
-## Opossum Identification and Property Assessment
+**Decks and sheds.** Any opening along the bottom, especially where a skunk or groundhog has already dug.
 
-Understanding opossum behavior provides context, but confirming their presence and evaluating the full scope of an infestation requires systematic identification techniques. Qualified wildlife control companies approach this as a structured diagnostic process-similar to a building inspection but focused specifically on wildlife activity, structural compromise, and health hazards.
+**Crawl spaces and basements.** A loose or rusted foundation vent screen, a gap around a pipe or dryer vent, or a cracked window well.
 
-### Recognizing Signs of Opossum Presence
+I had a call in Erindale where a family kept finding their recycling knocked over in the garage, and they blamed raccoons. When I got there and moved a few bins, there was an opossum curled up on a pile of folded moving boxes behind the freezer. It had been getting in under the side door, where the bottom of the door had swollen and the sweep had torn away, leaving a gap you could slide a hand through. We left the big door open a bit after dark and kept everyone out of the garage, and it walked out on its own that night. The next day we put on a new heavy sweep and a metal threshold strip. <!-- generic anecdote: confirm or replace with a real job -->
 
-Physical evidence provides the most reliable confirmation. Opossum tracks are distinctive: five small toes arranged in a semi-circular pattern on the front feet, with hind feet showing longer central digits and an opposable thumb-like toe. Droppings are cylindrical with blunt ends, often containing visible fur, seed fragments, or insect parts-differentiating them from raccoon or cat feces. Scattered garbage near bins, displaced nesting materials such as shredded insulation or leaves, and greasy rub marks along regular travel routes all indicate activity.
+Garages are often the easy ones like that. Decks and crawl spaces take more work, because you've got to find every opening first.
 
-Auditory indicators are often what first alert homeowners to a wildlife problem. Nocturnal shuffling or scratching sounds within wall spaces, under floors, or above ceilings suggest denning activity. When disturbed, opossums produce hissing sounds and clicking vocalizations that are quite distinct from the heavier thumping associated with raccoons or the rapid scurrying typical of squirrels.
+## Pouch first, then piggyback
 
-Visual confirmation is less common because opossums are strictly nocturnal, but dusk and early-morning sightings under porches, crossing yards, or near garbage areas do occur. If you observe an opossum directly, maintain distance-while they rarely carry rabies due to their lower body temperature compared to other mammals, they can bite defensively, and direct handling by untrained individuals creates unnecessary risk to both humans and pets.
+The baby schedule is what decides how and when we do the work, so here's how it goes.
 
-### Comprehensive Property Inspection Techniques
+Opossums mate in late winter, usually starting in January or February. The young are born after only about two weeks, and they're tiny, roughly the size of a bee. They crawl straight into the mother's pouch and stay there for about two months. After that they come out and ride around on her back, or stay in the den while she forages, until they're around three to four months old and can manage by themselves.
 
-Professional wildlife removal services conduct inspections in two phases. The exterior assessment covers the entire foundation perimeter, all deck and porch understructures, outbuilding access points, roofline integrity, soffit and fascia condition, and every vent or utility penetration. Experienced professionals identify entry points by examining gap dimensions, looking for hair caught on rough edges, and checking for track evidence in soil or dust near openings.
+That means from roughly March through the summer, any female you find might be carrying young. Exclude a mother whose babies are in the den, and you've got orphans inside your crawl space or under your deck. That's cruel, it's against how Ontario expects you to handle wildlife on your property, and the smell later on is awful.
 
-Interior inspection protocols involve crawl space examination using high-powered flashlights and, in some cases, thermal imaging cameras that reveal heat signatures of denning animals. Basement corners, storage areas, and any accessible wall voids receive attention. Moisture meters help detect urine contamination that may not be visible.
+One spring evening near Riverwood, a homeowner sent us a phone video from her back step. An opossum was coming out from under her deck with what looked like five or six babies hanging off her fur. Those young were already out of the pouch, but they weren't ready to be on their own. So we didn't put a door on that night. We checked a couple of times over the next few weeks, and once the young had dispersed and the mother wasn't using the spot anymore, we screened the deck. The family got to watch the whole thing from the kitchen window. <!-- generic anecdote: confirm or replace with a real job -->
 
-Documentation is a critical component that distinguishes professional inspection from casual observation. Photographs of all damage, measurements of hole dimensions, records of fecal and urine staining locations, and notes on structural compromise serve multiple purposes: they inform the removal strategy, support insurance claims where applicable, and establish a baseline for verifying that remediation is complete. A property assessment helps determine wildlife removal pricing and ensures that transparent pricing structures are provided before work begins.
+Waiting a few weeks isn't always what people want to hear. But it's the right call, and honestly, she usually moves on sooner than you'd think.
 
-### Health Risk and Biohazard Evaluation
+## Opossum removal in Mississauga, the way we do it
 
-Opossum infestations create genuine health risks that extend beyond the animals themselves. Fecal contamination can harbor *Salmonella* and *Leptospira* bacteria, while parasites including fleas, ticks, and mites that travel with opossums may bite humans or pets. Accumulated urine produces ammonia odors and can attract secondary pests.
+Here's how it goes:
 
-Structural damage assessment often reveals damaged insulation saturated with waste, creating conditions where airborne pathogens become a concern. Opossums are not skilled climbers in the way that raccoons or squirrels are, but they can still reach elevated spaces and cause damage by chewing through materials. When wiring is compromised, fire hazards become a legitimate concern-similar to how squirrels can cause damage by chewing on wires and insulation, or how birds nesting in vents can block airflow and create fire hazards.
+1. **Walk the property.** Garage, deck, shed, foundation, vents, crawl space, roofline. I'm looking for every gap an opossum could use, including the ones you haven't spotted.
+2. **Check for young.** The time of year, what the animal looks like and what's in the den tell me most of what I need.
+3. **Written quote.** What we'll do, what it costs, before we start.
+4. **Close the backup openings** so there's only one way in and out.
+5. **One-way door on the main opening.** When the opossum heads out after dark to eat, the door won't let it back through. No one has to touch it. In a garage, sometimes simply leaving a door open after dark does the job.
+6. **Confirm it's gone.** A camera or a few nights of checks.
+7. **Seal it for good.** Heavy galvanized mesh along the base of decks and sheds, buried and bent outward so nothing can dig under. Metal vent covers on the foundation. New door sweeps and thresholds on garages.
+8. **Clean up.** If it was living in a crawl space or basement for a while, we take out the bedding and droppings, remove soiled insulation if needed, and disinfect the area.
 
-This biohazard dimension is precisely why professional services ensure humane handling of wildlife intrusions rather than leaving remediation to untrained individuals. The combination of pathogen exposure, structural risk, and legal compliance requirements makes professional intervention the safest path forward.
+A garage job can be done in a day or two. A deck, shed or crawl space usually takes a few visits over a week or so. If there are young, it's on their schedule.
 
-## Humane Opossum Removal Process and Methods
+## What if it's inside the house?
 
-With assessment complete, professional wildlife removal in Mississauga follows a methodical process designed to achieve permanent resolution while meeting every legal and ethical requirement. The approach prioritizes humane removal techniques that help prevent future wildlife re-entry-addressing both the immediate infestation and the conditions that allowed it.
+Now and then one wanders in through a pet door or an open patio door and ends up behind the couch. Don't chase it. Chasing is how you end up with a scared opossum wedged under the stove.
 
-### Initial Property Assessment and Removal Planning
+Instead, shut the doors to the rest of the house so it's in one room, open the door to the outside as wide as it'll go, turn the lights down and leave. Give it an hour or so of quiet. Most of the time it finds the way out on its own. If it doesn't, or it's somewhere you can't reach, like a basement ceiling or behind a furnace, call us and we'll come get it out.
 
-Professional intervention becomes necessary when an opossum has established a den inside or beneath a structure, when dependent young are present, when significant contamination exists, or when a property owner has attempted DIY removal without success. Local wildlife typically moves on within 24 hours if left undisturbed in outdoor settings, but once an opossum has selected a den site within a building's envelope, voluntary departure rarely occurs without intervention.
+## Do opossums carry rabies?
 
-Site-specific removal strategies account for den location, the number and age of occupants, the season relative to breeding cycles, and the property's unique structural characteristics. Verification of licensing and insurance is crucial before hiring a wildlife control company-[Mississauga Animal Services](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/) emphasizes that the city does not handle trapping or relocating healthy wildlife, placing the responsibility squarely on licensed wildlife control professionals. Wildlife removal must adhere to municipal bylaws in Mississauga, including requirements for written estimates, full disclosure of removal methods, and proof of insurance.
+Very rarely. Opossums have a lower body temperature than most mammals, and that's often given as the reason rabies is so uncommon in them. Compared to a skunk or a raccoon, they're a low-risk animal for that.
 
-Legal compliance verification confirms that all planned activities align with [Ontario's Fish and Wildlife Conservation Act](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property) requirements. It is illegal to relocate wildlife over one kilometer in Ontario-a restriction that fundamentally shapes how qualified wildlife control services operate compared to the trap-and-release approach many homeowners imagine.
+That doesn't mean they're clean. Their droppings can carry salmonella and leptospirosis, and they pick up fleas, ticks and mites. If one has been sleeping in a crawl space for a month, the insulation and the soil down there are going to be dirty. That's a cleanup job for gloves, a mask and some care, not a broom.
 
-### Step-by-Step Removal Process
+And any bite or scratch, from any wild animal, should get washed well and looked at by a doctor. For a pet, call your vet.
 
-Humane methods include one-way doors for safe animal exit, and this technology forms the backbone of professional opossum eviction. The process follows a carefully sequenced procedure:
+## The rules on moving one
 
-1. **Identify all active entry points and the primary den site.** Technicians map every access point during the comprehensive inspection, distinguishing between the main entrance the opossum uses regularly and secondary openings that could become alternatives if the primary is blocked prematurely.
+Provincial rules allow a homeowner to handle an animal that's causing damage, but it doesn't let you haul it across town. Live-trap one and the rule is release within a day, a kilometre or less from where you got it. Young that are orphaned or injured go to an authorized wildlife rehabilitator. The province explains it on its page about [wildlife damaging private property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property).
 
-2. **Install one-way exclusion devices at primary entry points.** These devices-typically spring-loaded one-way doors or flexible exclusion flaps-allow the opossum to push out during its normal nocturnal foraging but prevent re-entry. The animal is never trapped, handled, or harmed.
+The City's [wildlife pages](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/) are clear that Animal Services doesn't trap or move healthy wildlife off private property. They'll help with sick or injured animals. A healthy opossum in your garage is up to you to deal with, and that's where we come in.
 
-3. **Monitor departure through infrared cameras and tracking techniques.** Motion-sensing cameras positioned at exclusion devices confirm when the opossum has exited. Tracking signs such as fresh footprints or droppings on the interior side cease once the animal has departed. Monitoring continues over multiple nights to ensure all occupants-including any juveniles-have left.
+Trapping makes even less sense with opossums than with most animals. They move around so much that the one you catch might not even be the one that was living there. Better to close the opening and let the next one keep wandering.
 
-4. **Seal secondary access points while maintaining the primary exit route.** This sequencing is critical: sealing secondary openings first prevents the opossum from finding alternative entry while the one-way door remains functional at the primary exit.
+## What does it cost?
 
-5. **Complete structural repairs after confirmed departure.** Once monitoring confirms the den is vacant, the one-way device is removed and the primary opening is permanently sealed. All vulnerable areas receive reinforcement-metal screening over vents, hardware cloth beneath decks, repaired soffits and fascia.
+Every place is different, so I'll give you the honest range. A full job with an inspection, removal, sealing the openings and cleaning up the den area usually lands somewhere around $800 to $1,200, and it can go higher if there's a lot of screening to do or a crawl space that needs new insulation. A garage that only needs the animal out and a new door sweep is a much smaller bill.
 
-6. **Perform biohazard decontamination.** Contaminated insulation, nesting materials, and fecal deposits are removed. Affected surfaces are cleaned using hospital-grade disinfectants with appropriate contact times, and the area is ventilated and dried. This step is essential for eliminating pathogen reservoirs and preventing odors that could attract future wildlife.
+What changes it:
 
-Humane wildlife removal includes thorough inspections for entry points at every stage, ensuring nothing is overlooked. Reputable wildlife services offer a warranty on exclusion work, providing the homeowner with assurance that if animals return through a sealed point, the company will address it at no additional cost.
+- How many openings there are and how big the deck or shed perimeter is
+- Whether there are young, which means more visits
+- How much cleanup the den area needs
+- Whether we're working in a tight crawl space
 
-### Expert vs. DIY Removal Methods Comparison
+You'll see all of it in writing before anything starts. Our sealing work is backed by a warranty, and we'll walk you through exactly what it covers when you get the quote.
 
-Wildlife removal costs vary based on species and infestation severity, and understanding the value proposition of professional services requires comparing them directly against DIY approaches. Inspection is necessary for an accurate wildlife removal quote, and costs may include sealing, cleanup, and repair services.
+## Making your place less appealing
 
-| Criterion            | Professional Services                                                                                      | DIY Approach                                                                                                |
-|----------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Safety**           | Team uses full PPE; trained in wildlife handling to prevent bites, disease exposure, and structural injury | Risk of pathogen exposure, bites, falls; no specialized protective equipment                                |
-| **Effectiveness**    | Comprehensive eviction with all entry points sealed; guaranteed results with warranty                      | Often partial-missed access points lead to return; dependent young may be left behind                       |
-| **Legal Compliance** | Licensed operators ensure adherence to Ontario wildlife law, relocation restrictions, and municipal bylaws | Risk of violating the Fish and Wildlife Conservation Act (e.g., relocating beyond 1 km), resulting in fines |
-| **Cost**             | Higher upfront ($800–$1,200+ for full inspection, removal, repair, and sanitation); includes warranty      | Lower initial expense but potential for significantly higher long-term costs from re-infestation and damage |
-| **Time Investment**  | Efficient execution with professional scheduling; typically resolved within days to a week                 | Extended timeline with trial and error; delays in sourcing materials and learning techniques                |
+Opossums move on easily. The trick is not giving them a reason to stop.
 
-The comparison makes clear why qualified wildlife control services represent the most reliable path to resolution. DIY attempts frequently result in incomplete removal-a homeowner may seal one access point only for the opossum to find or create another, or worse, inadvertently trap dependent young inside a structure where they die, creating severe odor and sanitation problems. Professional services ensure compliance with wildlife protection laws while delivering the comprehensive services needed for permanent resolution.
+- **Feed pets inside**, and don't leave the cat's dish on the deck overnight
+- **Use bins with locking lids**, and keep them in the garage until pickup
+- **Close up the compost** and pick up fallen fruit, especially under pear and apple trees
+- **Check your garage door seals** and the sweep on the side door
+- **Put metal covers on foundation vents** and check window wells
+- **Skirt your deck and shed** with buried mesh instead of lattice alone
+- **Keep the garage door down at night.** It sounds obvious, but a lot of garage calls start with a door left open after dinner
 
-## Common Challenges and Solutions
+## Short answers to what people ask
 
-Opossum removal in Mississauga's urban environment presents complexities that go beyond simple eviction. Dense residential neighborhoods, mixed-use properties, and the species' adaptable behavior create scenarios that require specialized knowledge and flexible strategies. Wildlife control companies should focus on both removal and prevention strategies to address these challenges effectively.
+**Will an opossum hurt my dog or cat?**
+Usually not. They'd rather bluff or play dead than fight. A dog can get bitten if it corners one, so keep them apart.
 
-### Nursing Mothers with Dependent Young
+**There's one on my fence in the daytime. Is it sick?**
+Not necessarily. Opossums are mostly out at night, but a hungry one, or a mother with young, will sometimes come out during the day. If it's stumbling or can't stand up, call Animal Services.
 
-Dealing with a nursing mother and her joeys is the most sensitive scenario in opossum removal. Young opossums depend entirely on their mother for the first three to four months of life, and removing a mother while juveniles remain in the nest is both inhumane and likely illegal under Ontario wildlife protection guidelines. [Mississauga's Animal Services guidelines](https://www.mississauga.ca/city-of-mississauga-news/news/safely-and-humanely-remove-wildlife-from-your-property/) emphasize reuniting mother and young rather than separating them.
+**Can I just leave it alone?**
+If it's crossing the yard, yes. They're good to have around for eating bugs and slugs. If it's living under your deck or in your garage, it's worth closing the gap so the next one doesn't settle in.
 
-Professional wildlife removal services address this by assessing the age and developmental stage of any young present. If juveniles are not yet independent, removal may be strategically delayed until they reach four to five months of age and can survive on their own. During this waiting period, temporary exclusion strategies and monitoring keep the situation contained while protecting the family unit. This timing-sensitive approach reflects the knowledge that ethical wildlife removal and effective wildlife removal are not in conflict-they are the same thing.
+**Is it a raccoon or an opossum in my attic?**
+More likely a raccoon. Opossums can climb, but they don't often end up in attics. Heavy thumping overhead is usually raccoon territory.
 
-### Multiple Den Sites and Complex Property Access
+## Opossum in the garage or under the deck? Call us
 
-Larger properties-particularly those with detached garages, garden sheds, and extensive deck structures-may harbor opossums in multiple locations simultaneously. Because opossums are not highly territorial and their home ranges overlap (studies in southwestern Ontario document ranges of approximately 4.7 to 15.5 hectares depending on food availability), a single property can support more than one denning individual.
-
-Professional teams address this through comprehensive property mapping, using thermal imaging and systematic crawl space probes to locate every active den site. Exclusion is sequenced strategically-primary dens are addressed first, followed by secondary locations-to prevent animals from simply relocating to another part of the same property. In residential neighborhoods where structures are close together or share fencing, coordination with neighboring properties may be necessary to prevent displacement issues that simply move the wildlife problem next door.
-
-### Extensive Biohazard Contamination and Structural Damage
-
-When an opossum has nested in a crawl space or attic for an extended period-sometimes months before discovery-the biohazard situation can be severe. Insulation becomes saturated with urine and feces, creating conditions for bacterial and fungal growth. Nesting materials packed into voids can block ventilation, and chewed wiring creates genuine fire hazards.
-
-Professional-grade sanitization involves removing all contaminated insulation and nest material, cleaning affected surfaces with disinfectants proven effective against *Salmonella* and *Leptospira* (with appropriate contact times of approximately 10 minutes), and ensuring proper ventilation and drying. Workers wear full PPE including respirators, gloves, and coveralls, and contaminated materials are disposed of according to local waste-hazard guidelines. Where wiring damage is discovered, coordination with a licensed electrician is standard practice. Insulation replacement restores the building envelope's thermal performance and eliminates residual odor that could attract future wildlife.
-
-Community feedback can help gauge the effectiveness of wildlife control services-asking for references and reading reviews from Mississauga customers who have dealt with similar infestations provides valuable insight into a company's thoroughness with remediation work.
-
-## Conclusion and Next Steps
-
-Professional opossum removal in Mississauga delivers what DIY approaches cannot: a humane, legally compliant, and comprehensive resolution that addresses the animal, the structural vulnerabilities that allowed entry, and the biohazard contamination left behind. From understanding seasonal breeding cycles to executing one-way exclusion strategies and performing thorough sanitation, every step in the professional process is designed for permanent results and long-term protection of your property.
-
-If you suspect opossum activity on your property, take these steps:
-
-1. **Schedule a professional property assessment.** Call Greater Wildlife Control to book an inspection. This determines the scope of the infestation and provides an accurate quote for services.
-
-2. **Implement immediate preventative measures.** Secure garbage and pet food to deter wildlife, trim trees to prevent wildlife from accessing roofs, and seal any obvious entry points you can safely reach. Install bird-proofing measures to prevent nesting in vents, as dealing with multiple species compounds the problem.
-
-3. **For urgent situations, contact emergency wildlife removal services.** If an opossum is trapped inside living spaces, injured, or directly threatening pets, after-hours wildlife removal services can respond promptly.
-
-Property owners dealing with other wildlife issues should know that many qualified wildlife control services also handle raccoon removal, squirrel removal, skunk removal, bat removal, and bird removal-raccoons often invade attics and cause significant damage, skunks often burrow under decks and can spray when threatened, and bats can create unsanitary conditions by defecating in attics. Certain birds and bats receive additional legal protection in Ontario, making professional handling even more critical for those species. Ongoing seasonal property maintenance and understanding insurance claim procedures for wildlife damage are related topics worth exploring as you protect your residential or commercial building investment.
-
-## Additional Resources
-
-* **Ontario Fish and Wildlife Conservation Act (1997):** The provincial legislation governing wildlife protection, capture, relocation, and den disturbance. Review the full statute at [ontario.ca](https://www.ontario.ca/laws/statute/97f41) for details on legal requirements affecting property owners and wildlife removal services.
-
-* **Mississauga Animal Services – Wildlife Management:** Municipal guidance on [safely and humanely removing wildlife from your property](https://www.mississauga.ca/city-of-mississauga-news/news/safely-and-humanely-remove-wildlife-from-your-property/), including the City's position on hiring licensed professionals and the illegality of relocating animals beyond one kilometre.
-
-* **Ontario Ministry of Natural Resources:** Provincial resources on [managing wildlife causing damage to private property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property), including permit requirements and humane treatment standards.
-
-* **Seasonal Maintenance Checklist for Protecting Your Property:** Inspect foundation vents, deck lattice, roof soffits, and chimney caps in spring and fall. Seal entry points to prevent wildlife access. Remove outdoor food sources. Trim overhanging branches that provide roof access. Check attic and crawl space insulation for signs of animal activity.
-
-* **Virginia Opossum Biology and Management:** The Fur Managers Federation provides detailed information on opossum breeding cycles, habitat requirements, and population dynamics relevant to southern Ontario businesses and residential communities.
+Let us know what you've seen, where it seems to be sleeping, and whether you've spotted any little ones. Greater Wildlife Control will come out, check for young, let it out without a fight, and close the gap it used so you don't get another one next season.

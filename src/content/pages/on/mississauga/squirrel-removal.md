@@ -35,7 +35,7 @@ Red squirrels are smaller, louder and more territorial. We see them more on lots
 
 ## The spots they chew on Mississauga houses
 
-A squirrel's front teeth never stop growing, so it chews all the time. If something on the roof is soft, loose or plastic, it gets tested. Here's where I check first:
+Squirrel incisors grow their whole life, which is why they gnaw on everything. If something on the roof is soft, loose or plastic, it gets tested. Here's where I check first:
 
 - **Roof vents.** Plastic box and mushroom vents are the easy target. A squirrel can chew through the side of one in an afternoon.
 - **Soffit corners and returns.** Where the soffit turns a corner or meets the brick, the panels pull apart over time, and that gap is a perfect starting point.
@@ -75,7 +75,7 @@ Here's the order we do things in:
 3. **Check the attic** for nesting, droppings, and any sign of babies or chewed wiring.
 4. **Seal the extra openings first.** Anything that isn't the main hole gets closed with steel mesh, flashing or a steel vent guard.
 5. **Install a one-way door** on the main hole. The squirrel heads out on its morning run, the door closes behind it, and it can't get back in.
-6. **Come back and confirm.** Most squirrels are out within a few days to a week. Once it's quiet and there's no fresh activity, the door comes off and the last hole gets closed permanently.
+6. **Come back and confirm.** Most squirrels are out within a few days to a week. When I've seen a few days with nothing new, we remove the door and seal that opening for good.
 
 One thing I always mention: foam and caulk by themselves don't stop squirrels. They chew through foam like it isn't there. It has to be metal.
 
@@ -85,19 +85,19 @@ The other job I want to tell you about was in Mineola. The owners kept finding l
 
 ## What about a cage trap from the hardware store?
 
-I understand the temptation. But in Ontario, a squirrel you trap has to be released within 24 hours and within 1 km of where you caught it. That's the rule under the Fish and Wildlife Conservation Act, and the province explains it on its page about [dealing with wild animals damaging your property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property). A kilometre is nothing for a squirrel. It's often back at your house within a day or two, and if the hole is still open, it goes right back in.
+I understand the temptation. But the province says a trapped squirrel has to be let out the same day or the next, no further than a kilometre from your yard. That's the rule under the Fish and Wildlife Conservation Act, and the province explains it on its page about [dealing with wild animals damaging your property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property). A kilometre is nothing for a squirrel. Odds are it's on your roof again by the weekend, and through the same hole if nobody closed it.
 
 Traps also catch whatever wanders into them, like the neighbour's cat. And trapping a nursing mother leaves her babies stranded in the attic. We only use live capture when a one-way door won't work, for example when a squirrel has ended up loose inside the house.
 
-Poison is a hard no. A poisoned squirrel crawls into a wall to die, and then you've got weeks of smell and a carcass nobody can reach. It's also a risk to pets and to the hawks that hunt along the creek valleys.
+Poison is a hard no. Bait it and the squirrel goes off to die somewhere tight, usually inside a wall cavity, and you live with the stink for weeks because nobody can get at the body. It's also a risk to pets and to the hawks that hunt along the creek valleys.
 
 ## Cleaning up after them
 
 Squirrels aren't as messy as raccoons, but a nest that's been there a while still leaves droppings, urine-soaked insulation, and fleas or mites. Urine-damp insulation stops doing its job and can start to grow mould.
 
-If it was a short stay in one corner, we take out the nest and droppings, HEPA vacuum the area and treat it. If they've been up there for months, the soiled insulation usually comes out and new insulation goes in. We wear respirators and coveralls for this, and we keep the dust from drifting down into the house.
+If it was a short stay in one corner, we take out the nest and droppings, HEPA vacuum the area and treat it. If they've been up there for months, the soiled insulation usually comes out and new insulation goes in. The crew works in respirators and coveralls and seals off the hatch so none of that dust ends up in your hallway.
 
-The big thing I'd check is wiring. Squirrels chew on cables, and chewed wiring under insulation is a fire risk you won't see until it's a problem. If we find any, have an electrician look at it before new insulation goes over it.
+The big thing I'd check is wiring. Squirrels chew on cables, and chewed wiring under insulation is a fire risk you won't see until it's a problem. If we find any, get an electrician in to fix it before the attic is re-insulated.
 
 ## Small habits that keep them off the roof
 

@@ -90,7 +90,7 @@ Those jobs take more coordinating with owners, managers and tenants, and sometim
 
 ## How bat removal in Mississauga actually works with us
 
-1. **We ask a lot of questions on the phone.** What you've seen, where, when, and whether anyone has had contact with a bat.
+1. **We ask a lot of questions on the phone.** What you saw, which room, what time, and whether a bat could have touched anyone.
 2. **We inspect the whole outside.** Roofline, chimney, vents and wall joints, from ladders and the roof where it's safe. Then the attic. Where we can't see into a wall, a thermal camera shows where the colony is clustered.
 3. **We watch them come out.** At sunset, one or two of us post up outside and count. That tells us which gaps are real exits.
 4. **We seal every gap except the exits.** Metal flashing, galvanized mesh, mortar or sealant, depending on the spot.

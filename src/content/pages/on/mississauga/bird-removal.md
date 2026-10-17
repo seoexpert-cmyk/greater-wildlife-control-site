@@ -32,7 +32,7 @@ Pigeons, starlings and house sparrows are introduced species and aren't covered 
 
 Most birds here nest from about March through August, which is why the off-season is the time to bird-proof.
 
-If we ever live-capture a bird or any other animal, it stays local. Ontario's rule is that wildlife gets released within about a kilometre of where it was caught, within 24 hours.
+If we ever live-capture a bird or any other animal, it stays local. Provincial rules keep any release inside a kilometre of the capture spot and inside 24 hours.
 
 ## Signs, letters and plaza rooftops
 
@@ -77,7 +77,7 @@ When we clean up, we wear respirators, coveralls, gloves and eye protection. We 
 1. **Start with photos.** A couple of phone pictures of the nest or the mess tell us a surprising amount before we even drive over.
 2. **We go look.** At a house, that's ladders and the attic if birds are inside. At a plaza or warehouse, it's the roof, a lift for the signage, and a scope for the spots we can't get an eye on. We pin down the bird, whether the nest is active, and every gap and perch.
 3. **You get a written plan and quote,** with the timing worked around nesting season if that matters.
-4. **We get the birds out.** For a cavity like a soffit or a sign, that can be a one-way exclusion device once we know there are no eggs or chicks. If a protected nest is active, we wait it out and put temporary measures in place.
+4. **We get the birds out.** For a cavity like a soffit or a sign, we fit a one-way exit once we've confirmed the nest is empty of eggs and young. If a protected nest is active, we wait it out and put temporary measures in place.
 5. **We clean up.** Nests out, droppings out, surfaces disinfected.
 6. **We close it up and take away the perches.** Vent guards, mesh, flashing, netting, spikes, wire or electric track, matched to the spot and the bird.
 
