@@ -17,6 +17,7 @@ const ContentSection = ({
   content,
   imageSrc,
   imageAlt = '',
+  imageNatural = false,
   reverse = false,
   className = '',
 }) => {
@@ -27,7 +28,7 @@ const ContentSection = ({
           <img
             src={imageSrc}
             alt={imageAlt}
-            className="h-72 w-full rounded-xl object-cover shadow-md sm:h-96"
+            className={imageNatural ? "h-auto w-full rounded-xl shadow-md" : "h-72 w-full rounded-xl object-cover shadow-md sm:h-96"}
             loading="lazy"
           />
         </div>

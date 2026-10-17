@@ -24,8 +24,9 @@ const fallbackImages = [
       className={index % 2 === 1 ? 'bg-white' : ''}
       title={section.title}
       content={section.content}
-      imageSrc={fallbackImages[index % fallbackImages.length]}
-      imageAlt={section.title}
+      imageSrc={section.image ?? fallbackImages[index % fallbackImages.length]}
+      imageAlt={section.imageAlt ?? section.title}
+      imageNatural={section.imageFit === 'natural'}
       reverse={index % 2 === 1}
     />
   ))}
