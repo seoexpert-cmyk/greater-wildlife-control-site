@@ -43,25 +43,48 @@ export function breadcrumbSchema(site, crumbs) {
   };
 }
 
-// Pulls "### Question?" + answer pairs out of an article's FAQ section so the
-// page can publish FAQPage structured data.
+// Pulls question + answer pairs out of an article's FAQ sections so the page
+// can publish FAQPage structured data. A section is any H2 that mentions FAQ,
+// questions, or what people ask. Questions are either "### Question?" headings
+// or bold "**Question?**" lines, with the answer after them.
+const FAQ_HEADING = /^##\s+.*\b(FAQ|Frequently Asked|Questions?|ask(?:s|ed)?)\b/i;
+
+function cleanAnswer(text) {
+  return text
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/<!--[\s\S]*?-->/g, '')
+    .replace(/[*_`>#|]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 export function extractFaqs(markdown = '') {
-  const faqStart = markdown.search(/^##\s+.*(FAQ|Frequently Asked)/im);
-  if (faqStart === -1) return [];
-  const rest = markdown.slice(faqStart).split('\n').slice(1).join('\n');
-  const end = rest.search(/^##\s/m);
-  const section = end === -1 ? rest : rest.slice(0, end);
   const faqs = [];
-  const re = /^###\s+(?:\*\*)?(?:Q\d+[:.]\s*)?(.+?\?)(?:\*\*)?\s*$([\s\S]*?)(?=^###\s|$(?![\s\S]))/gm;
-  let m;
-  while ((m = re.exec(section))) {
-    const answer = m[2]
-      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
-      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
-      .replace(/[*_`>#|]/g, '')
-      .replace(/\s+/g, ' ')
-      .trim();
-    if (answer) faqs.push({ q: m[1].trim(), a: answer });
+  const sections = markdown.split(/^(?=##\s)/m).filter((s) => FAQ_HEADING.test(s.split('\n')[0]));
+  for (const section of sections) {
+    const lines = section.split('\n').slice(1);
+    let current = null;
+    const flush = () => {
+      if (current) {
+        const a = cleanAnswer(current.a.join(' '));
+        if (a) faqs.push({ q: current.q, a });
+      }
+      current = null;
+    };
+    for (const line of lines) {
+      const h3 = line.match(/^###\s+(?:\*\*)?(?:Q\d+[:.]\s*)?(.+?\?)(?:\*\*)?\s*$/);
+      const bold = line.match(/^\*\*(.+?\?)\*\*\s*(.*)$/);
+      if (h3 || bold) {
+        flush();
+        current = { q: (h3 || bold)[1].trim(), a: bold ? [bold[2]] : [] };
+      } else if (/^#{1,3}\s/.test(line)) {
+        flush();
+      } else if (current) {
+        current.a.push(line);
+      }
+    }
+    flush();
   }
   return faqs;
 }
