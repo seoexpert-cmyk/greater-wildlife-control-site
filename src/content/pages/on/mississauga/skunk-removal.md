@@ -1,208 +1,188 @@
 ---
-title: "Skunk Removal in Mississauga, ON: What Homeowners Should Know"
+title: "Skunk Removal in Mississauga, ON: Decks, Sheds and Shared Townhouse Yards"
 meta_title: "Skunk Removal in Mississauga, ON"
-meta_description: "Skunk living under your Mississauga deck or shed? Learn the signs and the risks, and how Greater Wildlife Control removes skunks humanely for good."
+meta_description: "Skunk under a deck or shed in Mississauga? See how we check for kits, let it out with a one-way door, bury mesh so it can't dig back in, and fix the smell."
 path: "/on/mississauga/skunk-removal"
 source: "Surfer 16663157"
 ---
 
-## Introduction
+A skunk only carries enough spray for a handful of shots, and once it's used them up it takes a while to make more. So it really doesn't want to waste any on you. Most of the skunks I deal with would be perfectly happy never to meet the people they live under.
 
-Professional skunk removal in Mississauga involves humane trapping on rare occasions, but the most popular eviction method is the installation of wire meshing and setting a one-way door exclusion, and biohazard sanitization carried out by licensed wildlife control specialists who understand both provincial regulations and local denning patterns. If you're dealing with skunks under your deck, porch, or shed, the process typically starts with a thorough inspection, followed by safe removal using humane methods, structural exclusion to seal entry points, and cleanup of contaminated areas.
+That's the whole idea behind how we handle skunk removal in Mississauga. You don't fight a skunk. You make it leave on its own, at night, when it was going out anyway, and then you make sure it can't get back to the spot it liked. No grabbing, no cornering, and almost never any spray.
 
-This guide covers everything Mississauga homeowners need to know about professional skunk removal services-from understanding skunk behavior and seasonal nesting habits to navigating Ontario's wildlife regulations, identifying structural vulnerabilities on your property, and evaluating removal costs. It does not cover DIY trapping methods (which carry significant legal and safety risks), nor does it address pest control for other animals like insects or rodents. If you're dealing with raccoon removal, squirrel removal, bat removal, or bird removal, the principles of humane wildlife removal overlap but the techniques and timelines differ.
+Below is how I size up a skunk problem, why spring jobs need a different plan, what happens with shared townhouse decks, and what it costs.
 
-Skunks are classified as furbearing mammals under Ontario law. Municipal services in Mississauga do not remove healthy wildlife from private property-homeowners must engage a licensed wildlife removal company for safe removal and permanent solutions. The city itself recognizes skunks as part of [Mississauga's urban wildlife profile](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/skunks/) and directs residents to private, licensed professionals.
+## What gives a skunk away
 
-By reading this guide, you will gain:
+People usually call with one clue. By the time I've walked the yard there are three or four:
 
-* A clear understanding of skunk denning behavior and seasonal patterns specific to the Mississauga area
+- **A round or oval opening** along the edge of a deck, under a shed, beside a porch slab or next to an AC pad. It's usually 10 to 15 cm across, with the dirt packed smooth from traffic and a little fan of loose soil out front.
+- **Little holes poked into the lawn**, especially after a rain, where it's been nosing for grubs. They're shallow and neat, not ripped up.
+- **That smell,** faint, right at the opening. A skunk den smells like skunk even when nobody's been sprayed.
+- **Five-toed prints** with long claw marks on the front feet, in mud, snow or the dust on a patio stone.
+- **Night traffic.** Skunks come out after dark and are back in before sunrise.
 
-* Knowledge of Ontario's legal framework governing wildlife removal, relocation limits, and humane treatment
+Sod rolled back in big flaps is more likely a raccoon. A big dirt mound and an animal out at noon? Groundhog.
 
-* The ability to identify structural vulnerabilities on your property that attract skunks and other wildlife
+Not sure? Lean a couple of thin sticks across the opening before bed. If they're knocked flat in the morning, something's using it. A cheap trail camera works too, or just send us a photo and we'll tell you what we think.
 
-* Insight into professional removal methods, including one-way doors, live trapping, and exclusion installation
+## Low decks, old sheds and the pond out back
 
-* Realistic cost expectations and timelines for complete skunk removal, exclusion, and biohazard cleanup
+Mississauga gives skunks a bit of everything. In Churchill Meadows the yards are small and the decks sit low, sometimes only a hand's width off the dirt, which is plenty for a skunk. Down in Clarkson and the older parts of Streetsville it's the opposite: bigger lots, mature trees, and sheds that have been sitting on the same patio slabs for thirty years. Plenty of streets in both back onto a stormwater pond or a strip of green space, and skunks follow those edges at night.
 
-* 
+The spots I find dens most often:
 
-## Understanding Skunk Behavior and Seasonal Patterns in Mississauga
+- Low decks with no skirting, or with lattice that's been pushed out at one corner
+- Sheds on slabs or gravel with a gap under the floor framing
+- Concrete front steps and porches with a hollow underneath
+- Window wells with no cover
 
-The striped skunk is the species homeowners across southern Ontario encounter most frequently. These creatures are semi-fossorial-they dig shallow burrows for shelter, predator evasion, and raising their young. Mississauga's suburban landscape, with its mix of residential properties, green corridors along the Credit River valley, lakeshore areas, and fragmented forest patches, creates ideal conditions for skunks to move between natural habitats and human structures. Skunks often burrow under porches and decks, precisely the kinds of structures abundant across the city's residential neighborhoods.
+Then there's the food. Grubs in the lawn, a compost bin with a loose lid, bird seed under the feeder, the cat's dish left out on the deck. A skunk with a dry den and dinner within twenty steps has no reason to go anywhere.
 
-Urban development continues to push wild animals into closer contact with humans. Many Mississauga residents have reported seeing more skunks than usual in recent years, particularly juvenile skunks dispersing during summer months. Habitat loss from ongoing construction and infill development compresses available territory, driving nuisance wildlife into backyards, under houses, and into contact with pets and humans.
+## The skunk that liked the hot tub
 
-### Seasonal Nesting and Activity Patterns
+Here's one that surprises people. Skunks don't truly hibernate, so in late fall they go looking for the warmest dry spot they can find to sleep through the cold stretches. Sometimes that spot comes with a heater.
 
-Understanding when skunks are most active-and most vulnerable-is essential for timing any removal intervention correctly. The timing of interventions is crucial; never block dens during the primary breeding season.
+A family in Streetsville called us in November because they smelled skunk every time they lifted the hot tub cover. The tub sat on a raised wooden platform at the back of the yard, and the skirting had a gap at one corner where the boards had warped. Underneath, right below the pump and heater, there was a flattened nest of leaves and a well-worn path to that corner. Heat coming off the equipment made it about the coziest den on the street. We put a one-way door on the gap, gave it a few nights, then trenched and meshed around the whole platform before the ground froze. <!-- generic anecdote: confirm or replace with a real job -->
 
-**February–March (Mating Season):** Skunk activity increases dramatically during mating season in Mississauga. Males roam widely-skunks can travel up to 50 km in search of a new home-and females become more visible during daytime hours. Homeowners often first notice skunk problems during this period due to the strong musky odor near denning sites.
+Anything raised off the ground with a warm spot underneath is worth a look in the fall: hot tub platforms, sheds with a freezer inside, the space under a porch next to a dryer vent.
 
-**April–May (Birthing and Denning):** After a 60-day gestation period, females give birth to litters of 4–7 kits in established dens. During this window, professionals should check for baby skunks before sealing entrances or using one-way doors. Sealing entry points should be avoided during the birthing season to prevent orphaning young kits, which is both unethical and can create secondary problems like decomposition odors and biohazard contamination inside structures.
+## Spring is the tricky part
 
-**Summer (Peak Foraging):** Skunks forage heavily during summer nights, targeting lawn grubs, insects, pet food left outdoors, bird seed beneath feeders, and unsecured garbage. Homeowners may notice cone-shaped holes in their lawns-a telltale sign of skunk foraging activity.
+Skunks keep a pretty steady calendar around here, and it decides how we do the job.
 
-**Fall (Dispersal):** Young skunks leave their mothers and establish new territories as food sources diminish heading into winter. This dispersal period brings juvenile animals into new neighborhoods, often triggering fresh wildlife intrusion complaints across other areas of the city.
+**Late winter (February into March):** Mating. Males wander around at night looking for females, so you smell more spray in the neighbourhood and see more skunks crossing roads.
 
-### Health Risks and Biohazard Concerns
+**April and May:** Kits are born, usually four to seven. They're blind and helpless and stay underground with mom.
 
-Skunks are primary carriers of rabies and leptospirosis, making any encounter with these animals a legitimate health concern. Rabies is [almost certainly fatal once symptoms appear](https://www.ontario.ca/page/rabies) in humans, and Ontario classifies skunks as a significant rabies vector species. Friendly skunks may indicate rabies infection-an unusually docile or disoriented skunk active during daylight hours should never be approached.
+**June into July:** The kits start following her out at dusk. If you've ever seen a little parade of skunks crossing a lawn in single file, that's what this is.
 
-Skunks can carry leptospirosis, a bacterial disease transmitted through urine that contaminates soil and water sources around denning areas. Skunks may harbor various parasites harmful to humans, including roundworms and fleas that can transfer to pets and household environments.
+**Late summer:** The young head off to find dens of their own.
 
-Den sites contaminated with feces, urine, and nesting material present ongoing biohazard conditions even after the animals have departed. Pheromone residuals embedded in structural materials can also attract new wildlife to the same location if not properly addressed through professional sanitization.
+**Fall and winter:** Everyone's eating to put on weight, then holing up. Skunks don't truly hibernate, but they'll sleep through the cold spells and come out on mild nights.
 
-These health risks underscore why professional intervention-not DIY approaches-represents the safest path for Mississauga homeowners dealing with skunk issues.
+Block a hole in May and there may be babies under there who can't get out, plus a mother desperate to get back in. You end up with dead kits under the deck, a skunk digging somewhere worse, and a smell you won't forget. Ontario's rules on dealing with wildlife on your property don't allow for that, and neither do we.
 
-## Structural Vulnerabilities and Common Denning Sites
+### If there are kits
 
-Skunks select denning locations based on three factors: shelter from weather and predators, proximity to food sources, and ease of excavation. Most residential properties in Mississauga present at least one structural vulnerability that meets these criteria.
+I check before anything gets sealed. Listening at the opening around dusk for squeaking, looking for tiny prints, and lining that up with the time of year usually tells me enough.
 
-### Deck and Porch Vulnerabilities
+If there's a litter, we wait until the kits are old enough to follow mom out, then let the whole family leave together before closing it up. That usually lands somewhere in July. It's slower, I know. But it's the only way to do it without leaving babies behind.
 
-Elevated decks and porches are the most common denning sites requiring wildlife removal needs and services in the Mississauga area. The base material-typically exposed soil or mulch-allows easy digging, and many decks lack proper skirting or lattice barriers at ground level. Foundation gaps as small as four inches provide sufficient entry for an adult skunk.
+## What skunk removal in Mississauga looks like on our end
 
-Once established, skunks dig side tunnels beneath decks, expanding the den system and making exclusion more complex unless the entire perimeter is addressed. Soil grade that slopes toward the structure creates natural voids, and adjacent landscaping features can bridge access points that homeowners don't immediately recognize. Damaged lattice work, rotted boards, and gaps between the deck frame and the house foundation are all common entry points that a thorough inspection will reveal.
+![A technician kneels at dusk with a flashlight, checking the base of a wooden backyard deck for a skunk burrow and other openings.](https://images.surferseo.art/cf100a06-b472-4089-abbd-b55841f5e75b.png)
 
-### Shed and Outbuilding Entry Points
+Here's the job in order.
 
-Sheds and outbuildings often sit on minimal foundations-sometimes directly on grade-leaving gaps between the structure's base plates and the ground. Floor vents, deteriorated plywood panels, and gaps around doors all provide access for skunks and other animals including raccoons and squirrels.
+**We walk the whole property.** Not only the hole you found. The deck perimeter, the shed, the front steps, the AC pad, the window wells, the side yard. Skunks almost always have a second way out, and if I miss it, the job fails.
 
-Storage items inside sheds create sheltered micro-environments that skunks find attractive. Garden supplies, pet food stored in bags rather than sealed containers, and accumulated debris all contribute to making these structures appealing den sites. Ventilation openings designed for airflow become wildlife entry points when screens deteriorate or are absent entirely.
+**We figure out who's home.** Skunk or something else, one animal or a mother with kits, active hole or old one.
 
-### Landscape Features That Attract Skunks
+**You get a written quote** for what we're doing and what it costs before any work starts.
 
-Beyond structural openings, several landscape features on your property can draw skunks in. Brush piles, rock gardens, and overgrown vegetation provide shelter and attract the insects and grubs that skunks feed on. Bird feeders-especially those that scatter bird seed on the ground-create reliable food sources. Fallen fruit from trees, unsecured garbage bins, and pet food left outdoors all serve as powerful attractants.
+**We block the extra openings** until it's down to a single doorway.
 
-It's important to make properties less attractive to skunks by tidying yards and removing debris. Food sources should be eliminated to reduce skunk attraction to residential properties. A well-maintained yard contributes to long-term prevention of skunks and other wildlife, forming the foundation of any effective exclusion strategy.
+**The one-way door goes on the main hole.** It's a simple hinged door fixed tight over the opening. The skunk pushes out to feed at night and can't push back in. No bait, no cage, nobody handling an animal that sprays.
 
-Understanding these vulnerabilities is the first step; the next is knowing how professional wildlife removal services address them systematically and rid your property of nuisance wildlife.
+**We give it a few nights**, usually somewhere between two and five, and check for signs it's gone and hasn't come back.
 
-## Skunk Removal Process and Methods
+**Then we dig in the mesh.** We trench along the edge of the deck or shed, about a foot to a foot and a half down, and fix heavy galvanized steel mesh to the frame. At the bottom we bend the mesh out away from the structure. When a skunk tries to dig along the edge, it hits wire, tries a bit further along, hits more wire, and gives up. Then we backfill and leave the grade neat.
 
-![A wildlife technician is conducting a thorough inspection at dusk, using a flashlight to check the base of a residential wooden deck for signs of nuisance wildlife such as skunks or raccoons. This professional wildlife removal service aims to identify entry points and ensure safe, humane removal to protect the property and its inhabitants.](https://images.surferseo.art/cf100a06-b472-4089-abbd-b55841f5e75b.png)
+**Last, the den area.** We pull out the worst of the soil and bedding, then treat the spot with a disinfectant and an odour neutralizer.
 
-Licensed wildlife removal services in Mississauga follow a structured, multi-phase process that prioritizes animal safety while delivering permanent solutions for homeowners. Professional skunk removal services use humane methods at every stage, from initial assessment through final exclusion. Legal restrictions exist for wildlife removal in Mississauga, and experienced teams ensure full compliance with provincial and municipal regulations.
+A simple job is a handful of visits over about a week. Kits, frozen ground or a shared deck stretch it out.
 
-### Initial Assessment and Inspection Protocol
+## The shed with the soft floor
 
-A professional assessment becomes necessary whenever homeowners notice signs of skunk activity-musky odors near foundations, cone-shaped lawn damage, tracks near structures, or visual sightings at dusk. Wildlife removal services in Mississauga prioritize animal safety from the first contact.
+Sheds deserve their own mention, because on the bigger, older lots in Clarkson they're often the den, not the deck.
 
-The inspection process includes:
+One I remember was a wooden shed in Clarkson that had been sitting on bare ground at the back of the yard for years. The owner stepped inside to grab the mower and put a foot right through a floorboard. Under it was a skunk's nest of dry leaves and grass, and the rot had gone far enough that two of the floor joists were basically mush. The skunk had been coming and going through a gap at the back corner where the bottom plate had crumbled. We let it out with a one-way door, then the owner had the floor framing replaced, and we went back and skirted the whole base with buried mesh before the new floor went on. <!-- generic anecdote: confirm or replace with a real job -->
 
-1. **Perimeter walkthrough** to identify all active den sites, burrow entrances, and secondary exit points around the property
+If your shed sits low on the ground and the floor feels spongy, it's worth looking underneath before a skunk decides for you.
 
-2. **Structural evaluation** using visual inspection and, in some cases, thermal imaging or infrared cameras to detect heat signatures indicating active dens
+## Who handles what: the City, the province and you
 
-3. **Assessment of family groups** to determine whether dependent kits or babies are present-this step is critical during spring months and directly affects removal timing
+Mississauga treats skunks as part of the [urban wildlife it lives with](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/skunks/). Animal Services will get involved with sick or injured animals, but they don't remove healthy skunks from private property. A skunk living under your deck is yours to deal with as the owner, which usually means calling someone like us.
 
-4. **Documentation of contamination** including feces accumulation, urine staining, insulation damage, and biohazard conditions requiring sanitization
+You're allowed to deal with a skunk that's damaging your property in Ontario, within limits. A skunk caught in a live trap must be released inside 24 hours and no more than a kilometre away. Dropping it at a farm field up north is off the list. Body-gripping traps and poison are off the table. The province lays it out on its page about [wildlife damaging private property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property).
 
-That's the standard we hold ourselves to at Greater Wildlife Control on every Mississauga job, and it's what you should expect from anyone you let near your deck.
+That one-kilometre rule is why I almost never trap skunks. You risk the spray, let it go a few streets over, and it walks home to the same open deck.
 
-### Humane Removal Techniques Comparison
+## Sprayed? The first hour
 
-The two primary humane removal techniques used in professional skunk removal are one-way door systems and live trapping. Each has distinct advantages depending on the situation. Humane methods include one-way doors for animal removal, which is the preferred approach in most Mississauga cases.
+If it's the dog:
 
-| Criterion            | One-Way Door Systems                                                  | Live Trapping                                                    |
-|----------------------|-----------------------------------------------------------------------|------------------------------------------------------------------|
-| **Effectiveness**    | High when entry/exit points are consolidated; animals leave naturally | Can capture individuals but may miss others in multi-animal dens |
-| **Stress to Animal** | Minimal-skunk exits on its own schedule                               | Higher-confinement increases spraying risk and animal distress   |
-| **Spray/Odor Risk**  | Low-no direct handling or confinement                                 | Elevated-trapped skunks frequently spray                         |
-| **Legal Compliance** | Fully aligned with Ontario wildlife regulations                       | Requires licensed trapper; relocation limited to 1 km radius     |
-| **Cost**             | Materials + installation labor; typically more cost-effective         | Higher labor costs due to daily trap checks and monitoring       |
-| **Best Suited For**  | Established dens without dependent kits present                       | Situations requiring immediate removal or multiple animals       |
+1. Keep it outside or in the garage so the oil doesn't end up on everything.
+2. Rinse the eyes gently with plain water if they look red.
+3. Wash the coat with a fresh mix of 3% hydrogen peroxide, a few spoonfuls of baking soda and a little dish soap. Keep it away from the eyes, let it sit a few minutes, and rinse well. Toss any leftovers. Never seal that mix in a bottle.
+4. Call the vet if the eyes are still irritated the next day or there's any chance of a bite or scratch.
 
-Under Ontario regulations, healthy wildlife cannot be relocated more than 1 kilometer from capture. Captured animals must be released within 24 hours unless injured or orphaned, in which case they must be delivered to an [authorized wildlife rehabilitator](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property). Use one-way doors to allow animals to exit without returning-this approach is the industry standard because it minimizes stress, reduces spray risk, and maintains full legal compliance.
+And then call us. A skunk that sprays from under your deck lives under your deck. It'll happen again.
 
-For most Mississauga homeowners, professionals recommend one-way door exclusion as the primary technique, reserving live trapping as a last resort for situations where exclusion alone cannot resolve the problem.
+## The health side, briefly
 
-### Exclusion and Prevention Installation
+Most skunks are just skunks. But they're one of the main carriers of rabies in Ontario, and [rabies is almost always fatal](https://www.ontario.ca/page/rabies) once symptoms start, so a few situations get treated differently:
 
-Once skunks have vacated the den through the one-way door system, permanent exclusion work begins. This phase transforms a temporary removal into a lasting solution.
+- **A skunk out in broad daylight** that's stumbling, circling, or walking right up to people. Get kids and pets inside and keep your distance.
+- **Anyone bitten or scratched,** whether that's you, a kid or the dog. People should see a doctor and contact Peel Public Health the same day. Treatment after exposure works if it's started in time.
+- **A trapped skunk,** say at the bottom of a window well or stairwell, or paddling in the pool. It's not dangerous by itself, but it's a call we come out for quickly.
 
-**Physical barriers:** Install ¼" wire mesh-preferably heavy-gauge galvanized steel (16-gauge or better)-around foundation perimeters, under decks, and at shed bases. Skunks can chew through lighter materials or dig around thin barriers, so material quality matters. Seal entry points to prevent wildlife from re-entering homes, including gaps around vents, deteriorated skirting, and chimney openings.
+Skunks can also carry leptospirosis, roundworm, fleas and ticks. Nothing to lose sleep over, but you don't want that den next to where the kids play.
 
-**Structural repairs:** Replace damaged lattice, repair foundation gaps, install chimney caps and vent screens, and reinforce any compromised access points identified during the initial inspection.
+## Things that sound smart but don't work
 
-**Landscape modifications and preventive measures:**
+Usually I hear about these from someone who's already tried two or three:
 
-* Secure garbage bins to eliminate food sources for skunks
+- **Mothballs or an ammonia rag** in the hole. Skunks put up with it. Mothballs aren't meant for outdoor use and end up in your soil.
+- **Filling the hole with dirt or rocks.** In spring that can bury a litter alive. The rest of the year, the skunk simply tunnels out another way, and the new hole tends to be right against your foundation.
+- **A box trap from the hardware store.** You'll probably catch the neighbour's cat.
+- **Poking around with a broom handle.** When a skunk stamps its front feet, hisses or swings its back end around toward you, that's your cue to back away slowly.
 
-* Avoid feeding pets outside to deter skunks and wildlife
+## So what's this going to cost?
 
-* Remove brush and rock piles that provide shelter
+It depends on the yard, but here's roughly what to expect. A basic job, meaning one main entrance, a one-way door and limited screening, usually starts around $300. Full exclusion around a deck, a shed or several structures, with trenching and buried mesh, typically runs from about $600 and up. Den cleanup and deodorizing is priced on its own, often starting near $500, depending on how bad it is and whether it's reached the house.
 
-* Lawn treatment can reduce grubs, which are a food source for skunks
+What moves the number:
 
-* Clear fallen fruit and bird seed accumulations beneath feeders
+- How many openings there are and how long the perimeter is
+- Whether the deck is shared with a neighbour
+- Whether there are kits, which means more visits
+- How much odour work the den area or basement needs
 
-* Neighborhood lighting can help deterring skunks from approaching structures at night
+You'll get it in writing before we start. Our exclusion work comes with a warranty, and the quote spells out what it covers, so you're not guessing if a skunk ever tests the mesh.
 
-* Motion-activated deterrents can discourage skunks from visiting properties
+## When the smell outlasts the skunk
 
-* Restore soil grade so drainage flows away from foundations rather than creating voids
+Sometimes the skunk's long gone and the smell keeps coming back, usually on a muggy day or after rain. That's because skunk spray is an oily mix that clings to anything porous and seems to wake up again when it gets damp.
 
-These preventive measures work together to protect your property from future wildlife intrusion-not just from skunks but from raccoons, squirrels, bats, and other wildlife that exploit similar vulnerabilities.
+Tonight, crack the windows, turn on the bathroom and kitchen fans, and shut off the furnace fan so the ductwork doesn't spread it through the house.
 
-## Common Skunk Removal Challenges and Solutions
+Smell still hanging around after a week means something is still soaked. Usually it's the dirt where the den was or the insulation on the rim joist beside it. We find it and treat it with products that break the oils down instead of covering them up. Anything that really took a hit, like a cardboard box in storage or a piece of insulation, is usually better replaced.
 
-Even with professional intervention, certain complications arise regularly in skunk removal across the Mississauga area. Understanding these challenges helps homeowners set realistic expectations for the process.
+## Making your yard a dead end for skunks
 
-### Mother Skunks with Dependent Kits
+Once the den's sealed, the rest is about giving the next skunk nothing to stay for:
 
-The most sensitive removal scenario involves a nursing mother with dependent babies in a den during the spring birthing season. Professionals should check for baby skunks before sealing entrances or using one-way doors-installing a one-way exclusion device while kits remain inside can result in orphaned young that die within the structure, creating decomposition odors and serious biohazard conditions.
+- Keep bins in the garage until collection morning
+- Feed pets inside, and sweep up seed under the feeder
+- Rake up windfall apples and pears, and use a compost bin with a lid
+- If the lawn keeps getting poked full of holes, deal with the grubs
+- Clear out stacked lumber and brush along the back fence
+- Put covers on window wells
+- Putting in a deck or shed this year? Have the mesh buried during the build. Retrofitting it later costs a lot more.
 
-Experienced teams address this by using observation, camera monitoring, or careful den inspection to confirm whether kits are present. When they are, the den may need to remain temporarily accessible until the young are mobile enough to follow the mother through a one-way door system. This process requires patience and expertise-it's a primary reason that qualified wildlife control during spring months takes longer than at other times of year.
+## Quick ones people ask
 
-### Multiple Den Sites and Repeat Infestations
+**Do I need to be home?**
+Not for most of it. We need into the yard and a gate that's unlocked. We'll want to talk to you after the inspection to go over what we found.
 
-A single exclusion effort often fails when skunks have established multiple burrow systems across a property-for example, one den under the deck and another beneath the shed. Without a comprehensive property survey addressing all den sites simultaneously, animals simply relocate to the next available shelter on the same private property.
+**Can a skunk get into my basement?**
+It's rare for one to get right inside. What's common is a den dug in against the foundation or under a window well, and the smell coming in through gaps around the basement windows and the rim joist. Closing the den usually fixes the smell inside too.
 
-Long-term success requires full-perimeter exclusion combined with ongoing monitoring. Many wildlife removal companies offer seasonal inspection programs-typically spring and fall checks-to catch new vulnerabilities before they become active den sites. Maintaining these barriers and conducting annual inspections is the difference between a one-time fix and recurring nuisance animal problems.
+**What if it comes back after you've meshed?**
+Call us. Skunks will test a new barrier for a night or two and then give up. If one ever gets under our work, that's on us to look at.
 
-### Spray Contamination and Odor Remediation
+## Skunk under your deck in Mississauga? Tell us about it
 
-When skunks spray inside or near a structure, the sulfur-based compounds penetrate porous materials-wood framing, insulation, carpeting, and even soil-creating odors that can linger for months without professional treatment. This is frequently cited by Mississauga homeowners as one of the most frustrating aspects of dealing with skunk problems.
-
-Professional odor remediation involves removing contaminated insulation and nesting material, applying ozone or peroxide-based treatments to affected surfaces, sealing wood that has absorbed spray compounds, and replacing materials that cannot be salvaged. Pheromone and scent residuals must be fully eliminated; otherwise, they function as signals that attract new skunks and other creatures to the same location, undermining the entire removal and exclusion job.
-
-## Conclusion and Next Steps
-
-Professional skunk removal remains the safest and most effective solution for Mississauga homeowners contending with these nuisance animals. Licensed wildlife removal services combine humane removal techniques, legal compliance with Ontario's wildlife regulations, structural exclusion using durable materials, and biohazard cleanup to deliver results that protect both the well being of homeowners and the animals themselves. Maintaining a healthy ecosystem in urban-suburban environments like Mississauga means managing human-wildlife conflicts responsibly rather than resorting to harmful or illegal methods.
-
-If you suspect skunk activity on your property, take these immediate steps:
-
-1. **Do not approach or attempt to trap the animal yourself**-call Greater Wildlife Control and we'll come take a look
-
-2. **Schedule a thorough inspection** of your property's perimeter, focusing on decks, porches, sheds, and foundation gaps
-
-3. **Remove food attractants** immediately: secure garbage, bring in pet food, clean up bird seed and fallen fruit
-
-4. **Plan for prevention** by discussing permanent exclusion options and seasonal monitoring with your chosen removal services provider
-
-For ongoing property protection, consider exploring related topics including seasonal wildlife management for raccoons, squirrels, and bats, annual property maintenance to address new structural vulnerabilities, and landscape management practices that reduce attractants for all nuisance wildlife species across the Greater Toronto Area.
-
-## Frequently Asked Questions
-
-### Is skunk removal legal in Mississauga and what permits are required?
-
-Yes, skunk removal is legal in Mississauga. Under Ontario's [Fish and Wildlife Conservation Act](https://files.ontario.ca/mnrf-forest-compliance-handbook-2014-en-2019-10-02.pdf), property owners may harass, capture, or kill wildlife damaging their property. Skunk dens are specifically exempted from needing ministerial approval for destruction-no special permit is required. However, if you [hire a wildlife agent](https://www.ontario.ca/page/hire-wildlife-agent), they must be a licensed trapper, a business whose primary work is wildlife removal, or a municipal employee in animal control. Body-gripping traps, poisons, or firearms may require additional licensing. Municipal services in Mississauga do not remove healthy wildlife from private property, so homeowners must engage private licensed professionals.
-
-### How much does skunk removal cost in Mississauga?
-
-Basic humane removal packages-including initial trapping or one-way door installation with limited exclusion-start around CAD $299 in Mississauga. Comprehensive exclusion work covering all entry points, vent screening, and chimney caps typically runs from CAD $599 and up, often with warranties ranging from one year to lifetime coverage depending on the provider. Biohazard cleanup and sanitization-including waste removal, decontamination, insulation replacement, and odor elimination-is priced separately, generally starting around CAD $499 depending on scope. The municipal Animal Services fee for wildlife removal situations is approximately $131.12 plus 13% HST, though this applies in limited contracted circumstances.
-
-### What time of year is best for skunk removal services?
-
-The optimal window for skunk removal is late summer through fall, after the spring birthing season has passed and before animals begin seeking winter shelter. Removal during February–March (mating season) can be effective but involves heightened skunk activity and spray risk. April–May is the most challenging period because mothers are nursing dependent kits, and sealing dens during this window risks orphaning young. If you notice activity during the birthing season, contact a professional immediately-they can assess whether babies are present and develop a timeline that accounts for the animals' development.
-
-### How long does the complete removal and exclusion process take?
-
-For straightforward cases involving a single den with few entry points, expect 2–3 working days spread across sequential steps: inspection on day one, one-way door or trap installation on day two, and exclusion sealing once the animal has departed. More complex infestations involving multiple den sites, extensive structural damage, or significant odor contamination can extend the process to several weeks, including monitoring, phased exclusion, and thorough biohazard remediation. Seasonal timing affects duration-spring removals involving family groups with babies take longer due to the need to wait for kits to become mobile.
-
-### Do removal companies offer guarantees against skunk return?
-
-Greater Wildlife Control backs its exclusion work, and we go over exactly what the warranty covers when we quote the job. Any guarantee is only as good as the exclusion behind it, so get the terms in writing and understand that guarantees typically require maintaining the preventive measures recommended by the company, including securing food sources and keeping the property free of attractants.
+Tell us where the hole is, what you've smelled and whether you think there could be babies. Send a photo if you've got one. We'll come out, find every opening, get the skunk out without a fuss, and dig in a barrier so the next one keeps walking. Call Greater Wildlife Control and we'll get you on the schedule.

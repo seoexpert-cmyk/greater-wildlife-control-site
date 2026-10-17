@@ -1,171 +1,129 @@
 ---
-title: "Raccoon Removal in Mississauga, ON: Humane & Safe"
+title: "Raccoon Removal in Mississauga, ON: Attics, Decks and the Gaps They Use"
 meta_title: "Raccoon Removal in Mississauga, ON"
-meta_description: "Raccoons in your Mississauga attic, roof or under the deck? Greater Wildlife Control removes them humanely, repairs entry points and cleans up."
+meta_description: "Thumping in the attic or a raccoon under the deck? We find how it's getting into your Mississauga home, check for kits, move the family out and seal up."
 path: "/on/mississauga/raccoon-removal"
 source: "Surfer 16642419"
 ---
 
-## Introduction
+Here's something you notice after enough time on Mississauga roofs: the houses with the most roof levels get the most raccoons. A lot of the 1970s and 80s split-levels and backsplits in Erindale, Clarkson and Lorne Park have three or four separate roofs stepping up the side of the house. For a raccoon, every lower roof is a landing spot on the way to the top, and that's a big reason raccoon removal in Mississauga keeps us out on ladders most of the year.
 
-Greater Wildlife Control provides humane raccoon removal services throughout Mississauga, addressing infestations in attics, roofs, and structural entry points with over 20 years of hands-on expertise. When a resident calls about heavy thumping in the attic at dusk or damaged soffits along the roofline, the problem is almost always raccoons-and it demands a professional, legally compliant response.
+The other reason is geography. The Credit River valley and Etobicoke Creek run right through the city, with green space on either side, and raccoons use those strips to sleep by day and walk into the neighbourhoods at night. Mix in green bins, bird feeders and a warm attic, and you can see why they stick around.
 
-This article covers the full scope of professional raccoon removal in Mississauga: how raccoons behave in the Greater Toronto Area, what structural vulnerabilities they exploit, how to identify an active infestation, and what a complete removal and exclusion process looks like from start to finish. It is written for homeowners and property managers dealing with active raccoon problems, recurring wildlife issues, or property damage from nuisance animals. We do not cover basic DIY prevention tips or general pest control-this is about when professional intervention is the only effective solution.
+So let's talk about what I'd tell you if I were standing in your backyard looking up at your roof. How to know it's a raccoon, where they get in on houses here, why spring changes everything, how we get them out, and what to do with what they leave behind.
 
-Raccoon removal must comply with local wildlife regulations, including Ontario's rule that homeowners can only relocate raccoons within one kilometer of their home territory. Mississauga Animal Services won't trap healthy raccoons, which means licensed wildlife professionals must handle removal and exclusion work in accordance with provincial and municipal law.
+## Thumps at dusk, chirps in May
 
-After reading this article, you will:
+Raccoons are big animals. A grown one can weigh as much as a small dog, so when it moves across an attic you hear real weight: thumps, dragging, the odd bang against a rafter. It usually starts around dusk when the animal heads out to eat, then you get another round in the early morning hours when it comes home to sleep.
 
-* Understand how raccoon seasonal breeding cycles affect removal timing and strategy
+Squirrels are different. They're daytime animals and they're light, so it's quick scratching and running in the morning and late afternoon. If you're hearing it at 3 a.m., it's very unlikely to be a squirrel.
 
-* Recognize the signs of an active infestation and when to request immediate professional help
+In spring, listen for a high twittering sound coming from one spot near the edge of the roof. People often think it's a bird. It's usually raccoon kits talking to their mother, and it means you've got a family up there, which changes how we do the job.
 
-* Learn the differences between humane exclusion methods, including one-way doors, mesh screening, and chimney cap installation
+Outside, here's what tends to show up:
 
-* Know the legal framework governing wildlife removal in Ontario and Mississauga specifically
+- A roof vent bent up or missing, or a soffit panel pushed in at a corner
+- Shingles lifted along the edge of a lower roof
+- Dark, greasy smudges and a bit of fur around an opening
+- Muddy prints on a downspout or the siding beside it
+- Tipped bins, and small holes torn in the lawn where they've been digging for grubs
+- A pile of droppings in one spot on a flat roof, a deck or under a porch
 
-* See how Greater Wildlife Control resolves complex cases involving dependent kits, multiple entry points, and recurring infestations
+Inside, look for stains on the ceiling drywall, a musky smell near the attic hatch, or a spot upstairs that suddenly feels colder because the insulation above it has been dragged around.
 
-## Understanding Raccoon Behavior in Mississauga
+## Why split-levels and backsplits get hit so often
 
-Raccoons (*Procyon lotor*) have adapted remarkably well to urban life across the GTA. In cities like Mississauga and Toronto, urban expansion alongside greenbelt corridors and ravine systems gives raccoons direct access to residential neighborhoods. Their urban home ranges can be extremely small-less than 0.1 km²-because food, water, and shelter are found in plenty within a few city blocks. This density is precisely why human-wildlife conflict has intensified in recent years.
+A split-level isn't one roofline. It's a garage roof, a roof over the lower level, the main roof, and sometimes a little bump-out over a bay window, all meeting at different heights. Every place two of those meet is a seam, and seams are where raccoons start pulling.
 
-For homeowners, understanding raccoon territorial patterns is essential. These animals are not passing through your property-they are living on it. When raccoons encounter a reliable food source (unsecured garbage bins, pet food left outdoors, garden produce) combined with an attractive denning site (your attic, chimney, or shed), they establish residency. Removing the animals without addressing the conditions that drew them there ensures the problem will return, often within weeks.
+When I walk one of these houses I spend most of my time at the joints:
 
-### Seasonal Nesting Habits and Breeding Cycles
+- **Where a lower roof runs into a wall.** The step flashing there ages, and the siding above it is often just clipped on. A raccoon can work its fingers behind it.
+- **Soffit corners.** On the older homes in the south end, a lot of that soffit is original wood or thin aluminum. It softens or bends, and a corner gives way.
+- **Roof vents.** Plastic box vents are held down by a few nails. A raccoon grabs the lip and pries.
+- **Old wall penetrations.** Dryer vents, bathroom fans and kitchen exhausts that have been moved or abandoned over the years.
+- **Chimneys** without a proper cap.
 
-Raccoon activity follows a predictable seasonal rhythm that directly determines when and how removal should be performed.
+I was on a backsplit in Lorne Park where the owners kept hearing scratching inside the wall beside the fridge, and then later above the family room. Years earlier somebody had redone the kitchen and moved the range hood, and the old exhaust duct was just cut off inside the wall. Outside, the hole behind the siding was still there, covered by nothing but the vinyl. The raccoon had popped that panel loose, climbed into the old duct opening and worked its way up into the attic over the lower level. You couldn't see any of it until we pulled the siding back.
 
-In late winter through early spring (January–April), mating season begins as increasing daylight triggers breeding behavior. Pregnant females then seek secure, enclosed spaces to birth and raise their young-and attics, chimneys, and spaces beneath decks are prime targets. Raccoons may nest in attics during spring and summer, with kits born mid-to-late spring and remaining in dens until they become mobile, typically by late summer.
+<!-- generic anecdote: confirm or replace with a real job -->
 
-Fall brings a second wave of urgency. From September through November, young raccoons disperse from their mothers and actively search for their own winter shelter. Adults intensify efforts to find insulated, dry denning sites before cold weather sets in. Raccoons do not truly hibernate; they enter a state of [torpor](https://www.hww.ca/wp-content/uploads/2024/11/raccoon-en.pdf) during extreme cold, which means they need reliable shelter throughout winter but remain semi-active.
+The newer townhouses north of the 403, in places like Churchill Meadows and Meadowvale, have their own weak spots. Vinyl soffit flexes, the ridge and box vents are plastic, and the units share long rooflines, so one opening can give a raccoon access over several homes.
 
-This seasonal pattern has a critical implication for removal timing: inspection for dependent baby raccoons is essential before sealing entry points. Installing exclusion devices while non-mobile kits are inside an attic risks orphaning them-creating both an animal welfare crisis and a biohazard situation as trapped animals die inside the structure. The optimal window for exclusion work is late summer through early fall, after kits become mobile but before new animals seek winter dens.
+## If it's April, assume there are babies
 
-### Structural Vulnerabilities Raccoons Exploit
+Raccoons mate in late winter. Kits are born in spring, usually somewhere between March and June, and they stay in the den until they're big enough to follow their mother, which takes them into mid or late summer.
 
-Raccoons are remarkably capable when it comes to gaining access to homes. Their semi-opposable front paws function like hands, allowing them to grasp, pull, and pry apart building materials that humans assume are secure. Raccoons are commonly found entering through  roof vents, chimneys, and attics-and they often enter homes through loose shingles or chimneys where minor deterioration has already weakened the structure.
+That's why, from spring through midsummer, my working assumption is that the raccoon in your attic is a nursing female, and I stay with that assumption until I've proven otherwise. Seal her out or trap her in those months and the litter starves where it is. You end up with dead kits somewhere in the ceiling, a smell that hangs around for weeks, flies, and a cleanup that's twice the work. It's also the kind of thing Ontario's wildlife rules are written to prevent.
 
-The specific weak points raccoons target include:
+Fall is the other busy stretch. From about September to November, young raccoons head off on their own and adults look for a solid winter den. Raccoons don't really hibernate. They slow way down and sleep through the cold snaps, a state called [torpor](https://www.hww.ca/wp-content/uploads/2024/11/raccoon-en.pdf), but they'll still wake up and move around on milder nights. So a quiet attic in January doesn't mean an empty one.
 
-* **Soffit and fascia junctions** - Gaps at corners where soffit panels meet fascia boards, especially where wood has begun to rot
+The sweet spot for exclusion work, if you have a choice, is late summer into early fall. The kits are mobile by then, so the whole family can leave together, and you're closing the house before the next raccoon goes shopping for winter quarters.
 
-* **Roof vents** - Plastic or thin aluminum vent covers that raccoons can bend or break with their paws
+## How raccoon removal in Mississauga actually goes
 
-* **Chimney openings** - Uncapped chimneys that provide direct vertical access into the home
+### Up on the roof first
 
-* **Roof-wall intersections** - Transition points where different rooflines meet, creating small gaps
+Nothing gets installed until I've been over the entire roofline. I'm counting holes, figuring out which one she's actually using, looking for signs of a litter and sizing up the mess. If the hatch and the framing let me in safely, the attic is next.
 
-* **Plumbing stack boots** - Rubber or plastic seals around roof pipe penetrations that degrade over time
+You'll get photos of every spot and a plain explanation of what each one needs. That list is what the quote is built on: how many openings, how much repair, and how much cleanup.
 
-Raccoons are attracted to older homes with worn exteriors, where weathering has already compromised material integrity. Even a gap of a few inches is enough-once a raccoon identifies a weakness, it can widen the opening significantly. Inside, they dismantle insulation for nesting material, contaminate surfaces with urine and feces, and can cause significant structural damage to homes over even a single season of occupation.
+### Getting the family out
 
-These behavioral and structural patterns create identifiable evidence that homeowners can learn to recognize-which is the first step toward getting professional help before damage escalates.
+In baby season, step one is physically finding the kits. Once we have them, they're tucked into a heated box on the roof next to the hole she's been using. She hears them, collects them one at a time and relocates them herself, usually inside of a night or two. Letting her do it beats chasing a protective mother around an attic.
 
-## Identifying Active Raccoon Infestations
+Once the attic is clear of kits, we install a one-way door over the main opening. It's a steel door or tunnel the raccoon can push out through, but it closes behind it so it can't get back in. Before that door goes on, the other weak spots get sealed, so the only way out is through the door. It has to be fitted to your roof. A one-way door that's loose at the edges just shows the raccoon where to tear through the shingles beside it.
 
-The signs of a raccoon infestation are distinct from those left by other nuisance animals like squirrels, skunks, bats, or birds. Knowing what to look for-and when-helps homeowners respond quickly and contact the right wildlife removal service before damage compounds.
+We leave the door in place for at least several days, and longer if anything looks off. When the attic's been quiet long enough that I'm sure, we pull the door and seal that final hole permanently.
 
-### Visual Evidence and Entry Point Assessment
+### Decks, sheds and the townhouse problem
 
-Exterior inspection often reveals the first clues. Look for damaged or displaced roof materials: loose shingles pulled back from the substrate, vent covers bent outward or missing entirely, and chimney caps knocked loose or absent. Soffits may show visible holes, claw marks, or sections where material has been torn away. Grease smears and tufts of raccoon fur around openings confirm active use.
+Raccoons love the space under a deck or a shed. It's dry, dark and close to food. The fix is similar: a one-way tunnel on the gap they're using, then once they're out, steel mesh along the perimeter that's buried into the soil so the next one can't dig under.
 
-Regularly inspect roofs for loose shingles and potential entry points-this simple habit can catch problems early. At ground level, overturned garbage bins are a classic indicator; raccoons commonly raid garbage bins for food and will return nightly to a reliable source. Damaged gardens, disturbed sod (raccoons dig for grubs), and established latrine sites-areas where raccoons repeatedly deposit feces, often found under decks or on flat roof sections-all point to resident animals rather than occasional visitors.
+Shared decks on townhouses make it trickier, because the space under the deck often runs across two units.
 
-Inside the home, disturbed or compressed attic insulation, visible nesting material (shredded paper, leaves, fabric), and dark staining on wood or drywall from urine are definitive signs.
+We had a call from a Meadowvale townhouse where a raccoon and her kits were living under a deck that spanned two backyards. Each neighbour figured the noise was coming from the other side, so nobody called for weeks. When we got there, the kits were old enough to be peeking out from behind the lattice in the evening. We set the one-way tunnel on the opening they were using, waited until they'd all moved out, and then put mesh along both units' sides of the deck with both owners on board.
 
-### Audio Indicators and Timing Patterns
+<!-- generic anecdote: confirm or replace with a real job -->
 
-Sound is often the first thing that alerts people to a raccoon problem. Raccoons are heavy animals-adult females weigh 5–8 kg, males up to 12 kg-and their movement through an attic produces loud thumping and dragging sounds distinctly different from the light scurrying of squirrels or faint scratching of rodents.
+If your deck is shared, it's worth talking to your neighbour before we come out. Sealing only half of it doesn't do much.
 
-Peak activity occurs at dusk and before dawn, corresponding to raccoons' nocturnal foraging schedule. During spring and early summer, homeowners may hear high-pitched chittering or bird-like trilling sounds-these are raccoon kits communicating with their mother. The presence of these juvenile vocalizations indicates a family group and means removal must account for dependent young.
+## The one-kilometre rule, and why trapping rarely solves it
 
-Seasonal audio changes also provide useful information. Quieter periods during late spring birthing give way to increasing noise as kits grow and become more active. By late summer, the combined movement of mother and several mobile juveniles can create substantial disturbance within attic spaces.
+People ask me all the time why we don't just trap the raccoon and drop it off somewhere far away. Ontario's Fish and Wildlife Conservation Act lets a property owner, or someone they hire, deal with wildlife that's damaging the property. The catch is the release rule: a live-trapped raccoon goes back out within 24 hours, no more than a kilometre from your house. A trip up to the Caledon hills isn't an option.
 
-### Biohazard and Health Risk Assessment
+In practice, a raccoon let go a kilometre away can be back on your roof the same night. And if the hole is still open, you haven't solved anything. Trap a mother in spring and her kits are still in your attic. That's why we push them out with a one-way door and seal up instead. Live capture is for odd cases, like a raccoon that's ended up somewhere inside the living space.
 
-Raccoon infestations create genuine health hazards that go beyond property damage. Established  [latrine sites harbor Baylisascaris procyonis](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/raccoons/) (raccoon roundworm), a parasite whose eggs can remain viable in soil and on surfaces for years. Accumulated feces, urine, and nesting material contaminate insulation and wood, degrading indoor air quality and creating conditions for mold growth when moisture is present.
+It also helps to know that Mississauga Animal Services doesn't trap healthy raccoons. They will respond to one that's sick or injured, so if you see a raccoon that's wobbly, unusually tame, or has discharge from its eyes or mouth, keep everyone away and call them at 905-896-5858. The city's [raccoon page](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/raccoons/) covers what they do and don't handle, and the [Animal Care and Control By-law](https://www.mississauga.ca/file/COM/animalcontrol.pdf) has the local rules, including on feeding wildlife.
 
-Raccoons also carry rabies, canine distemper, and various ectoparasites including fleas and ticks that can affect both humans and pets. Animals exhibiting abnormal behavior-disorientation, excessive tameness, visible discharge from eyes or mouth, or contact of saliva with open wounds-should be reported immediately. In Mississauga, Animal Services (905-896-5858) responds to sick or injured raccoons.
+## Raccoon droppings are not a weekend project
 
-Cleaning and sanitizing areas affected by raccoon activity is often necessary after removal, requiring protective equipment and proper biohazard disposal protocols. This is not work for homeowners-it requires professionally trained technicians.
+Raccoons use one corner as a toilet, night after night. That latrine is what worries me most on any attic job.
 
-When visual or auditory evidence confirms an active infestation, the situation calls for immediate professional assessment. The removal techniques required are specialized, legally regulated, and must be timed correctly to ensure humane outcomes.
+Many raccoons carry a roundworm called *Baylisascaris procyonis*. The eggs pass in the droppings and they hang around a long time, in dust, insulation and soil. Breathe the dust in, or touch it and then touch your face, and you can get very sick. Young children are the ones most at risk. Raccoons can also carry rabies and distemper, and they bring fleas and ticks in with them.
 
-## Greater Wildlife Control's Removal Process
+This is not a weekend job with a shop vac and a paper mask. Our crew suits up in respirators and coveralls, uses HEPA vacuums, and bags everything for proper disposal. If the latrine is small and recent, removal and an enzyme treatment may be enough. If a family has been living up there for a season, the urine-soaked insulation usually has to come out and get replaced, and we'll show you what we find before deciding.
 
-Greater Wildlife Control delivers raccoon removal services that are both humane and legally compliant, following Ontario's wildlife regulations and [Mississauga's Animal Care & Control By-law](https://www.mississauga.ca/file/COM/animalcontrol.pdf). Every removal begins with a thorough property assessment and ends with verified exclusion-ensuring the problem is resolved permanently, not temporarily displaced.
+## Closing the house up
 
-### Humane Trapping and Extraction Procedures
+Once the animals are out, every opening on the list gets closed, not only the one they were using. Raccoons test the whole house, and they're strong enough to get through plastic, thin aluminum and spray foam without much trouble. So we use:
 
-Raccoon removal practices in Mississauga emphasize humane methods that include exclusion and prevention. The approach Greater Wildlife Control uses depends on the specific situation-whether kits are present, how many entry points exist, and the time of year.
+- Heavy galvanized steel mesh over soffit gaps, roof-wall joints and plumbing stacks
+- Metal flashing where a lower roof meets a wall
+- Steel guards over roof vents and any old exhaust openings
+- A wildlife-rated cap on the chimney
 
-Trapping is the primary method for raccoon removal when animals need to be physically extracted, but one-way doors and exclusion devices are preferred whenever circumstances allow. Here is how the process works:
+On a lot of homes we also fix the damage they caused, like a torn soffit run or lifted shingles, so the repair holds up and looks right from the street. The work comes with a warranty, and your written quote lays out exactly what's covered.
 
-1. **Initial assessment and entry point identification** - Technicians inspect the entire roof, soffit line, chimney, and foundation to map every active and potential entry point. Thermal imaging may be used to confirm animal locations within wall or attic cavities.
+A few things on your end help too. Trim branches back so nothing hangs over the roof. Keep the green bin latched and the garbage in the garage until pickup morning. Bring pet food in at night, and pick up fallen fruit and spilled birdseed. If you're in one of the Square One area condos and a raccoon has found your balcony, the same logic applies: take away the food and anything it can hide under.
 
-2. **Installation of exclusion devices and one-way doors** - One-way exit doors prevent raccoons from re-entering homes while allowing them to leave voluntarily. These are installed at confirmed active entry points after all secondary access points have been sealed.
+## What to do tonight if you think it's a raccoon
 
-3. **Family group removal ensuring no juveniles are separated** - If kits are present and not yet mobile, hand removal with temporary reunification boxes is used to keep mother and young together. Licensed wildlife professionals must handle raccoon relocation beyond one kilometer, so animals are managed within legal boundaries.
+- Don't block the hole. If there are kits inside, you'll make it much worse.
+- Note when you hear the noise and roughly where in the ceiling it is.
+- Snap a few pictures of anything chewed or torn that's visible from the yard.
+- Keep kids and pets away from the attic and from wherever the animal goes in and out.
+- Don't touch droppings. Leave them for us.
 
-4. **Post-removal monitoring and confirmation** - The property is monitored for a minimum of three days to confirm complete evacuation before permanent sealing. Sound monitoring and visual inspection verify that no animals remain inside.
+## Give us a call before it settles in
 
-Professional wildlife removal requires legally compliant methods to ensure safety and adherence to laws. Each region has specific regulations for wildlife removal, and raccoon removal regulations vary by city and province-Greater Wildlife Control operates in full accordance with Ontario and Mississauga requirements.
-
-### Exclusion Method Comparison
-
-Sealing entry points with durable materials is a key aspect of raccoon exclusion. The method selected depends on the specific vulnerability being addressed:
-
-| Method                              | Best Application                                   | Duration                                       | Maintenance                         |
-|-------------------------------------|----------------------------------------------------|------------------------------------------------|-------------------------------------|
-| **One-way doors**                   | Active entry points during removal phase           | Temporary (removed after confirmed evacuation) | Monitored daily during active use   |
-| **Galvanized steel mesh screening** | Roof vents, soffit gaps, plumbing stack openings   | Permanent (10+ years)                          | Annual inspection recommended       |
-| **Metal flashing reinforcement**    | Fascia and soffit junctions, roof-wall transitions | Permanent (15+ years)                          | Inspect after severe weather events |
-| **Chimney cap installation**        | Open or damaged chimney tops                       | Permanent (20+ years)                          | Biannual inspection for debris      |
-| **Custom vent covers**              | Non-standard roof vents and exhaust openings       | Permanent (10+ years)                          | Annual inspection                   |
-
-Install protective screening to deter wildlife from entering, and seal off entry points to prevent wildlife access using materials that resist raccoon manipulation. Plastic covers are cheaper but easily broken; galvanized steel costs more but provides the durability needed to withstand raccoon paws. Greater Wildlife Control uses commercial-grade materials exclusively, providing warranty coverage that gives homeowners long-term confidence.
-
-Habitat modification can reduce raccoon attractants around properties as well-keeping garbage bins secured to avoid attracting wildlife, removing outdoor pet food, and trimming tree branches that provide roof access all contribute to a comprehensive exclusion strategy.
-
-Contact Greater Wildlife Control for a free quote on a full property assessment and customized exclusion plan.
-
-## Common Challenges and Solutions
-
-Not every raccoon removal is straightforward. The most common complications homeowners encounter require specialized knowledge, proper timing, and professional-grade equipment to resolve safely.
-
-### Mother with Dependent Kits in Attic
-
-This is the most sensitive scenario in wildlife control. If a mother raccoon has given birth in an attic-typically between April and July-standard exclusion cannot be used until kits are mobile. Greater Wildlife Control's experts use a specialized approach: hand removal of kits from the attic, placement in a heated reunification box near the entry point, and installation of a one-way door that allows the mother to exit and retrieve her young. This process keeps the family group intact while clearing the structure, and it avoids the legal and ethical problems of orphaning dependent animals.
-
-### Multiple Entry Points and Structural Damage
-
-Some properties-particularly older homes-present multiple vulnerabilities simultaneously. A raccoon may be entering through a damaged soffit on one side of the roof while a second access point exists at a chimney or vent on the other. Sealing only one opening simply redirects the animal. Greater Wildlife Control conducts comprehensive property assessments that identify and prioritize every weak point, coordinating with roofing contractors when extensive repairs to fascia, soffits, or shingle systems are required. Regular inspections for weak spots can prevent wildlife entry from developing into full-scale infestations in the future.
-
-### Recurring Infestations After DIY Attempts
-
-Many of the calls Greater Wildlife Control receives come from homeowners who have already attempted to rid their property of raccoons using store-bought deterrents, improvised barriers, or improperly installed exclusion materials. These efforts fail because they typically address only one entry point, use materials raccoons can easily defeat, or are timed during baby season when exclusion creates worse problems. Professional assessment of failed exclusion work includes a complete system overhaul-removing inadequate materials, identifying missed entry points, and installing commercial-grade barriers with extended warranty coverage and ongoing monitoring.
-
-The pattern across all these scenarios is consistent: effective solutions require professional knowledge, proper timing, and durable materials. Temporary deterrents like lights, sound machines, or vinegar simply push animals to a different part of the same property.
-
-## Conclusion and Next Steps
-
-Raccoon infestations in Mississauga are a serious animal control issue that demands humane, legally compliant, and permanently effective intervention. Greater Wildlife Control combines deep local expertise with commercial-grade exclusion materials and a thorough understanding of Ontario wildlife law to deliver results that last. Whether you're dealing with a single raccoon in the attic or a complex multi-entry infestation with dependent kits, you've come to the right place.
-
-Take these steps now:
-
-1. **Active infestation?** Call Greater Wildlife Control immediately to schedule an emergency assessment. Do not attempt to remove or trap raccoons yourself.
-
-2. **Suspicious signs?** Request a comprehensive property inspection to identify vulnerabilities before animals establish themselves. A free quote is available for all assessment services.
-
-3. **Seasonal planning?** Schedule preventive exclusion work in late summer or early fall-before raccoons begin seeking winter shelter.
-
-Greater Wildlife Control also provides related services including attic restoration, contaminated insulation replacement, and ongoing wildlife monitoring programs to ensure your home remains safe and secure through every season.
-
-## Additional Resources
-
-* **Mississauga municipal wildlife bylaws**: [Mississauga's raccoon guidance](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/raccoons/) outlines homeowner responsibilities and confirms that healthy raccoons are not removed by Animal Services
-
-* **Emergency contact for sick or injured raccoons**: Mississauga Animal Services at 905-896-5858 will respond to animals showing signs of rabies, distemper, or injury
-
-* **Seasonal maintenance checklist**: Inspect chimney caps, roof vents, soffit junctions, and shingle integrity twice annually (spring and fall); keep garbage bins locked; trim tree limbs within 2 metres of the roofline; remove fallen fruit and outdoor pet food before dusk
+Heavy thumping overhead at night, or a raccoon living under your deck? Give Greater Wildlife Control a call. We'll come out, show you exactly where it's getting in and whether there are kits, and give you a straight plan to get it out and close the house up.

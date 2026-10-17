@@ -1,165 +1,155 @@
 ---
-title: "Roof Restoration in Mississauga, ON: Repairing Wildlife Damage"
+title: "Roof Restoration in Mississauga, ON: Fixing What Raccoons and Squirrels Tear Up"
 meta_title: "Roof Restoration in Mississauga, ON"
-meta_description: "Wildlife damage to your Mississauga roof? Greater Wildlife Control repairs vents, soffits and shingles, and seals entry points against return visits."
+meta_description: "Raccoon or squirrel damage on your Mississauga roof? We repair shingles, soffit, vents and roof deck, clean the attic and close the gaps so they stay out."
 path: "/on/mississauga/roofing"
 source: "Surfer 16695253"
 ---
 
-## Introduction
+A roofer looks at a torn-open soffit and sees a carpentry job. I look at the same hole and want to know three things first: who made it, whether they're still inside, and where they'll try next if I close this one.
 
-Roof restoration in Mississauga is a specialized process that repairs wildlife-damaged roofing systems-torn soffits, compromised vents, contaminated attic insulation-without the expense of a complete roof replacement. For homeowners dealing with raccoon break-ins, squirrel gnaw marks, or bird nesting damage, professional restoration addresses the structural, sanitary, and preventive dimensions of the problem in a single coordinated project.
+That's the difference with roof restoration in Mississauga when animals did the damage. The repair itself is normal roofing work. Shingles, sheathing, flashing, soffit, vents. But if you patch it before the raccoon is out, or with the same plastic part it just ripped off, you'll be paying for it twice.
 
-This guide covers the full scope of wildlife-related roof damage: how to assess entry points and contamination zones, what structural repairs are required, the biohazard sanitation protocols that protect your family's health, and the exclusion techniques that prevent animals from returning. It is written for Mississauga homeowners facing active or recent wildlife intrusion-those concerned about property value loss, recurring roof issues, hidden rot, or health risks from contaminated attic spaces. Property managers overseeing residential and commercial properties will also find the cost analysis and permit guidance directly applicable.
+So this page is about that kind of roof repair: how we figure out how bad it is, what order the work has to happen in, what it costs, and how to make the fixed spot the strongest part of the roof instead of the weakest.
 
-Professional roof restoration addresses wildlife damage through comprehensive repair, sanitation, and exclusion to restore structural integrity, energy efficiency, and long-term property value-typically at a fraction of the cost of full roof replacement.
+## Repair, restoration or a whole new roof?
 
-By the end of this article, you will understand:
+Most wildlife damage is local. A corner of soffit, one vent, a strip of shingles, a soft patch of roof deck underneath. That's a repair, or a restoration if there's more than one spot and the attic needs work too. We fix what's damaged and leave the rest of the roof alone.
 
-* How to identify wildlife entry points, structural vulnerabilities, and contamination zones on your Mississauga roof
+A full replacement only makes sense when the roof was near the end of its life anyway, or the damage is spread across several areas and the sheathing is soft in a lot of places. Asphalt shingle roofs around here usually give you somewhere in the twenty-year range. If yours is at eighteen and curling, I'll tell you straight that patching it may not be the best use of your money. If it's eight years old and a raccoon tore up one section, there's no reason to redo the whole thing.
 
-* The specific repair techniques used to restore damaged soffits, decking, vents, and roofing materials
+## What animals actually do to a roof
 
-* Biohazard cleanup protocols for raccoon urine, feces, and nesting material-and why they matter for indoor air quality
+Each animal has its own way of doing damage.
 
-* How wildlife exclusion is integrated into the restoration process for lasting protection
+**Raccoons** are the heavy hitters. They pull. They'll peel back shingles, rip the corner off an aluminum soffit, tear a plastic roof vent right off its base, and lift a loose piece of fascia until it breaks. A mother raccoon looking for a place to have her kits in spring can do all of that in a single night.
 
-* The costs, permit requirements, insurance considerations, and maintenance schedules that apply to your roofing project
+**Squirrels** chew. You'll see neat, gnawed edges on fascia boards, around the corners of soffit, on plastic vents and on the rubber boot around a plumbing stack.
 
-## Understanding Roof Restoration Fundamentals
+**Birds** don't usually break anything, but they stuff nesting into soffit vents and exhaust hoods, which blocks airflow and traps moisture.
 
-Roof restoration means repairing localized damage-wildlife entry holes, torn fascia, displaced shingles, contaminated insulation-while preserving the existing roof structure wherever it remains sound. It is distinct from a complete roof replacement, which involves full tear-off and reinstallation of all roofing materials, underlayment, and often the roof deck itself.
+The damage you see from the driveway is rarely the whole story. Once there's a hole, rain and snowmelt follow the animal in. That's how a raccoon problem in April turns into a soft roof deck, wet insulation and a stain on the bedroom ceiling by fall.
 
-In the Mississauga context, this distinction matters enormously. The city's mature housing stock, much of it built in the 1970s–1980s, features roofing systems subject to freeze-thaw cycles, lake-effect snow, and ice damming. Most asphalt shingle roofs last 20–25 years under normal conditions, but wildlife damage can accelerate deterioration far beyond what weather alone would cause. A raccoon tearing through a soffit panel in April can lead to deck rot, saturated insulation, and mold growth by September. For an aging roof that still has years of serviceable life, restoration is the cost-efficient path-roof restoration typically costs less than a full roof replacement, and roof restoration can add 5 to 15 extra years to the lifespan of shingles or tiles. However, restoration may not be suitable for roofs that have extensive damage or have reached their service life.
+## Why so many Mississauga roofs give them a way in
 
-Quality repairs can prevent the need for a full replacement, but only when the assessment is thorough and the work addresses every layer of damage-surface, structural, and environmental.
+A big chunk of the city went up in the 1970s and '80s, and you see it in Mineola, Cooksville and Malton: bungalows, split-levels and backsplits that are now on their second or third set of shingles. The roof has been redone, but the soffit, fascia and flashing underneath are often original or close to it. Forty-odd years of freeze and thaw, and wind coming in off the lake, loosens nails and opens joints. Roofers reshingling an older house don't always touch any of that, so the new roof sits on top of tired edges.
 
-### Structural Assessment and Damage Documentation
+Then the trees grew up. A maple that was a sapling when the house was built now hangs over the eaves, and a raccoon will walk along a branch onto the shingles like it's a sidewalk.
 
-Every restoration begins with a professional roof inspection. A proper roof inspection in Mississauga is thorough and detailed, covering not just visible shingle condition but every potential wildlife entry point: soffits, fascia boards, vent hoods, roof-wall junctions, drip edges, and flashing. Inspections assess both the roof and attic conditions together-checking for moisture intrusion, compressed or soiled insulation, wood rot in decking or rafters, and evidence of animal activity such as droppings, urine stains, or nesting materials.
+And there's the patching history. On an older Mississauga roof I'll often find three generations of repairs in one spot: a bit of aluminum over wood, some caulk, a piece of metal screwed on top. Each one is a seam, and animals find seams.
 
-An initial inspection can identify key issues such as leaks and moisture damage before they escalate into costly repairs. Thermal imaging is increasingly used by experienced roofing contractors to detect hidden hot and cold spots that indicate insulation gaps, air leaks, or concealed wildlife presence behind walls, flat roofing, and under decking.
+## The valley on a bungalow in Malton
 
-Documentation is critical. Reputable contractors provide detailed written estimates that outline the scope of work, supported by photographs, moisture readings, measurements of openings, and contamination mapping. This documentation serves two purposes: it defines the restoration scope accurately and provides the evidence needed for insurance claims. Roof inspections in Mississauga typically cost between $150 to $400, and roof inspections often catch small problems before they escalate into situations requiring emergency roof repairs or full replacement.
+Valleys are where two roof slopes meet, and all the water from both sides runs down them. That makes them the worst spot to have a hole.
 
-### Biohazard Sanitation and Safety Protocols
+I did a job on a bungalow in Malton where the owners noticed a brown ring on the hallway ceiling after a heavy rain. Up on the roof, a raccoon had peeled back about a metre of shingles right along the back valley, where it had been trying to get into the attic. It hadn't fully broken through, but it had torn the underlayment, and water had been running straight onto the wood for weeks. Once the old shingles were off, the sheathing in that section was soft enough to push a screwdriver into. We made sure the animal wasn't using the attic, cut out and replaced the soft section of roof deck, ran new ice-and-water membrane down the full length of the valley, and reshingled it. <!-- generic anecdote: confirm or replace with a real job -->
 
-Wildlife contamination is not a cosmetic issue-it is a health hazard that accelerates structural deterioration. Raccoon feces can carry *Baylisascaris procyonis* (raccoon roundworm), while urine introduces high moisture loads and ammonia that degrade wood framing and insulation. Nesting materials attract secondary pests-mites, fleas, ticks-that can migrate into living spaces.
+Not every valley is that bad. But if a raccoon has been working at one, I want to see what's under the shingles before I say it's fine.
 
-Professional decontamination involves removing all contaminated attic insulation, disinfecting exposed wood and surfaces with biocides formulated for wildlife waste, eliminating odor sources, and drying structural materials to prevent ongoing mold development. Workers follow strict safety protocols using PPE: respirators, gloves, coveralls, and eye protection. This is not a DIY task-disturbing contaminated materials without proper equipment risks pathogen exposure and can spread contaminants through ductwork into living areas.
+## First the animals, then the hammer
 
-The connection between sanitation and structural integrity is direct: contaminated insulation loses R-value when wet or compressed, reducing energy efficiency and allowing condensation that accelerates rot. A contaminated attic that leaks ammonia, spores, and allergens into indoor air compromises the health of everyone in the home. Addressing this contamination is what separates genuine roof restoration from a superficial patch job.
+This part gets skipped all the time, and it's the most important.
 
-This foundation-thorough assessment, documented damage, proper sanitation-sets the stage for the specific wildlife damage scenarios Mississauga homeowners encounter most frequently.
+If there's still an animal using the opening, or a mother with babies in the attic, you can't just close the roof up. You'll trap them inside, and then you're dealing with a raccoon tearing a new hole from the inside or a dead litter in your ceiling. In spring, from about March into early summer, there's a good chance a female is up there with kits.
 
-## Wildlife-Specific Roof Restoration Applications
+So our order of work is always:
 
-With assessment fundamentals established, the practical question becomes: what does wildlife damage actually look like on a Mississauga roof, and what does professional restoration involve for each scenario? The answer varies by entry point, contamination extent, and structural compromise-but certain patterns repeat across the city's residential neighborhoods.
+1. Confirm whether anything is still living in there, and whether there are young.
+2. Get the animals out with a one-way door, or by carefully removing the kits for the mother to collect, depending on the situation and the season.
+3. Wait until we're sure the space is empty.
+4. Then do the repair.
 
-### Raccoon Entry Point Restoration
+Ontario allows property owners to deal with wildlife damaging their property, but trapping and moving an animal across town isn't allowed. Anything live-trapped has to be released within one kilometre, within 24 hours, which is spelled out on the province's page about [wildlife damaging private property](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property). That's one more reason we'd rather let the animal walk out and then close the door behind it.
 
-Raccoons target the path of least resistance: aging soffit panels, plastic vent covers, roof-wall junctions where flashing has separated, and areas where missing shingles expose underlayment. A single raccoon can displace asphalt shingle roofing, rip aluminum soffit panels, and chew through plastic vent boots in a single night.
+## What's going on in the attic
 
-Restoration of these entry points requires replacing or reinforcing damaged soffits and fascia with heavy-gauge aluminum or treated wood, installing wildlife-resistant metal vent covers that cannot be torn or gnawed, and reinforcing drip edges and flashing at roof edges to prevent under-shingle access. At roof-wall junctions-one of the most common raccoon entry points in GTA homes-custom metal flashing and galvanized steel mesh behind eave openings provide the structural barrier that standard materials cannot.
+When a raccoon or squirrels have been living up there, the roof repair is often the easy half.
 
-Quality roofing services goes beyond plugging holes. Each entry point repair must integrate with the surrounding roofing system: shingle replacement must maintain the waterproofing integrity of the roof surface, soffit repairs must preserve attic ventilation flow, and vent modifications must meet building code requirements for airflow.
+Raccoons pick one or two spots as a toilet. Squirrels go wherever they please. Either way, the insulation gets flattened, soaked and mixed with droppings and nesting material. Flattened, wet insulation doesn't insulate much, so your upstairs rooms get colder in winter and hotter in summer. It can also hold moisture against the underside of the roof deck and start mould.
 
-### Attic Contamination and Insulation Replacement
+The health side matters too. Raccoon droppings can carry roundworm eggs that last a long time and are dangerous if they're breathed in or swallowed. This isn't a job for a dust mask from the hardware store and a box of garbage bags.
 
-Once raccoons or squirrels occupy an attic space, the contamination footprint typically extends far beyond the entry point. Insulation compressed by nesting, saturated with urine, or mixed with feces loses its thermal performance entirely. In Mississauga, attic insulation should target R-50 to R-60 (RSI ≈8.67) to meet current energy efficiency standards-contaminated insulation often tests well below R-20.
+Here's what we do:
 
-Comprehensive restoration involves full removal of contaminated insulation (typically blown-in cellulose or fiberglass batts), cleaning and disinfecting the attic structure, replacing any degraded wood decking showing rot, and reinstalling attic insulation to current or improved specifications. Attic insulation top-ups alone are insufficient when contamination is present; the underlying surfaces must be sanitized first.
+- Bag and remove soiled insulation and nesting
+- Clean and disinfect the wood framing and the underside of the roof deck
+- Let things dry, and check for mould or rot we couldn't see before
+- Put new insulation back in. Current recommendations for attics here are in the R-50 to R-60 range, and most older attics we open up are well below that even before the animals got to them
+- Make sure the soffit vents are open and baffled so the attic can breathe
 
-The connection to property value is measurable. Buyers and inspectors flag contaminated attic spaces, and insurance adjusters document insulation condition as part of claim assessments. Restoring the attic environment to proper condition preserves resale value and eliminates the ongoing energy cost penalty of degraded insulation. Roof restoration helps improve a roof's energy efficiency by sealing cracks and enhancing reflectivity across the restored surfaces.
+## What a roof repair in Mississauga involves, in order
 
-### Preventive Structural Modifications
+Here's how a typical job runs.
 
-Restoration without prevention is incomplete. After repairing damage and sanitizing contamination, professional roofing services integrate wildlife-resistant materials into the restored areas: stainless steel mesh behind soffit vents and ridge vents, metal fascia panels rated for the latest roofing techniques in wildlife exclusion, and heavy-gauge vent covers designed to resist tearing and gnawing.
+**Look at the roof and the attic together.** I check every soffit corner, the fascia, all the vents, the plumbing stacks, the chimney flashing, the valleys and anywhere a lower roof meets a wall. Then I go in the attic and look at the wood, the insulation and the light coming through where it shouldn't.
 
-Vulnerable roof edges-eaves, valleys, roof-to-wall intersections-receive reinforced flashing with sealed joints and no residual gaps. Roofing materials are selected for Mississauga's climate demands: steep-slope compatibility, heavy snow load ratings, ice-and-water shield under flashing zones, and underlayment rated for freeze-thaw cycles.
+**Photograph everything.** Every hole, every soft spot, every bit of contamination. You get those photos with the quote.
 
-Preventive modifications extend beyond the roof surface. Trimming overhanging tree branches that raccoons and squirrels use as access ramps, maintaining clean gutters to prevent ice dam formation, and scheduling seasonal inspections (spring and fall) to catch new breaches early are all part of the long-term protection strategy. Regular maintenance after restoration can help prevent future roofing issues and protect the investment in quality workmanship.
+**Written quote.** What's damaged, what we're replacing, what we're upgrading, and what it costs.
 
-These wildlife-specific applications-entry point repair, attic restoration, and preventive reinforcement-form the core of what a roofing company in Mississauga must deliver. All your roofing needs should come together in a professional restoration workflow with exceptional service all around. 
+**Animals out first.** As above.
 
-## Roof Restoration Process and Implementation
+**Attic cleanup**, if it's needed.
 
-The roof restoration process typically involves inspection, cleaning, repairs, and treatment-but when wildlife damage is involved, the sequence must account for animal behavior, legal requirements, and contamination protocols that standard roofing solutions do not address.
+**The roof repair.** Cut out and replace any rotted roof deck. New underlayment and ice-and-water membrane where it's needed, especially valleys and eaves. Shingles, drip edge, flashing, soffit and fascia.
 
-### Comprehensive Restoration Procedure
+**Wildlife-proof the repaired areas.** This is what separates our repair from a regular patch. Galvanized steel mesh behind soffit vents and at the roof edge, heavy steel guards over roof vents and plumbing stacks, metal flashing instead of caulk at roof-to-wall joints, and solid fascia where the old wood was soft.
 
-Professional restoration is necessary when wildlife has breached the roof envelope, contaminated the attic space, or compromised structural components. DIY attempts risk pathogen exposure, incomplete exclusion (leading to re-entry), and repairs that fail to integrate with the existing roof system. Roofing contractors should have experience handling local climate challenges, such as freeze-thaw cycles, alongside wildlife damage remediation.
+**Final check and photos** of the finished work.
 
-The restoration follows a specific sequence:
+A small repair with no attic work can be done in a day. Bigger jobs with sanitation, decking and insulation usually take two to four days.
 
-1. **Wildlife removal and exclusion setup**: Identify whether animals are still present-mothers with dependent young require humane timing under [Ontario's Fish and Wildlife Conservation Act](https://www.ontario.ca/page/harass-capture-or-kill-wild-animal-damaging-private-property), which prohibits relocating healthy wild animals more than 1 kilometre from where they were found. One-way doors, light deterrents, and sound deterrents ensure animals exit safely before exclusion barriers are installed.
+## Shingles that don't quite match
 
-2. **Biohazard assessment and contaminated material removal**: Inspect the attic for contaminated insulation, nesting materials, and waste accumulation. Test moisture levels and check for fungal growth. Remove all affected insulation using specialized equipment with proper containment to prevent cross-contamination of living spaces.
+I'll be honest about this one, because people are sometimes surprised. If your roof is ten or fifteen years old, the new shingles on the repair won't be a perfect colour match, even if they're the same brand and style. The old ones have faded. It usually blends in within a couple of years, and from the street most people can't pick it out. But if a perfect match matters to you, tell me before we order, and we'll talk about options like taking that whole roof face.
 
-3. **Structural repair of entry points, damaged decking, and compromised roofing components**: Replace rotted deck sections, damaged rafters or sheathing, torn soffits and fascia, and compromised shingles. Restore flashing and sealing at roof edges, vents, chimneys, and wall-interfacing surfaces. This phase addresses both the wildlife damage and any pre-existing vulnerabilities in the roofing system.
+## What it tends to cost
 
-4. **Insulation replacement and attic restoration**: Install new insulation to R-50 or higher, address airflow with adequate ventilation (ridge vents, soffit vents, gable vents), and complete air sealing of gaps and penetrations to prevent condensation. Restorative treatments can help prevent moisture penetration and UV degradation across restored surfaces.
+Every roof is different, so take these as rough ranges:
 
-5. **Preventive reinforcement and final quality inspection**: Install metal mesh screens, wildlife-proof vent covers, and reinforced edges. Conduct final inspection covering structural integrity, waterproofing, sealant quality, and confirmation that all entry points are fully sealed. Document completed projects with photographs for homeowner records and insurance files.
+- **Inspection** of the roof and attic: usually in the $150 to $400 range
+- **A single soffit or fascia entry point repaired and wildlife-proofed:** roughly $350 to $900
+- **A bigger restoration** with entry point repairs, attic sanitation and new insulation: often $3,500 to $8,000
+- **A full roof replacement**, for comparison: typically $8,000 to $18,000, depending on size, pitch and materials
 
-Many roof restoration processes are completed in one day with minimal disruption when damage is localized, though extensive contamination or structural repair may extend the timeline to two to four days.
+What pushes the number up is mostly how much roof deck is rotted, how much of the attic needs cleaning, how steep and high the roof is, and how many separate spots need work. You'll see all of that broken out in the quote. Our repairs come with a warranty, and the quote says in plain words what it covers and for how long, so there's nothing to guess at later.
 
-### Restoration vs. Replacement Cost Analysis
+## Insurance and permits
 
-The decision between restoration and complete replacement depends on damage extent, roof age, and budget. Here is how the options compare for Mississauga homeowners dealing with wildlife damage:
+**Insurance.** Some policies pay for part of the damage, some exclude animal damage completely, and a lot of them land somewhere in between. Call your insurer before the work starts. Whatever they decide, we'll give you dated photos, a written description of what the animal did, and an itemized breakdown of the repair and cleanup. That's what an adjuster asks for.
 
-| Factor                 | Restoration                                           | Full Replacement                                                                            |
-|------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Wildlife Damage Extent | Localized entry points and contamination              | Extensive structural compromise across multiple areas                                       |
-| Typical Cost Range     | $3,500–$8,000 (entry repairs, sanitation, insulation) | $8,000–$18,000 for a complete roof replacement                                              |
-| Timeline               | 2–4 days including sanitation                         | 1–2 weeks; full roof replacements typically take one to two days for the roofing work alone |
-| Property Value Impact  | Maintains value with proper documentation             | Increases value significantly with a complete new roof                                      |
-| Lifespan Extension     | Adds 5–15 years to existing roofing materials         | Full new lifespan (20–25 years for asphalt shingle, longer for metal roofing)               |
+**Permits.** Patching or reshingling a roof generally doesn't need a permit in Mississauga. Changing the roof's framing, height or slope does. The City's [residential building permit guide](https://mississauga.ca/file/COM/Residential_Building_Permit_Guide_PDF.pdf) lays out what needs one. For the wildlife repairs we do, it rarely comes up, but if it does, we'll tell you before we start.
 
-Individual component costs provide further context: a leaky roof requiring minor roof repairs in Mississauga could cost between $150 to $600 per job in the roofing industry, while single soffit or fascia entry repairs run approximately $350–$900. Attic insulation replacement for a typical Mississauga home costs $3,000–$4,000, and rotted deck section repair ranges from $1,200–$3,800. Roof replacement costs in Mississauga range from $8,000 to $18,000, with asphalt shingle roof replacements costing about $4 to $8 per square foot. Roofing costs depend on size, slope, and materials used.
+**Liability.** Whoever works on your roof should carry liability insurance and have WSIB coverage. It's fair to ask to see both.
 
-Roof replacement is better when repairs become frequent, when structural damage spans multiple areas of the roof deck, or when the existing roof has passed its serviceable lifespan. For wildlife damage confined to specific entry points with limited structural compromise, restoration delivers reliable solutions at significantly lower cost. Mississauga roofing costs for restoration represent a fraction of what a full roof replacement demands, making it the practical choice when the underlying roofing system remains sound.
+## Keeping the repair from becoming the next way in
 
-Valid liability insurance and WSIB clearance protect homeowners from damage or injury liabilities-always verify coverage before engaging any roofing company for restoration or replacement work.
+A raccoon that's been using your roof will come back and test it. That's normal. The goal is that it tests the repair, finds steel, and goes somewhere else.
 
-## Common Challenges and Solutions in Mississauga Roof Restoration
+A few things on your side help a lot:
 
-Even with a clear process, wildlife-related roof restoration presents obstacles that Mississauga homeowners should anticipate. Choosing the right roofing company with experience in both structural repair and wildlife exclusion makes the difference between a lasting fix and a recurring problem.
+- **Trim branches** back at least a couple of metres from the roof. A raccoon will happily walk across a branch onto your shingles.
+- **Keep gutters clear,** so water isn't sitting at the roof edge and softening the fascia.
+- **Look up twice a year,** in spring and fall. Check the soffit corners, the vents and the valleys for anything bent, chewed or pulled loose. Binoculars from the lawn work fine.
+- **Swap plastic vents for steel guards** before something tears them off.
+- **Call early.** A raccoon testing a soffit corner is a cheap fix. A raccoon that's been living up there for a season isn't.
 
-### Insurance Claim Complications
+For a sick or injured animal on your property, the City's [Animal Services](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/raccoons/) is the right call. For a healthy one in your roof, that's us.
 
-Many homeowners discover that their insurance policy covers wildlife damage-but only with proper documentation. Insurers require proof of cause (wildlife entry, not wear and tear), detailed damage reports with photographs, contractor estimates specifying remediation steps, and evidence of the biohazard sanitation performed. A thorough roof assessment conducted by a reputable roofing company before work begins creates the documentation foundation that claims adjusters need. Without it, biohazard sanitation costs, insulation replacement, and structural repair may be denied or reduced.
+## Roof questions I get a lot
 
-### Recurring Wildlife Intrusion
+**Can you fix the roof while the raccoon is still up there?**
+No. We get it out first. Sealing an animal inside makes everything worse.
 
-The most frustrating outcome of a roofing job is watching raccoons re-enter through the same area weeks later. This happens when exclusion work is incomplete-when plastic vents replace plastic vents, when gaps at roof-wall junctions are caulked rather than metal-flashed, or when nearby tree branches are left providing easy access. Comprehensive exclusion integrated into the restoration-galvanized mesh, metal vent covers, reinforced fascia, tree trimming recommendations-prevents re-infestation and protects the restoration investment. Most roofing contractors handle the roofing repair but not the exclusion; ensuring your contractor addresses both is essential.
+**Do I need a roofer and a wildlife company?**
+Not with us. We handle the animal, the attic and the roof repair as one job, so nobody's waiting on somebody else.
 
-### Hidden Structural Damage Discovery
+**How do I know if the roof deck is damaged?**
+Often you can't tell from outside. Soft spots when you walk on it, ceiling stains, or daylight through the boards from the attic are the usual signs. We check it when the shingles come off.
 
-Wildlife damage is often worse than it appears from the exterior. A raccoon entry through a soffit may reveal, upon inspection, that roof deck boards are rotted across several sheets, that moisture has wicked into rafters, or that contamination extends well beyond the visible nesting area. Thorough pre-restoration inspection using moisture meters and thermal imaging reduces surprises, but homeowners should maintain transparent communication with their contractor about the possibility of additional repairs. Reputable contractors provide detailed written estimates that outline the scope of work but also flag areas where hidden damage may expand the project-quality craftsmanship requires honest scoping.
+**Will my home insurance cover it?**
+Maybe. It depends on your policy. Call them first, and we'll give you everything they ask for.
 
-Proper roof restoration increases a roof's resistance to severe weather conditions, and addressing these common challenges during the project ensures the restoration holds up through Mississauga's demanding climate cycles.
+## Torn soffit or chewed shingles? Call us before the next rain
 
-## Conclusion and Next Steps
-
-Professional roof restoration addresses wildlife damage comprehensively-repairing structural vulnerabilities, eliminating biohazard contamination, and installing exclusion systems that prevent recurrence. For Mississauga homeowners, this approach preserves property value, protects indoor air quality, and extends the functional life of an existing roof without the cost of complete replacement. Restoration also reduces the amount of roofing material that ends up in landfills, making it the more sustainable choice when damage is localized.
-
-Take these steps now:
-
-1. **Schedule a professional roof inspection** with a qualified roofing company experienced in wildlife damage assessment-look for exceptional customer service, documented experience with Mississauga roofing services, and familiarity with local wildlife exclusion requirements
-
-2. **Document all visible damage** with dated photographs for insurance purposes before any repair work begins
-
-3. **Avoid entering contaminated attic spaces** without proper PPE-leave biohazard assessment and cleanup to professionals equipped for safe handling
-
-Beyond the immediate restoration, consider ongoing wildlife monitoring during spring nesting season, seasonal roof maintenance inspections in spring and fall, and attic air quality testing if contamination was present for an extended period. [Mississauga Animal Services](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/raccoons/) (905-896-5858) handles sick, injured, or orphaned wildlife-for active healthy animals in your roof, engage a licensed wildlife removal company that follows Ontario's legal exclusion protocols.
-
-## Additional Resources
-
-* [**Mississauga Residential Building Permit Guide**](https://mississauga.ca/file/COM/Residential_Building_Permit_Guide_PDF.pdf): The City of Mississauga requires building permits for structural roof work including extending or altering roof height and slope. Re-shingling alone typically does not require a permit. Permit fees for roof work generally fall in the $150–$300 range. Required documents include roof framing plans, ventilation layout, and structural member specifications.
-
-* **Insurance claim documentation checklist**: Before-and-after photographs, species identification and entry point documentation, structural damage report with moisture readings, contractor estimates with itemized remediation steps, biohazard sanitation records, and final inspection reports.
-
-* **Seasonal maintenance schedule**: Inspect soffits, fascia, and vent covers in mid-spring and fall. Clear gutters before winter to prevent ice damming. Check shingles, flashing, and vents after major storms for storm damage. Monitor for new wildlife activity at previously restored areas.
-
-* **Emergency contact protocols**: For sick or injured wildlife during restoration, contact [Mississauga Animal Services](https://www.mississauga.ca/services-and-programs/animals-and-pets/wildlife-in-mississauga/raccoons/) at 905-896-5858. For active wildlife intrusion requiring humane exclusion, call Greater Wildlife Control. Our work complies with Ontario's Fish and Wildlife Conservation Act. Roofing emergencies involving active roof leak or structural failure should be directed to a contractor offering emergency roof repairs and exceptional roofing services in Mississauga.
+If you've spotted a ripped soffit, a missing vent or shingles that look chewed or pulled, call Greater Wildlife Control. We'll check that nothing's still living up there, show you photos of what we find, and fix it so the next raccoon gets nowhere.
