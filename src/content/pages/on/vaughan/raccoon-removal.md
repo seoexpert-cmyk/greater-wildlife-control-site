@@ -84,7 +84,7 @@ Professionals systematically map every one of these vulnerabilities during inspe
 
 ### When to Call an Expert Immediately
 
-Contact a licensed wildlife removal company without delay if:
+Call Greater Wildlife Control right away if:
 
 * A raccoon is inside your living spaces or behaving aggressively toward pets or children
 
@@ -290,7 +290,7 @@ Related topics worth exploring include squirrel and skunk removal in Vaughan (bo
 
 **Can I stay in my home during raccoon removal and attic sanitation?** Yes. Raccoon eviction and exclusion work happens on the roof and in the attic. During biohazard sanitation, technicians isolate the work area and protect HVAC systems to prevent cross-contamination of living spaces.
 
-**What should I do tonight if I'm hearing raccoons in the attic right now?** Do not attempt to confront or trap the raccoon. Keep pets and children away from the attic. Note the time and location of sounds. Contact a licensed wildlife removal company in the morning for a same-day or next-day inspection. Avoid sealing any openings until a technician confirms whether babies are present.
+**What should I do tonight if I'm hearing raccoons in the attic right now?** Do not attempt to confront or trap the raccoon. Keep pets and children away from the attic. Note the time and location of sounds. Call Greater Wildlife Control in the morning for a same-day or next-day inspection. Avoid sealing any openings until a technician confirms whether babies are present.
 
 **Will my home insurance cover raccoon damage or professional removal?** Most Ontario homeowner policies exclude the cost of pest control and wildlife removal itself. However, some policies cover resulting property damage such as destroyed insulation, water damage from compromised roofing, or electrical wiring repairs. Check with your insurer before filing a claim.
 

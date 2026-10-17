@@ -202,4 +202,4 @@ This short section provides helpful references for deeper learning or municipal 
 
 * For species-specific biology, [Hinterland Who's Who](https://www.hww.ca/wildlife/mammals/striped-skunk/) maintains an excellent factsheet on the striped skunk covering behaviour, range, and conservation status across Canada.
 
-For site-specific advice tailored to your property's unique layout, soil conditions, and wildlife behaviour patterns, reach out directly to a professional and trusted partner in Oakville rather than relying solely on generic online tips. An experienced team from Greater Wildlife Control can identify entry points and vulnerabilities that no article or video tutorial can capture remotely.
+For site-specific advice tailored to your property's unique layout, soil conditions, and wildlife behaviour patterns, give us a call rather than relying on generic online tips. An experienced team from Greater Wildlife Control can identify entry points and vulnerabilities that no article or video tutorial can capture remotely.
