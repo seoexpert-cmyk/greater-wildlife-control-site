@@ -1,195 +1,129 @@
 ---
-title: "Bird Removal from Vents & Exhausts in Oakville, ON"
+title: "Bird Removal from Vents & Exhausts in Oakville, ON: Dryer Ducts, Fans and Furnace Pipes"
 meta_title: "Bird Removal in Oakville, ON"
-meta_description: "Birds nesting in your Oakville dryer, bathroom or kitchen vents? Greater Wildlife Control clears nests safely and installs vent guards."
+meta_description: "Starlings in the dryer duct or sparrows in a furnace pipe? How we handle bird removal from vents in Oakville, clean the duct and fit guards that hold up."
 path: "/on/oakville/bird-removal"
 source: "Surfer 16770330"
 ---
 
-## Introduction
+A surprising number of our spring calls come in after the furnace repair tech has already been and gone. The furnace kept shutting itself off on chilly April mornings. The tech checked the burner, the igniter and the sensors, found nothing wrong, then walked around the side of the house and spotted straw sticking out of one of the white plastic pipes. A bird had decided the furnace intake was a fine place to raise a family.
 
-Professional bird removal from vents and exhausts in Oakville is a specialized service that protects your home from fire hazards, carbon monoxide risks, and indoor air contamination caused by birds nesting inside ventilation systems. Birds nesting in vents is a common household issue across Oakville's residential neighbourhoods, and the problem demands humane, expert intervention rather than improvised fixes. Greater Wildlife Control provides dedicated, humane bird removal services designed specifically for the vent and exhaust systems found in Oakville homes.
+That's the kind of bird removal in Oakville we do most: small birds in the openings on the outside of a house. Dryer vents, bathroom fans, kitchen range hoods, and the intake and exhaust pipes on high-efficiency furnaces and water heaters. The jobs are usually small. But some of those openings carry exhaust gases out of your home, and some of the birds that use them are protected by law, so the order you do things in matters.
 
-This article covers residential and light-commercial vent and exhaust bird issues - including dryer vents, bathroom fans, kitchen exhausts, and furnace exhaust terminations. It does not address general pest control, pigeon deterrents on commercial rooftops, or DIY bird trapping methods. The target audience is Oakville homeowners, landlords, and property managers who have noticed scratching sounds, foul odours, or reduced airflow from their vents and want to understand what's happening and how to resolve it safely.
+Here's how I'd walk you through it if we were standing on the side lawn looking at your vents: which birds move in, why each kind of vent is its own problem, what you're allowed to touch and when, how we clear it out, and what stops the same pair from coming back next spring.
 
-The safest and most effective way to deal with birds in vents is to hire a humane wildlife removal specialist who will evict the birds without harm, clean and sanitize the affected ducts, and then bird-proof the vent to prevent recurrence.
+## The birds that go for vents
 
-By the time you finish reading, you will understand:
+**European starlings** are the ones I find most. They're glossy, speckled, loud, and they nest in holes. A dryer hood or bathroom vent looks a lot like the tree cavity a starling would use in the woods, only drier. They pack the duct with grass and straw and come back to the same opening every year if it's still open.
 
-* Why birds in vents and exhausts pose serious fire, health, and safety risks
+**House sparrows** are smaller and slip through gaps you'd think were too tight. They like a backdraft flap that's cracked or stuck partway open, and the gap where a vent pipe goes through the siding.
 
-* How humane, professional bird removal from vents works step by step
+**Pigeons** are too big for a standard 4-inch dryer hood, but they'll nest under a big exhaust hood, on a ledge right next to a vent, or in a soffit beside one. Their droppings pile up fast and they smell.
 
-* What typical timelines and cost factors look like in Oakville
+Robins and other native birds sometimes build on a vent hood or a light fixture beside it, which brings in a different set of rules. More on that below.
 
-* What to expect during a professional visit, from inspection to completion
+## Why every vent is its own problem
 
-* Long-term prevention steps that keep vents clear for years
+### The dryer vent
 
-## Understanding Bird Infestations in Vents and Exhausts
+This is the one with the fire risk. Nesting material packed against a duct full of lint is about as good a fire starter as you could build, and the dryer runs hotter the harder it has to push. Signs to watch for: towels coming out damp at the end of a cycle, a hot or scorched smell in the laundry room, straw or feathers hanging out of the hood, and fluttering behind the wall when the dryer's off.
 
-A bird infestation in a vent or exhaust means that one or more birds have entered a mechanical ventilation opening and established a nest inside the duct, hood, or cap. The obstruction typically consists of twigs, straw, dried grass, feathers, droppings, and sometimes live adults, nestlings, or eggs - all of which block airflow and contaminate the system. Bird nesting in exhaust systems poses fire hazards and health risks that compound the longer the problem goes unaddressed.
+A lot of homes in Glen Abbey and River Oaks have the laundry on the second floor, and the dryer vents up through the roof instead of out a wall. Those are harder to spot, because you can't see the cap from the yard.
 
-Oakville's neighbourhoods offer ideal conditions for vent-nesting birds. Residential streets lined with mature trees provide abundant food and perching sites, while the proximity to Lake Ontario moderates temperatures, extending the active season. Vents and exhausts attract birds because they offer sheltered cavities that mimic natural nesting holes - warm air from dryers and furnaces makes these openings especially appealing during cooler spring nights when birds are selecting nest sites.
+I remember one of those in Glen Abbey. The owner kept hearing tapping and scratching in the ceiling over the laundry closet, mostly in the morning, and the dryer had gotten slow enough that she'd started hanging things to dry. Up on the roof, the flap on the dryer cap was propped open by a solid plug of grass and lint, and a pair of sparrows were going in and out under it. We waited out that brood, then cleared the whole run from the roof down to the back of the dryer. It came out in handfuls. The old cap got swapped for a metal one with a guard spaced wide enough for lint to blow through. <!-- generic anecdote: confirm or replace with a real job -->
 
-The relevance to homeowners (and business owners) is immediate: birds build nests using twigs, straw, and feathers that create fire hazards in vents, especially when combined with lint in dryer ducts. A blocked furnace exhaust can force carbon monoxide back into living spaces. And accumulated droppings, nesting debris, and mites pose health risks that degrade indoor air quality throughout the home.
+### Bathroom fans and kitchen range hoods
 
-### Common Bird Species Nesting in Oakville Vents
+Most of these have a light plastic flap that's supposed to swing shut when the fan's off. After a few years they crack, warp or stick, and a bird walks right in. Behind that is a nice enclosed duct.
 
-Three species account for the majority of vent infestations in Oakville. Understanding which bird you're dealing with shapes the removal approach, the timeline, and the legal considerations.
+With a bathroom fan, the giveaway is a mirror that stays fogged long after a shower, and eventually mildew on the ceiling, because the moist air can't get out. With a range hood it's cooking smells that hang around, a fan that sounds strained, and sometimes bits of debris coming down the wrong way.
 
-**European starlings** are the most frequent culprits. These non-native cavity nesters actively seek man-made openings in residential structures, and they favour dryer vents and bathroom exhausts because the openings closely resemble the tree cavities they evolved to exploit. Starlings build bulky nests of straw and dry grass, and they tend to reuse the same site year after year if access remains open.
+That last one surprised a homeowner in Kerr Village. Her 1950s house had a range hood vented straight out through the brick, and she kept finding bits of dried grass and the odd small feather on the stovetop in the morning. She assumed something was blowing in through a window. The flap on the outside hood had snapped off completely, starlings had built about a foot back into the duct, and loose bits were working their way down to the hood whenever the wind gusted. We pulled the nest once the young had left, cleaned and disinfected the duct, and fitted a metal hood with a working damper and a guard. <!-- generic anecdote: confirm or replace with a real job -->
 
-**House sparrows** are smaller birds that can squeeze through surprisingly narrow gaps. They commonly exploit broken backdraft dampers or gaps around sidewall exhaust terminations. Because house sparrows are an introduced species in Canada, their nests can generally be removed with fewer regulatory restrictions - but accurate species identification is still essential before any work begins.
+### Furnace and water heater pipes
 
-**Pigeons** (rock doves) are less likely to enter standard 4-inch vent openings, but they frequently nest under oversized exhaust hoods, inside soffits near vent penetrations, or on ledges adjacent to intake/exhaust terminations. Their droppings accumulate quickly and produce strong odours.
+This is the one I worry about. High-efficiency furnaces and water heaters vent through a pair of plastic pipes on a side wall, one pulling air in and one pushing exhaust out. You'll see them on most homes built in the last twenty or thirty years, from Joshua Creek and Iroquois Ridge up to the new streets in Palermo and the rest of north Oakville. Some come with a small screen or guard, and plenty have lost it.
 
-Each species exploits specific structural vulnerabilities: missing vent covers, damaged louvers, gaps around exhaust terminations, and deteriorated siding or flashing. Professionals inspect and identify species before removing nests, because active nests with eggs or chicks require special handling under wildlife laws. The [Migratory Birds Convention Act](https://laws-lois.justice.gc.ca/eng/acts/m-7.01/) protects many songbird species in Canada, making it illegal to disturb active nests of protected species without authorization.
+A nest in the intake usually just makes the furnace lock out and stop. A nest in the exhaust is worse, because the combustion gases, including carbon monoxide, have nowhere to go.
 
-### Seasonal Nesting Habits and Activity Patterns
+If you think a furnace or water heater pipe is blocked:
 
-In Southern Ontario, most migratory bird species begin nest-site selection and building in early March. Egg-laying ramps up from mid-March through April, and active nesting - with eggs and dependent chicks - continues through July, with fledging often stretching into  [late July or early August](https://www.canada.ca/en/environment-climate-change/services/avoiding-harm-migratory-birds/general-nesting-periods/overview.html). Peak nesting intensity in the Oakville area falls between mid-April and June.
+1. Shut the appliance off.
+2. If a CO alarm has gone off, or anyone has a headache or feels dizzy, get everyone outside and call 911.
+3. Don't go poking into the pipe with a stick or a coat hanger. You can push the nest further in or crack the fitting.
+4. Call us to remove the nest, and have your heating contractor check the appliance before it goes back on.
 
-Signs differ by season. In early spring, homeowners typically hear material shuffling, scratching, and chirping as birds build nests. By late spring and early summer, louder vocalizations indicate hungry nestlings. Late-summer complaints more often involve foul odours, insect activity from decomposing nest material, and visible mites - all signs of an old or abandoned nest.
+And if you don't have a carbon monoxide alarm on every floor, that's the cheapest fix in this whole article.
 
-Timing matters enormously for humane removal. Natural species may require waiting periods for safe removal until chicks fledge. Attempting eviction while dependent nestlings are inside can trap them, leading to suffering and legal complications. Professional bird removal activities follow strict regulations due to wildlife protections, and experienced technicians schedule work around fledging windows to ensure compliance and humane results.
+## What the law says about nests
 
-With nesting season mapped out, the next step is understanding which specific vent types in your home are most vulnerable - and why each one carries distinct risks.
+Robins, swallows and most of our other native birds fall under the federal [Migratory Birds Convention Act](https://laws-lois.justice.gc.ca/eng/acts/m-7.01/). While a nest holds eggs or young birds, it's off limits. Ontario's Fish and Wildlife Conservation Act layers its own protection on top for wild birds.
 
-## High-Risk Vents and Exhausts in Oakville Homes
+Starlings, house sparrows and pigeons are introduced species, so the federal act doesn't cover them. That gives us a lot more room with a starling nest in a dryer vent than with a robin nest on a light. Even so, I'm not going to pull out a duct full of chicks just because I legally could. We work around the brood so nothing's left to die in your wall.
 
-Oakville's housing stock - particularly homes built between the 1980s and 2010s with sidewall vinyl vent caps - presents a higher risk profile for bird intrusion. Many of these caps rely on lightweight plastic dampers that degrade over time, leaving open cavities that birds quickly discover. Each vent type carries its own hazards when obstructed.
+Rules of thumb I'd go by:
 
-### Dryer Vents
+- Not sure what bird it is? Take a photo from a distance and send it to us before touching anything.
+- Eggs or chicks? Leave it until we've had a look.
+- Remember the season. In southern Ontario, nest building can start in March, and the federal government's [general nesting periods](https://www.canada.ca/en/environment-climate-change/services/avoiding-harm-migratory-birds/general-nesting-periods/overview.html) run well into summer, with young still leaving nests in late July or early August. Mid-April through June is the busiest stretch around here.
 
-Birds frequently build nests in dryer vents and bathroom exhausts, but dryer vents are the highest-risk target. The warm, lint-lined interior of a dryer duct is an irresistible nesting site, particularly for starlings that begin scouting in early March.
+You can often tell the stage by ear. Shuffling and scratching in early spring is building. Loud, constant peeping is hungry chicks. A bad smell and tiny crawling mites in late summer usually means an old nest the birds have left behind.
 
-Warning signs specific to dryer vents include clothes taking noticeably longer to dry, a burning or musty smell during dryer operation, visible nesting material poking out of the exterior hood, and fluttering or scratching sounds when the dryer is off. Clearing nesting materials can reduce risks of lint buildup in dryer vents, but the underlying problem - an unprotected opening - must also be addressed.
+## Bird removal in Oakville, from the first look to the last screw
 
-The fire hazard here is severe. Dry nesting material mixed with accumulated lint creates a highly combustible blockage. The dryer must work harder against restricted airflow, causing overheating that can ignite the debris. This combination also drives up energy costs and shortens appliance lifespan.
+1. **Photos and questions.** Where's the vent, what's it connected to, and what have you noticed? A couple of pictures of the outside hood tell us a lot.
+2. **The inspection.** We look at every vent on the outside of the house, not only the one you called about, since birds that find one weak cap usually find two. A small camera on a cable shows us how far back the nest goes and whether there are eggs or young.
+3. **Timing.** If the nest is active, we work out whether to wait for the young to fly or whether the nest can safely come out now.
+4. **Getting the birds out.** On some vents we can fit a one-way flap so the adults leave and can't come back. If chicks are inside and can't be waited out, we'll take the duct apart at the nearest joint and get them out properly instead of dragging them out with a hook.
+5. **Clearing the whole run.** Rotary brushes and a HEPA vacuum, all the way back to the dryer, fan or hood. The part you can see from outside is usually the smallest part of the nest.
+6. **Cleaning.** Nesting material is full of droppings and mites. We disinfect the duct, and if a section of duct or a cap is too far gone, it gets replaced.
+7. **An airflow check,** so we know the vent is moving air the way it should.
+8. **The guard.** Last, we fit a cover that suits that particular vent.
 
-### Bathroom and Kitchen Exhausts
+A single vent usually takes 45 minutes to an hour. Several vents, or a long duct run, take longer.
 
-Bathroom and kitchen exhaust hoods are common entry points because their backdraft dampers are often flimsy plastic flaps that break or stick open after a few years of use. Once a bird pushes past a failed damper, the duct behind it provides a protected, enclosed nesting cavity.
+## Covers that keep birds out without causing new problems
 
-Symptoms include gurgling or flapping noises when fans run, debris falling from the exterior hood, and reduced airflow that leaves lingering humidity or cooking odours indoors. In bathrooms, a blocked exhaust traps moisture that leads to condensation on ceilings, mould growth behind walls, and eventual structural damage - all of which compromise indoor air quality.
+The wrong cover can be worse than none. Put fine mesh over a dryer vent and it clogs with lint within weeks, which brings back the fire risk you were trying to fix. A dryer needs a guard with openings big enough for lint to pass and small enough to stop a sparrow.
 
-### Furnace and Combustion Exhausts
+For bathroom fans and range hoods, a metal hood with a built-in guard and a damper that actually closes does the job. For furnace and water heater pipes, we use guards made for that termination, so the appliance still gets the airflow and clearances its manufacturer calls for. Ontario's building code also expects exhaust screens to resist corrosion and come off without special tools, so they can be cleaned.
 
-Mid- and high-efficiency furnace exhaust and intake terminations on sidewalls can be invaded when factory bird-guards are missing or damaged. This is the most dangerous scenario. A nest or carcass blocking a furnace exhaust can cause combustion gases, including carbon monoxide, to back up into the living space - a life-threatening safety concern.
+The white plastic louvred caps that came on a lot of 1980s to 2000s homes go chalky and brittle after enough summers in the sun. Once a louvre snaps, the bird has a door. We swap those for metal.
 
-Any suspected obstruction in a furnace or water-heater exhaust demands urgent professional attention. This is not a problem to investigate with DIY poking or disassembly. Technicians ensure vents are clear to prevent airflow blockages and fire hazards, and they carry the equipment and experience to work safely around combustion appliance venting.
+While we're up there, we also look at what's around the vent. Gaps between the pipe and the siding, rotten trim around the opening and loose siding panels all get sealed or repaired, because mice, bats and squirrels use the same gaps.
 
-Each of these vent types demands a tailored, expert approach. The next section details exactly how professional, humane bird removal addresses them.
+## The same vent, every spring
 
-## How Humane Bird Removal from Vents Works
+If you've had birds in the same vent two or three years running, somebody pulled the nest and didn't put a guard on. Starlings are loyal to a good nest hole. They'll return to it the next spring if it's open.
 
-Greater Wildlife Control follows a standardized, humane methodology for every vent and exhaust bird removal job in Oakville. The process is built on three pillars: accurate diagnosis, non-lethal eviction, and structural bird-proofing combined with thorough sanitation. Professional services ensure safe removal of birds from homes while keeping animals, occupants, and infrastructure protected.
+The other repeat problem is a do-it-yourself pull. You reach in, get the handful near the opening and call it done, but the rest is still packed back in the duct with droppings and maybe a dead chick. The smell keeps coming back and the airflow never recovers. That's when you need the full run brushed and vacuumed.
 
-### Initial Inspection and Risk Assessment
+And if you can hear birds in a wall but can't find a nest anywhere, don't open the drywall yet. Sound travels along ductwork, so a nest at an outside cap can sound like it's right behind your headboard. We trace the duct from the inside grille to the outside, and the camera usually finds it without cutting into anything.
 
-The process begins with a complete inspection of both the interior and exterior of the home. Technicians listen for chicks, examine every accessible vent termination from the outside, and use inspection cameras inside ducts to locate nests, eggs, or trapped birds. They identify the species involved, the exact nest location, and the number of vents affected.
+## When to check your vents
 
-At the same time, they check for structural vulnerabilities - broken caps, missing screens, gaps in siding around vent penetrations - that allowed entry in the first place. They also assess fire, moisture, and carbon monoxide risks to determine whether immediate same-day action is necessary or whether a scheduled visit within 24 to 36 hours is appropriate.
+Twice a year does it. Once in early March, before nest building starts, and once in late August, after the young have left. From the ground, look for caps that are cracked, flaps that hang open on a calm day, straw or feathers poking out, and birds flying back to the same spot on the wall. We'll handle anything you can't see safely from the lawn, like rooftop caps or second-storey hoods.
 
-This thorough assessment is what separates professional work from a quick DIY attempt. Professionals inspect and identify species before removing nests, which is critical because the legal and practical approach differs depending on what's living inside the vent.
+Getting the guards on in late winter is the cheapest way to deal with all of this. Nothing's nesting yet, nothing needs waiting out, and when the starlings come looking in spring the door's already shut.
 
-### Humane Eviction and Nest Removal
+## Cost and how fast we can come
 
-Humane eviction techniques for vents include one-way doors that allow birds to exit but prevent re-entry, timed fan operation coordinated with eviction devices, and careful manual extraction of loose nesting material once the birds have departed.
+For a single vent with nest removal, duct cleaning and a bird-proof cover, Oakville jobs usually land somewhere around $220 to $480. Height, how hard the cap is to reach and how much mess is inside the duct move it within that range. A suspected blocked furnace exhaust gets bumped to the front of the line. Otherwise we can usually be out within a day or two.
 
-The approach changes significantly when active nestlings are present. If the species is protected under the Migratory Birds Convention Act, technicians may need to wait until young birds are feathered and mobile enough to leave on their own. For non-protected species like European starlings and house sparrows, removal can proceed more flexibly - but the goal is always to minimize harm. Technicians may need to dismantle ducts to retrieve trapped chicks safely when standard eviction methods cannot reach them.
+## Quick questions about birds in vents
 
-Professional methods avoid suffocating birds inside the system, avoid pushing nests deeper into the ductwork, and ensure that no dependent young are abandoned. This humane, methodical approach produces lasting results rather than creating a worse problem.
+**Can I put a screen on the dryer vent myself?**
+You can, but get the right one. Window screen or fine hardware cloth over a dryer outlet traps lint and creates the fire hazard you were trying to avoid.
 
-### Biohazard Cleaning and Sanitation
+**Is it OK to run the dryer while there's a nest in the vent?**
+I wouldn't. The airflow's restricted, the dryer runs hot, and the nest and lint are right there in the duct. Hang things to dry for a few days until it's cleared.
 
-Bird nests and droppings can introduce bacteria and parasites into homes, making post-removal sanitation a non-negotiable step. Droppings carry pathogens including Salmonella and fungal spores that cause histoplasmosis. Feather dust and bird mites can enter indoor air streams through the ventilation system, triggering respiratory issues and allergic reactions.
+**Will the birds hurt my family?**
+The birds won't. What they leave behind can. Dried droppings and nest debris can carry *Salmonella* and the fungal spores behind histoplasmosis, and bird mites can wander inside through the vent once the nest is abandoned. That's why we clean and disinfect the duct instead of just yanking out the nest.
 
-Technicians clean the affected ducts using HEPA-filtered vacuums, mechanical brushing tools, and targeted disinfectants safe for HVAC components. Professionals use disinfectants to sanitize areas affected by bird droppings and debris, and in severe cases, badly contaminated duct segments or caps may need to be replaced entirely.
+**What if there's a dead bird in there?**
+You'll smell it within a few days. We'll get it out through the smallest opening we can, along with the nest, and treat the duct so the odour doesn't linger.
 
-The goal is not just to pull out the obvious nest - it's to restore full airflow and improve indoor air quality by eliminating every trace of contamination. Airflow is verified with appropriate testing to confirm the system is functioning as designed.
+## Seeing straw at a vent? Send us a photo
 
-With the vent clean and clear, the final step is making sure birds can never get back in.
-
-## Long-Term Bird-Proofing and Vent Upgrades
-
-Removal alone is temporary. Oakville's bird populations will quickly re-occupy unprotected vents - often within days during peak nesting season. Lasting protection requires structural bird-proofing tailored to each vent type and the specific vulnerabilities of your home.
-
-### Choosing the Right Vent Covers and Screens
-
-Not all vent covers are created equal, and the wrong choice can create new problems. Heavy-duty vent screening prevents birds from re-entering after removal, but the screening must be appropriate for the vent type. A dryer vent, for example, cannot use fine mesh because it will trap lint and increase fire risk. Proper exclusion methods include installing animal-proof vent covers designed with openings large enough for lint to pass through but small enough to block birds.
-
-For bathroom and kitchen exhausts, code-compliant metal hoods with integrated critter guards and functioning backdraft dampers provide reliable protection. Furnace exhaust and intake terminations require factory-specified guards that maintain the precise airflow and clearances the appliance manufacturer requires.
-
-Under the Ontario Building Code (2024), Section 9.32.3.13, outdoor intake and exhaust openings must be fitted with screens or grilles that are corrosion-resistant and easily removable without special tools. Backdraft dampers are required on exhaust outlets, and the net free area of any protective screen must meet the duct's required cross-sectional area. Bird guards can be installed to prevent future infestations while still meeting these code requirements.
-
-### Addressing Structural Vulnerabilities Around Vents
-
-Beyond the vent cover itself, technicians examine and repair the surrounding structure. Typical weaknesses in Oakville homes include gaps between vent pipes and siding, rotted trim boards around vent penetrations, and loose vinyl or aluminum siding panels that leave openings large enough for birds to exploit.
-
-Professionals seal these gaps with exterior-grade sealant, repair or replace rotten backer boards, and correct improperly installed vent terminations. This work also helps deter other wildlife - mice, bats, and squirrels - from exploiting the same openings to enter your home.
-
-### Maintenance Plans and Seasonal Inspections
-
-Regular inspection may be necessary for locations with recurring bird nesting issues. A simple annual or bi-annual check of vent covers - ideally in early March (before nesting begins) and late August (after fledging is complete) - catches problems before they escalate.
-
-Homeowners can safely perform ground-level visual inspections, looking for loose or damaged vent caps, visible nesting material, or birds flying repeatedly to the same spot on the exterior wall. For higher or harder-to-reach vents, Greater Wildlife Control can provide a professional inspection as part of a maintenance visit.
-
-Scheduling a preventative visit in late winter is one of the most effective steps Oakville homeowners can take. Securing vents ahead of peak nesting activity avoids the complications, costs, and legal constraints that come with removing an active nest. Prevention protects safety, preserves indoor air quality, and reduces long-term repair costs.
-
-## Common Homeowner Challenges and How Pros Solve Them
-
-Many Oakville homeowners first notice bird issues only after clear problems arise - strange sounds, persistent odours, or appliances that won't perform. This section addresses those real-world situations and explains how professional experience resolves them efficiently.
-
-### "I Hear Birds in the Wall but Can't See Any Nest"
-
-Sounds can travel from vent ducts into wall cavities, making it extremely difficult to pinpoint where the birds actually are. Homeowners sometimes assume the problem is inside the wall itself and consider cutting into drywall - an expensive and usually unnecessary step.
-
-The professional solution: technicians trace the ductwork from interior vent openings to every exterior termination, using inspection cameras to locate the nest without destructive investigation. Checking multiple exterior vent caps often reveals the actual entry point quickly, saving time and avoiding unnecessary damage.
-
-### Repeated Nesting in the Same Vent Every Spring
-
-This is one of the most common patterns, and it happens when only the nest is removed but no bird-proofing is installed. Starlings in particular have strong site fidelity - they will return to the same vent opening year after year if it remains accessible.
-
-The solution is to install proper bird-resistant vent covers, repair surrounding structural weaknesses, and in some cases adjust exterior landscaping by trimming branches that give birds easy access to the vent area. Bird removal services include cleaning and securing vents, and the securing step is what breaks the cycle of annual re-infestation.
-
-### Lingering Odours and Poor Airflow After DIY Nest Removal - Experts can Improve Indoor Air Quality and Lower Energy Costs
-
-Homeowners who attempt to remove nests themselves often pull out the visible material near the vent opening but leave trapped debris, carcasses, and compacted droppings deeper in the duct. The result: persistent odours, continued airflow restriction, and ongoing contamination.
-
-Professionals perform full-length duct cleaning for affected vents, using rotary brushes and HEPA vacuums to clear the entire run. They verify restored airflow with measurement tools and sanitize the complete duct interior to eliminate odour sources and health risks. The quality of the result depends on thoroughness, and that requires both proper equipment and experience working inside ventilation systems.
-
-If you suspect birds in any of your home's vents, the next steps are straightforward.
-
-## Conclusion and Next Steps
-
-Birds in vents and exhausts represent a serious and compounding problem - fire risk from combustible nesting material, carbon monoxide danger from blocked furnace exhausts, mould from trapped moisture, and biohazard contamination from droppings and mites. For Oakville homeowners, the safest and most effective long-term solution is humane, professional removal combined with proper bird-proofing and vent upgrades.
-
-Here are your immediate next steps:
-
-1. **Visually inspect all exterior vent terminations** on your home from ground level - look for nesting material, damaged caps, or birds entering openings.
-
-2. **Note any symptoms** inside the home: unusual sounds near vents, musty or foul odours, clothes taking longer to dry, or fans that seem to move less air than before.
-
-3. **Do not run a dryer or furnace** if you suspect the exhaust is blocked - the fire and carbon monoxide risks are too significant.
-
-4. **Contact a local humane wildlife removal company** like Greater Wildlife Control to request an inspection. Most Oakville-area services can respond within 24 to 36 hours.
-
-5. **Schedule preventative vent checks** in late winter each year to ensure covers are intact before nesting season begins.
-
-Related topics worth exploring include raccoon or squirrel intrusion into attics, general wildlife-proofing of soffits and rooflines across the GTA (including Mississauga, Brampton, Vaughan, North York, and Toronto), and comprehensive duct cleaning after any wildlife issue to fully restore indoor air quality.
-
-## FAQ: Bird Removal from Vents and Exhausts in Oakville
-
-**How much does professional bird removal from a dryer vent typically cost in Oakville?** Full-service bird removal from a single vent - including nest extraction, duct cleaning, and installation of a bird-proof cap - typically runs between CAD $220 and $480 per vent in the Oakville area. Costs vary based on vent height, accessibility, and the extent of contamination inside the duct.
-
-**How quickly should I act if I suspect birds in my furnace exhaust?** Immediately. A blocked furnace or water-heater exhaust can cause carbon monoxide to back up into your home - a life-threatening safety hazard. Stop using the appliance, ventilate the area, and contact a professional the same day, we’ll answer your questions and have an expert out to you in no time.
-
-**Is it legal to remove a nest with eggs or baby birds in Ontario?** In most cases, it is illegal to remove or disturb active nests of native migratory birds under the  [Migratory Birds Convention Act](https://laws-lois.justice.gc.ca/eng/acts/m-7.01/) and the Ontario Endangered Species Act. Exceptions exist for introduced species like European starlings and house sparrows. A qualified technician will identify the species and ensure removal complies with all applicable regulations.
-
-**Can I just install a vent screen myself to keep birds out?** You can, but there are important caveats. Installing the wrong mesh size over a dryer vent traps lint and creates a fire hazard. Vent covers must also comply with Ontario Building Code requirements for free area, corrosion resistance, and removability. Professional installation ensures the cover actually solves the problem without creating a new one.
-
-**How long does a typical bird removal and vent cleaning appointment take?** A standard single-vent job takes approximately 45 to 60 minutes, covering external cap inspection, nest removal, duct cleaning, sanitization, and installation of a bird-proof cover. Homes with multiple affected vents or complex duct runs should expect the visit to take proportionally longer.
-
-Greater Wildlife Control provides humane, fully insured bird removal and prevention services tailored to Oakville homes - read our reviews or request a visit to get started.
+If a vent on your house has feathers hanging out of it, a flap that won't close, or a furnace that keeps quitting for no clear reason, reach out to Greater Wildlife Control. A quick picture of the outside cap helps. We'll tell you what bird it is, whether it can come out now or needs to wait a few weeks, and which guard will keep that opening clear.
