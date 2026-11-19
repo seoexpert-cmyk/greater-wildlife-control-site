@@ -27,7 +27,8 @@ const DynamicHero = ({
   eyebrow,
   description,
   eyebrowIcon = 'location',
-  imageSrc
+  imageSrc,
+  keepCase = false
 }) => {
   const EyebrowIcon = eyebrowIcon === 'service' ? ShieldCheck : MapPin;
   return <section className="relative isolate flex min-h-[60vh] items-center overflow-hidden sm:min-h-[70vh]">
@@ -45,7 +46,7 @@ const DynamicHero = ({
             {eyebrow}
           </p>}
         <h1 className="pointer-events-auto max-w-3xl text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl">
-          {toTitleCase(title)}
+          {keepCase ? title : toTitleCase(title)}
         </h1>
         {description && <p className="pointer-events-auto mt-5 max-w-2xl text-lg text-stone-200 sm:text-xl">{description}</p>}
       </div>

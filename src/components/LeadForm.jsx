@@ -13,12 +13,8 @@ import {
   ShieldCheck,
 } from 'lucide-react';
 import { humanizeSlug } from '@/lib/formatSlug';
+import { UI, FR_SERVICE_NAMES, FR_CATEGORIES } from '@/lib/i18n';
 
-const STEP_META = [
-  { id: 1, label: 'Service' },
-  { id: 2, label: 'Contact' },
-  { id: 3, label: 'Confirm' },
-];
 
 const stepVariants = {
   enter: (dir) => ({ opacity: 0, x: dir > 0 ? 24 : -24 }),
@@ -26,7 +22,10 @@ const stepVariants = {
   exit: (dir) => ({ opacity: 0, x: dir > 0 ? -24 : 24 }),
 };
 
-const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', areaName = '', className = '' }) => {
+const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', areaName = '', className = '', lang = 'en' }) => {
+  const t = UI[lang] ?? UI.en;
+  const STEP_META = t.steps.map((label, i) => ({ id: i + 1, label }));
+  const serviceLabel = (slug) => (lang === 'fr' && FR_SERVICE_NAMES[slug]) || humanizeSlug(slug);
   const preselected = serviceSlug || serviceRequested || '';
 
   const services = SERVICES.map((s) => ({ service_slug: s.slug, category: s.category }));
@@ -76,7 +75,9 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
     // page didn't supply them (e.g. the generic /services/:slug form).
     const resolvedServiceName =
       serviceName || (selectedService ? humanizeSlug(selectedService.split(' (')[0]) : '');
-    const animalIssue = [resolvedServiceName, areaName].filter(Boolean).join(' - ');
+    const animalIssue = [resolvedServiceName, areaName, lang === 'fr' ? 'French-speaking caller' : '']
+      .filter(Boolean)
+      .join(' - ');
     try {
       await submitLead({
         name: form.name.trim(),
@@ -96,7 +97,7 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
     } catch (err) {
       console.error('lead submit failed', err);
       setStatus('error');
-      setError('Something went wrong. Please try again or call us directly.');
+      setError(t.submitError);
     }
   };
 
@@ -108,9 +109,9 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
         <span className="flex h-14 w-14 items-center justify-center rounded-full bg-emerald-500/15">
           <CheckCircle2 className="h-8 w-8 text-emerald-400" strokeWidth={1.5} />
         </span>
-        <p className="text-xl font-semibold text-white">Success!</p>
+        <p className="text-xl font-semibold text-white">{t.successTitle}</p>
         <p className="max-w-xs text-sm text-stone-300">
-          Thanks! A local technician will call you shortly.
+          {t.successBody}
         </p>
       </div>
     );
@@ -163,8 +164,8 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
               exit="exit"
               transition={{ duration: 0.25, ease: 'easeOut' }}
             >
-              <p className="text-sm font-semibold text-stone-200">What do you need help with?</p>
-              <p className="mt-1 text-xs text-stone-500">Pick one to get started.</p>
+              <p className="text-sm font-semibold text-stone-200">{t.pickTitle}</p>
+              <p className="mt-1 text-xs text-stone-500">{t.pickSub}</p>
               <div className="mt-4 grid grid-cols-2 gap-3">
                 {services.map((s) => (
                   <button
@@ -175,11 +176,11 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                   >
                     {s.category && (
                       <span className="text-[10px] font-semibold uppercase tracking-wide text-emerald-400">
-                        {s.category}
+                        {lang === 'fr' ? FR_CATEGORIES[s.category] ?? s.category : s.category}
                       </span>
                     )}
                     <span className="text-sm font-semibold text-white">
-                      {humanizeSlug(s.service_slug)}
+                      {serviceLabel(s.service_slug)}
                     </span>
                   </button>
                 ))}
@@ -197,33 +198,33 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
               exit="exit"
               transition={{ duration: 0.25, ease: 'easeOut' }}
             >
-              <p className="text-sm font-semibold text-stone-200">Your contact details</p>
-              <p className="mt-1 text-xs text-stone-500">We'll use this to call you back.</p>
+              <p className="text-sm font-semibold text-stone-200">{t.contactTitle}</p>
+              <p className="mt-1 text-xs text-stone-500">{t.contactSub}</p>
 
               <div className="mt-4 flex flex-col gap-4">
                 <div className="flex flex-col gap-2">
                   <label htmlFor="lead-name" className="text-xs font-medium text-stone-400">
-                    Full name
+                    {t.fullName}
                   </label>
                   <div className="relative">
                     <User className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-stone-500" />
                     <input
                       id="lead-name"
                       name="name"
-                      placeholder="Jane Smith"
+                      placeholder={t.namePlaceholder}
                       value={form.name}
                       onChange={onChange}
                       className="h-12 w-full rounded-xl border border-stone-800 bg-stone-900 pl-10 pr-3 text-sm text-white placeholder:text-stone-500 outline-none transition focus:border-emerald-500/60 focus:ring-1 focus:ring-emerald-500/40"
                     />
                   </div>
                   {touched && !nameValid && (
-                    <p className="text-xs text-red-400">Please enter your full name.</p>
+                    <p className="text-xs text-red-400">{t.nameError}</p>
                   )}
                 </div>
 
                 <div className="flex flex-col gap-2">
                   <label htmlFor="lead-phone" className="text-xs font-medium text-stone-400">
-                    Phone number
+                    {t.phone}
                   </label>
                   <div className="relative">
                     <PhoneCall className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-stone-500" />
@@ -237,13 +238,13 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                     />
                   </div>
                   {touched && !phoneValid && (
-                    <p className="text-xs text-red-400">Enter a valid phone number (at least 10 digits).</p>
+                    <p className="text-xs text-red-400">{t.phoneError}</p>
                   )}
                 </div>
 
                 <div className="flex flex-col gap-2">
                   <label htmlFor="lead-email" className="text-xs font-medium text-stone-400">
-                    Email <span className="text-stone-600">(optional)</span>
+                    {t.email} <span className="text-stone-600">{t.optional}</span>
                   </label>
                   <div className="relative">
                     <Mail className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-stone-500" />
@@ -251,14 +252,14 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                       id="lead-email"
                       name="email"
                       type="email"
-                      placeholder="jane@email.com"
+                      placeholder={t.emailPlaceholder}
                       value={form.email}
                       onChange={onChange}
                       className="h-12 w-full rounded-xl border border-stone-800 bg-stone-900 pl-10 pr-3 text-sm text-white placeholder:text-stone-500 outline-none transition focus:border-emerald-500/60 focus:ring-1 focus:ring-emerald-500/40"
                     />
                   </div>
                   {touched && !emailValid && (
-                    <p className="text-xs text-red-400">Enter a valid email address.</p>
+                    <p className="text-xs text-red-400">{t.emailError}</p>
                   )}
                 </div>
               </div>
@@ -270,7 +271,7 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                     onClick={() => goTo(1)}
                     className="flex items-center gap-1 rounded-xl px-3 py-2 text-sm font-medium text-stone-400 transition hover:text-stone-200"
                   >
-                    <ArrowLeft className="h-4 w-4" /> Back
+                    <ArrowLeft className="h-4 w-4" /> {t.back}
                   </button>
                 ) : (
                   <span />
@@ -281,7 +282,7 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                   disabled={touched && !contactValid}
                   className="flex items-center gap-1 rounded-xl bg-emerald-500 px-5 py-3 text-sm font-semibold text-emerald-950 transition active:scale-[0.98] hover:bg-emerald-400 disabled:cursor-not-allowed disabled:opacity-50"
                 >
-                  Continue <ArrowRight className="h-4 w-4" />
+                  {t.continue} <ArrowRight className="h-4 w-4" />
                 </button>
               </div>
             </motion.div>
@@ -297,35 +298,34 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
               exit="exit"
               transition={{ duration: 0.25, ease: 'easeOut' }}
             >
-              <p className="text-sm font-semibold text-stone-200">Confirm your request</p>
-              <p className="mt-1 text-xs text-stone-500">Double-check the details below.</p>
+              <p className="text-sm font-semibold text-stone-200">{t.confirmTitle}</p>
+              <p className="mt-1 text-xs text-stone-500">{t.confirmSub}</p>
 
               <div className="mt-4 flex flex-col gap-3 rounded-xl border border-stone-800 bg-stone-900 p-4 text-sm">
                 <div className="flex items-center justify-between">
-                  <span className="text-stone-500">Service</span>
+                  <span className="text-stone-500">{t.service}</span>
                   <span className="font-medium text-white">
-                    {selectedService ? humanizeSlug(selectedService.split(' (')[0]) : 'General inquiry'}
+                    {selectedService && !selectedService.startsWith('area:') ? serviceLabel(selectedService.split(' (')[0]) : t.general}
                   </span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-stone-500">Name</span>
+                  <span className="text-stone-500">{t.name}</span>
                   <span className="font-medium text-white">{form.name}</span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-stone-500">Phone</span>
+                  <span className="text-stone-500">{t.phoneShort}</span>
                   <span className="font-medium text-white">{form.phone}</span>
                 </div>
                 {form.email && (
                   <div className="flex items-center justify-between">
-                    <span className="text-stone-500">Email</span>
+                    <span className="text-stone-500">{t.email}</span>
                     <span className="font-medium text-white">{form.email}</span>
                   </div>
                 )}
               </div>
 
               <p className="mt-4 flex items-center gap-2 text-xs text-stone-500">
-                <ShieldCheck className="h-3.5 w-3.5 text-emerald-500" /> Your info goes straight to a
-                trained local operator — no spam, ever.
+                <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-emerald-500" /> {t.privacy}
               </p>
 
               {error && <p className="mt-3 text-sm text-red-400">{error}</p>}
@@ -337,7 +337,7 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                   disabled={status === 'submitting'}
                   className="flex items-center gap-1 rounded-xl px-3 py-2 text-sm font-medium text-stone-400 transition hover:text-stone-200 disabled:opacity-50"
                 >
-                  <ArrowLeft className="h-4 w-4" /> Back
+                  <ArrowLeft className="h-4 w-4" /> {t.back}
                 </button>
                 <button
                   type="button"
@@ -347,10 +347,10 @@ const LeadForm = ({ serviceSlug = '', serviceRequested = '', serviceName = '', a
                 >
                   {status === 'submitting' ? (
                     <>
-                      <Loader2 className="h-4 w-4 animate-spin" /> Sending...
+                      <Loader2 className="h-4 w-4 animate-spin" /> {t.sending}
                     </>
                   ) : (
-                    'Get my free quote'
+                    t.submit
                   )}
                 </button>
               </div>

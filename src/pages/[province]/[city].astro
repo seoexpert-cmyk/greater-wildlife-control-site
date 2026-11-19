@@ -7,6 +7,7 @@ import LeadCaptureForm from '@/components/LeadCaptureForm.jsx';
 import { cities, services, childCities, parentHubOf, pageTitle, breadcrumbSchema } from '@/lib/site.js';
 import { provinceLabel } from '@/lib/formatSlug';
 import heroImages from '@/data/heroImages.json';
+import { hasFrench, frPath } from '@/lib/i18n';
 
 export function getStaticPaths() {
   return cities.map((city) => ({ params: { province: city.province, city: city.slug }, props: { city } }));
@@ -25,11 +26,14 @@ const description = isHub
 const title = isHub ? coreTitle : pageTitle(coreTitle);
 const path = `/${city.province}/${city.slug}`;
 const heroImage = heroImages[path];
+const alternates = hasFrench(city)
+  ? [{ hreflang: 'en-CA', href: path }, { hreflang: 'fr-CA', href: frPath(city) }, { hreflang: 'x-default', href: path }]
+  : [];
 const schema = [
   breadcrumbSchema(site, [['Home', '/'], ...(hub ? [[hub.name, `/${hub.province}/${hub.slug}`]] : []), [city.name, path]]),
 ];
 ---
-<Base title={title} description={description} schema={schema} image={heroImage}>
+<Base title={title} description={description} schema={schema} image={heroImage} alternates={alternates}>
   <DynamicHero
     eyebrow={isHub ? 'Regional Hub' : 'Service Area'}
     title={isHub ? `Wildlife Services Across the ${city.name} Area` : `Top-Rated Wildlife Control in ${city.name}, ${prov}`}

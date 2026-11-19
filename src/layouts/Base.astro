@@ -11,9 +11,11 @@ interface Props {
   image?: string;
   schema?: Record<string, unknown>[];
   noindex?: boolean;
-  bare?: boolean;             // no header/footer (not used by any page yet)
+  bare?: boolean;
+  lang?: 'en' | 'fr';
+  alternates?: { hreflang: string; href: string }[];  // hreflang pairs, paths only             // no header/footer (not used by any page yet)
 }
-const { title, description, image = '/default-hero.jpg', schema = [], noindex, bare = false } = Astro.props;
+const { title, description, image = '/default-hero.jpg', schema = [], noindex, bare = false, lang = 'en', alternates = [] } = Astro.props;
 const site = Astro.site!.origin;
 const path = Astro.url.pathname.replace(/\.html$/, '').replace(/\/$/, '') || '/';
 const canonical = site + (path === '/' ? '/' : path);
@@ -42,16 +44,18 @@ const business = {
 };
 ---
 <!doctype html>
-<html lang="en">
+<html lang={lang === 'fr' ? 'fr-CA' : 'en-CA'}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {alternates.map((a) => <link rel="alternate" hreflang={a.hreflang} href={site + a.href} />)}
     {robotsNoindex && <meta name="robots" content="noindex, follow" />}
     <link rel="icon" type="image/png" href="/gwc-logo.png" />
     <meta property="og:type" content="website" />
+    <meta property="og:locale" content={lang === 'fr' ? 'fr_CA' : 'en_CA'} />
     <meta property="og:site_name" content="Greater Wildlife Control" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -65,10 +69,10 @@ const business = {
   <body>
     {bare ? <slot /> : (
       <div class="flex min-h-[100dvh] flex-col bg-stone-50">
-        <SiteHeader client:load />
+        <SiteHeader client:load lang={lang} altHref={alternates.find((a) => a.hreflang !== 'x-default' && !a.hreflang.startsWith(lang))?.href} />
         <main class="flex-1 pb-20 sm:pb-0"><slot /></main>
         <SiteFooter />
-        <MobileStickyBar />
+        <MobileStickyBar lang={lang} />
       </div>
     )}
     <script>

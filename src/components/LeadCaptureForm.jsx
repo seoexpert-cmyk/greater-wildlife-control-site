@@ -16,6 +16,7 @@ const LeadCaptureForm = ({
   serviceName = '',
   areaName = '',
   className = '',
+  lang = 'en',
 }) => (
   <section
     id="lead-capture"
@@ -33,7 +34,7 @@ const LeadCaptureForm = ({
         <p className="mt-2 text-stone-600">{description}</p>
       </div>
       <div className="w-full max-w-md">
-        <LeadForm serviceSlug={serviceSlug} serviceRequested={serviceRequested} serviceName={serviceName} areaName={areaName} />
+        <LeadForm serviceSlug={serviceSlug} serviceRequested={serviceRequested} serviceName={serviceName} areaName={areaName} lang={lang} />
       </div>
     </div>
   </section>

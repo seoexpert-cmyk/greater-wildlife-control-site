@@ -1,3 +1,4 @@
+import { UI } from '@/lib/i18n';
 import React, { useState, useRef, useEffect } from 'react';
 import { Phone, ChevronDown, MapPin, Menu, X } from 'lucide-react';
 
@@ -35,7 +36,8 @@ const PROVINCE_HUBS = [
   { name: 'PEI', code: 'pe', hubs: [['greater-charlottetown', 'Greater Charlottetown Area'], ['greater-summerside', 'Greater Summerside Area']] },
 ];
 
-const SiteHeader = () => {
+const SiteHeader = ({ lang = 'en', altHref = '' }) => {
+  const t = UI[lang] ?? UI.en;
   const [megaOpen, setMegaOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const closeTimer = useRef(null);
@@ -58,7 +60,7 @@ const SiteHeader = () => {
           <img src="/gwc-logo.png" alt="Greater Wildlife Control" className="h-10 w-10 shrink-0 sm:h-12 sm:w-12" />
           <div className="flex min-w-0 flex-col">
             <span className="whitespace-nowrap text-[clamp(1rem,4.8vw,1.125rem)] font-bold tracking-tight text-stone-900 sm:text-lg">Greater Wildlife Control</span>
-            <span className="hidden text-xs text-stone-600 sm:block">Commercial and Residential Services</span>
+            <span className="hidden text-xs text-stone-600 sm:block">{t.tagline}</span>
           </div>
         </a>
 
@@ -71,7 +73,7 @@ const SiteHeader = () => {
               className="flex items-center gap-1.5 py-2 text-sm font-semibold text-stone-700 transition hover:text-emerald-700"
               aria-expanded={megaOpen}
             >
-              Services &amp; Locations
+              {t.servicesAndLocations}
               <ChevronDown className={`h-4 w-4 transition-transform ${megaOpen ? 'rotate-180' : ''}`} />
             </button>
 
@@ -169,6 +171,17 @@ const SiteHeader = () => {
         </nav>
 
         <div className="flex items-center gap-3">
+          {altHref && (
+            <a
+              href={altHref}
+              hrefLang={lang === 'fr' ? 'en-CA' : 'fr-CA'}
+              lang={lang === 'fr' ? 'en' : 'fr'}
+              className="rounded-full border border-stone-300 px-3 py-1.5 text-xs font-bold uppercase tracking-wide text-stone-700 transition hover:border-emerald-600 hover:text-emerald-700"
+              aria-label={t.switchLabel}
+            >
+              {lang === 'fr' ? 'EN' : 'FR'}
+            </a>
+          )}
           <a
             href="tel:18002649416"
             className="hidden items-center gap-2 text-sm font-semibold text-stone-700 transition hover:text-emerald-700 sm:flex"
@@ -180,7 +193,7 @@ const SiteHeader = () => {
             href="#lead-capture"
             className="hidden items-center gap-2 rounded-full bg-emerald-700 sm:flex px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-emerald-800"
           >
-            Get a Quote
+            {t.getQuote}
           </a>
           <button
             type="button"
