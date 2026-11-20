@@ -3,7 +3,7 @@ import Base from '@/layouts/Base.astro';
 import HomeHero from '@/components/HomeHero.jsx';
 import ContentSection from '@/components/ContentSection.jsx';
 import home from '@/data/homepage.json';
-import { services } from '@/lib/site.js';
+import { services, PHONE_DISPLAY, PHONE_TEL } from '@/lib/site.js';
 
 // Same fallback images the Horizons homepage used (hosted by Hostinger;
 // copy them into /public before the Hostinger account is closed).
@@ -12,24 +12,123 @@ const fallbackImages = [
   'https://images.hostinger.com/2ecc9f02-22a1-4767-a119-e4184192ab09.png',
   'https://images.hostinger.com/fa54cae5-3a84-45e9-96ad-91bbfcf0cc9f.png',
 ];
+
+// Page order: image sections from homepage.json with text-only blocks slotted
+// in between. Backgrounds alternate by final position.
+const blocks = [
+  ...home.sections.slice(0, 2).map((data, i) => ({ kind: 'section', data, i })),
+  { kind: 'humane-law' },
+  { kind: 'section', data: home.sections[2], i: 2 },
+  { kind: 'signs' },
+  ...home.sections.slice(3).map((data, j) => ({ kind: 'section', data, i: j + 3 })),
+  { kind: 'response' },
+];
+
+const faqs = [
+  ['Is your wildlife removal humane?', 'Yes. We use humane methods such as one-way doors and live traps, and we never use poison. All work complies with Ontario wildlife laws.'],
+  ['How quickly can you come out?', 'In most of Toronto and the GTA we offer same-day or next-day visits. Call us and we will schedule the earliest available time.'],
+  ['Do you service residential and commercial properties?', 'Yes. We handle homes, condos, rental units, offices, restaurants, warehouses and other commercial buildings.'],
+  ['How do you stop animals from coming back?', 'After removal we seal every entry point and install vent covers, chimney caps and steel mesh where needed to prevent re-entry.'],
+  ['Is it legal to poison or relocate wildlife myself?', 'Poisoning wildlife is illegal in Ontario and can harm pets and non-target animals. Relocation is also regulated, which is why it is best left to a trained team that follows the rules.'],
+  ['Do you repair the damage animals cause?', 'Yes. We repair chewed roofing, soffits and vents, and replace contaminated insulation, so your home is fully restored.'],
+];
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })),
+};
 ---
 <Base
   title="Greater Wildlife Control | Find Animal Removal in Your City"
   description="Greater Wildlife Control provides humane wildlife removal and pest control services in many Canadian provinces. Fast, guaranteed appointments with trained local technicians."
+  schema={[faqSchema]}
 >
   <HomeHero client:load title={home.heroTitle} eyebrow="Trained & Locally Owned" description={home.heroSubtext} />
 
-  {home.sections.map((section, index) => (
-    <ContentSection
-      className={index % 2 === 1 ? 'bg-white' : ''}
-      title={section.title}
-      content={section.content}
-      imageSrc={section.image ?? fallbackImages[index % fallbackImages.length]}
-      imageAlt={section.imageAlt ?? section.title}
-      imageNatural={section.imageFit === 'natural'}
-      reverse={index % 2 === 1}
-    />
-  ))}
+  {blocks.map((b, pos) => {
+    const bg = pos % 2 === 1 ? 'bg-white' : '';
+    if (b.kind === 'section') return (
+      <ContentSection
+        className={bg}
+        title={b.data.title}
+        content={b.data.content}
+        imageSrc={b.data.image ?? fallbackImages[b.i % fallbackImages.length]}
+        imageAlt={b.data.imageAlt ?? b.data.title}
+        imageNatural={b.data.imageFit === 'natural'}
+        reverse={b.i % 2 === 1}
+      />
+    );
+    if (b.kind === 'humane-law') return (
+      <section class={`px-6 py-16 sm:py-20 ${bg}`}>
+        <div class="mx-auto grid max-w-[72rem] gap-10 lg:grid-cols-2 lg:gap-16">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-wide text-emerald-700">Humane &amp; legal</p>
+            <h2 class="mt-2 text-2xl font-bold text-stone-900 sm:text-3xl">Humane Wildlife Removal That Follows Ontario Law</h2>
+            <p class="mt-4 text-stone-600">Humane wildlife removal is about solving the problem without hurting the animal or putting your family at risk. Our team uses non-toxic methods for animal eviction, such as one-way exit doors and live trapping. These methods let unwanted wildlife leave on its own, and then we seal the opening behind it.</p>
+            <p class="mt-4 text-stone-600">Every job complies with Ontario wildlife laws. These laws set out how wildlife can be captured, handled and released, and we follow them on every property we service.</p>
+          </div>
+          <div class="rounded-2xl border border-stone-200 bg-stone-50 p-6 sm:p-8">
+            <h3 class="text-lg font-bold text-stone-900">Why we never use poison</h3>
+            <ul class="mt-4 space-y-3 text-stone-700">
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-emerald-600"></span>Poisoning wildlife is illegal and can cause harm to non-target animals, including pets and birds.</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-emerald-600"></span>A poisoned animal often dies inside a wall or attic, which leaves odours, insects and health risks behind.</li>
+              <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-emerald-600"></span>Poison doesn't fix the entry point, so new animals simply move in.</li>
+            </ul>
+            <p class="mt-5 font-semibold text-stone-900">Humane solutions are safer, legal, and the only way to give you real peace of mind.</p>
+          </div>
+        </div>
+      </section>
+    );
+    if (b.kind === 'signs') return (
+      <section class={`px-6 py-16 sm:py-20 ${bg}`}>
+        <div class="mx-auto max-w-[72rem]">
+          <p class="text-xs font-semibold uppercase tracking-wide text-emerald-700">Know what to look for</p>
+          <h2 class="mt-2 text-2xl font-bold text-stone-900 sm:text-3xl">Signs of Wildlife Activity in Your Home</h2>
+          <p class="mt-4 max-w-3xl text-stone-600">Wildlife looking for shelter will move into attics, walls, chimneys and crawl spaces, especially in fall and winter. The sooner you spot the signs, the less damage there is to repair.</p>
+          <div class="mt-8 grid gap-6 lg:grid-cols-2">
+            <div class="rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
+              <h3 class="text-lg font-bold text-stone-900">Common signs</h3>
+              <ul class="mt-4 space-y-3 text-stone-700">
+                {['Scratching, thumping or chirping in the attic or walls, often at dawn or dusk', 'Droppings or a strong urine smell', 'Chewed vents, soffits, shingles or fascia boards', 'Torn or flattened insulation', 'Disturbed garbage, lawn or garden beds'].map((t) => (
+                  <li class="flex gap-3"><span class="mt-2 h-2 w-2 shrink-0 rounded-full bg-emerald-600"></span>{t}</li>
+                ))}
+              </ul>
+            </div>
+            <div class="rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
+              <h3 class="text-lg font-bold text-stone-900">Why you shouldn't wait</h3>
+              <ul class="mt-4 space-y-3 text-stone-700">
+                <li><strong class="text-stone-900">Health risks:</strong> wildlife droppings can carry bacteria, parasites and diseases that affect people and pets.</li>
+                <li><strong class="text-stone-900">Property damage:</strong> animals chew wiring, tear insulation and let water in, which gets more costly every week.</li>
+                <li><strong class="text-stone-900">More animals:</strong> a single opening can become a nesting site, and young animals make removal harder.</li>
+              </ul>
+            </div>
+          </div>
+          <p class="mt-6 text-stone-600">If you notice any of these signs, call our team. We'll find the source and handle the issue before it grows.</p>
+        </div>
+      </section>
+    );
+    if (b.kind === 'response') return (
+      <section class="bg-emerald-900 px-6 py-16 text-white sm:py-20">
+        <div class="mx-auto grid max-w-[72rem] items-center gap-10 lg:grid-cols-[1.4fr_1fr]">
+          <div>
+            <p class="text-xs font-semibold uppercase tracking-wide text-emerald-300">Fast, local service</p>
+            <h2 class="mt-2 text-2xl font-bold sm:text-3xl">We Respond Quickly, When You Need Us</h2>
+            <p class="mt-4 text-emerald-50">When there's an animal in your home, you want it dealt with today, not next week. Our local technicians respond quickly, with prompt same-day and next-day visits across Toronto and the GTA.</p>
+            <ul class="mt-5 space-y-2 text-emerald-50">
+              <li>&#10003; Call us and speak to a real person who understands wildlife problems</li>
+              <li>&#10003; Send your details and email through our quote form, and we'll reply quickly to schedule a visit</li>
+              <li>&#10003; Get a clear inspection, a clear price and a plan before any work starts</li>
+            </ul>
+            <p class="mt-5 text-emerald-50">Our team brings years of hands-on experience to every job, so you can relax knowing the problem is being handled the right way.</p>
+          </div>
+          <div class="flex flex-col gap-3 sm:flex-row lg:flex-col">
+            <a href="#lead-capture" class="rounded-full bg-white px-6 py-3 text-center font-semibold text-emerald-900 transition hover:bg-emerald-50">Schedule a Visit Today</a>
+            <a href={`tel:${PHONE_TEL}`} class="rounded-full border border-white/60 px-6 py-3 text-center font-semibold text-white transition hover:bg-white/10">Call {PHONE_DISPLAY}</a>
+          </div>
+        </div>
+      </section>
+    );
+  })}
 
   <section class="border-t border-stone-200 bg-white px-6 py-16">
     <div class="mx-auto max-w-[72rem]">
@@ -43,6 +142,23 @@ const fallbackImages = [
             </div>
             <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-emerald-700 transition-all group-hover:gap-2">Learn more &rarr;</span>
           </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="border-t border-stone-200 px-6 py-16">
+    <div class="mx-auto max-w-3xl">
+      <h2 class="text-2xl font-bold text-stone-900 sm:text-3xl">Wildlife Control FAQ</h2>
+      <div class="mt-6 divide-y divide-stone-200 rounded-2xl border border-stone-200 bg-white">
+        {faqs.map(([q, a]) => (
+          <details class="group p-5">
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-semibold text-stone-900">
+              {q}
+              <span class="text-emerald-700 transition group-open:rotate-45">+</span>
+            </summary>
+            <p class="mt-3 text-stone-600">{a}</p>
+          </details>
         ))}
       </div>
     </div>
